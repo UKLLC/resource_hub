@@ -1,0 +1,56 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Resource Hub
+author: UK LLC Operations team
+licenses: The UK LLC Resource Hub and materials are available publicly under open source licenses
+logo: _static/Resource Hub.png
+email: support@ukllc.ac.uk
+
+sphinx:
+  config:
+    extensions:
+      - sphinx_last_updated_by_git
+    html_last_updated_fmt: '%Y-%m-%d %H:%M:%S'
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/ukllc/resource_hub  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  extra_navbar: Visit our <a href="https://github.com/UKLLC/jupyter-book">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  extra_footer: |
+    The UK LLC Guidebook and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+
+parse:
+  myst_enable_extensions:
+    - html_image
+
+# control footer copywrite
+sphinx:
+  config                    :  # key-value pairs to directly over-ride the Sphinx configuration
+    html_show_copyright     : false
+
+
+

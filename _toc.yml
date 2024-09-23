@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+parts:
+  - chapters:
+      - file: docs/summary_and_key_messages.md
+        title: Summary and Key Messages
+        sections:
+          - file: docs/fair_processing_communication_method.md
+            title: Fair Processing Communication Method
+
+  - chapters:
+      - file: notebooks.ipynb
+        title: Jupyter Notebooks
+
+  - chapters:
+      - file: markdown-notebooks.md
+        title: Markdown Notebooks
+
+
