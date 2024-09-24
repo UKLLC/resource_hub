@@ -6,12 +6,7 @@ author: UK LLC Operations team
 licenses: The UK LLC Resource Hub and materials are available publicly under open source licenses
 logo: _static/Resource Hub.png
 email: support@ukllc.ac.uk
-
-sphinx:
-  config:
-    extensions:
-      - sphinx_last_updated_by_git
-    html_last_updated_fmt: '%Y-%m-%d %H:%M:%S'
+copyright: ""
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -38,19 +33,16 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  extra_navbar: Visit our <a href="https://github.com/UKLLC/jupyter-book">GitHub Repository</a>
+  extra_navbar: |
+    Visit our <a href="https://github.com/UKLLC/jupyter-book">GitHub Repository</a>
     <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
   extra_footer: |
-    The UK LLC Guidebook and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+    The UK LLC Resource Hub and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+  # custom_template: _templates  # Comment this line out for now
+  static_path: ['_static']
 
+
+# Enable extensions for MyST markdown
 parse:
   myst_enable_extensions:
     - html_image
-
-# control footer copywrite
-sphinx:
-  config                    :  # key-value pairs to directly over-ride the Sphinx configuration
-    html_show_copyright     : false
-
-
-
