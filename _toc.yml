@@ -19,6 +19,8 @@ parts:
         title: Guidance materials
       - file: content for LPS website.md
         title: Content for LPS website
+      - file: Examples of LPS Communications about UK LLC.md
+        title: Examples of LPS Communications about UK LLC
       - file: Data flow diagrams.md
         title: Data Flow Diagrams
 
