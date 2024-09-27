@@ -1,8 +1,10 @@
 # Key Messages in Active Communications
 
->Last modified: 26 Sep 2024
+>Last modified: 27 Sep 2024
 
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
 This guidance is for Study Managers for re-purposing as appropriate. 
+
 
 ```{dropdown} 🔑 **Key messages that MUST be included in studies active communications**
 
@@ -48,3 +50,4 @@ This guidance is for Study Managers for re-purposing as appropriate.
 | **Statements that restrict the length of the study/collaboration** | ‘Your data will only be kept for x years’.                                                       | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. Longitudinal studies often continue longer than their initial funding periods, and there's limited evidence that the public considers these time limits a meaningful safeguard.                             |
 
 ```
+</div>

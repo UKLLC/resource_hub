@@ -1,6 +1,6 @@
 # Consent and Legal Basis
 
-> Last modified: 26 Sep 2024
+> Last modified: 27 Sep 2024
 
 # 🔑Key issues
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
@@ -36,6 +36,7 @@ AGD or NHS England’s Caldicott Guardian.
 # 📖 This guidance document and other sources of guidance
 <div style="background-color: #f49985; padding: 10px; border-radius: 5px;">
 The HRA provides quite detailed guidance for the IRAS online tool
+
 [HRA and HCRW Approval](https://www.myresearchproject.org.uk/help/hlphraapproval.aspx) which is an integrated 
 application system in that it allows for applying to both REC and CAG from the same form.
 
