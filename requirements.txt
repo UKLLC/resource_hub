@@ -1,7 +1,7 @@
 jupyter-book
 matplotlib
 numpy
-docutils==0.17.1
+docutils>=0.18.1,<0.21
 pandas
 pymysql
 psycopg2-binary
