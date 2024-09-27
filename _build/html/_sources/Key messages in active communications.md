@@ -1,7 +1,8 @@
 # Key Messages in Active Communications
 
->Last modified: 24 Sep 2024
+>Last modified: 26 Sep 2024
 
+This guidance is for Study Managers for re-purposing as appropriate. 
 
 ```{dropdown} 🔑 **Key messages that MUST be included in studies active communications**
 

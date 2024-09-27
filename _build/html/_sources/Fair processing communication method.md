@@ -1,7 +1,7 @@
 # Fair Processing communication method
 
->Last modified: 24 Sep 2024
-
+>Last modified: 26 Sep 2024
+<div style="background-color: #f49985; padding: 10px; border-radius: 5px;">
 Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population 
 Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically 
 or mailed out to all participants which must provide a means to object (studies may choose to seek 
@@ -34,4 +34,4 @@ is a separate need to provide a ‘Privacy Notice’. The ICO has produced guida
 information should be included. The Privacy Notice provides an opportunity to provide very detailed 
 information for those participants (and other stakeholders) who wish to understand this level of 
 detail.
-
+</div>

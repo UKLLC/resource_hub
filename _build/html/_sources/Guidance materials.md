@@ -1,14 +1,14 @@
-# Directory of guidance materials for fair processing for record-linkage 
+# Directory of guidance materials  
 
-> Last modified: 24 Sep 2024
+> Last modified: 26 Sep 2024
 
-**These materials are communications to address the widening research purpose of UK LLC.
+These materials are communications to address the widening research purpose of UK LLC.
 They encompass all data we are currently (in the process of) linking to.
-Please select content appropriately depending on permissions within your study.**
-
-# Guidance and Fair Processing Content 
+Please select content appropriately depending on permissions within your study.
 
 These materials are designed for the public/for lay audience. For publication and distribution as appropriate. 
+
+**Guidance materials for fair processing for record-linkage**
 
 | Media Type              | Title and Link                                                                                                  | Description                                                                                                                   |
 |-------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|

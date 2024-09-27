@@ -1,9 +1,10 @@
 # Introduction
 
->Last modified: 24 Sep 2024
+>Last modified: 26 Sep 2024
 
-Welcome to **UK LLC Resource Hub**, the home of UK LLC’s guidance and fair processing resources.
 
+<div style="background-color: #ffdab9; padding: 10px; border-radius: 5px;">
+Welcome to UK LLC Resource Hub, the home of UK LLC’s guidance and fair processing resources.
 
 This guidance is written for longitudinal study data managers, communications staff and 
 managers/principal investigators. It is designed to be relevant specifically to studies contributing to 
@@ -25,9 +26,12 @@ Statements which are considered to be restrictive (eg, setting a limit to the sc
 study, or a time limit for the study) should be carefully considered against future barriers to 
 potential study activity and public benefit outcomes. Many longitudinal studies have evolved in both 
 scope and duration since they were conceived and first established.
+</div>
+
 
 # Purpose of this Guidance & Limitations
 
+<div style="background-color: #aaf0d1; padding: 10px; border-radius: 5px;">
 This guidance provides a set of pointers which we recommend are followed when designing fair 
 processing communications. We do not provide template text as the language used by a study 
 should be appropriate for your study participants, your context and traditional mechanisms of 
@@ -61,5 +65,7 @@ detailed in study checklist [x].
 
 If it is not possible to consult study-specific PPIE groups, please 
 contact one of the UK LLC team or info@ukllc.ac.uk to discuss.
+</div>
 
+![UK LLC Process Illustration](/_static/UKLLC_Process_Illustration_Secure_Data_AW.jpg)
 

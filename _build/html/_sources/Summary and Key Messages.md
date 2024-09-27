@@ -1,6 +1,8 @@
 # Summary and Key Messages
 
->Last modified: 24 Sep 2024
+>Last modified: 26 Sep 2024
+
+<div style="background-color: #fffaf0; padding: 10px; border-radius: 5px;">
 
 This guidance is intended as a guide based on a synthesis of good practice from the study’s fair 
 processing and insights from negotiations with data owners and regulators. We thank all the study 
@@ -46,4 +48,6 @@ data use and to co-develop fair processing materials.
 Studies using Section 251 support must involve participants and/or the public – including gaining 
 feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is 
 sufficient and co-developing new fair processing – to gain/maintain CAG approval.
- 
+ </div>
+
+ ![UK LLC Process Illustration](/_static/UKLLC_Process_Illustration_Secure_Personalised_Data_AW.png)

@@ -1,11 +1,13 @@
 # Content for Longitudinal Population Studies website
 
-> Last modified: 24 Sep 2024
+> Last modified: 26 Sep 2024
 
 **The following copy is available to feature on LPS websites to explain UK LLC opening up 
 for all public good research and where permissions are in place, linkages to administrative
 data. The final section titled ‘How will this affect you?’ is blank for each LPS to complete 
 with copy relevant to their study and to offer an opt-out.**
+
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
 
 **Update on our partnership with UK Longitudinal Linkage Collaboration**
 
@@ -35,3 +37,4 @@ risks, and understand the social impact of childhood adversity on adult health i
 **How this will affect you?**
 
 **(insert text relevant to your study and offer opt-out)**
+</div>
