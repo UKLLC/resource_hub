@@ -1,3 +1,12 @@
-jupyter-book==0.13.0
-sphinx==4.3.0
-myst-parser==0.15.2
+jupyter-book
+matplotlib
+numpy
+docutils==0.17.1
+pandas
+pymysql
+psycopg2-binary
+sphinx>=5.0
+
+
+
+
