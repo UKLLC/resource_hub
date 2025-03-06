@@ -40,6 +40,7 @@ html:
     The UK LLC Resource Hub and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
   # custom_template: _templates  # Comment this line out for now
   static_path: ['_static']
+  google_analytics_id: G-7K6NTDY6PN
 
 
 # Enable extensions for MyST markdown
