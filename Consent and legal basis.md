@@ -12,7 +12,7 @@ The expectations resulting from the UK’s cumulative case law relating to the h
 
 LPS must establish a legal basis for addressing Duty of Confidentiality. This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
 
-(_static/no_surprises.jpg)
+![No Surprises](_static/no_surprises.jpg)
 
 Common Law Duty of Confidentiality (which has the same status as statute law) applies when a person provides a LPS with information in the expectation that it will be treated in confidence. For a LPS to process Personal Data it is therefore the case that they must make ‘best endeavours’ to set a ‘reasonable expectation’ about this processing. To demonstrate compliance with Common Law Duty of Confidentiality LPS must either:
  i) collect consent
@@ -30,7 +30,7 @@ From a legal perspective, consent is:
 
 * is OFTEN the basis by which the Common Law Duty of Confidentiality is met. In common law, information given under an expectation of privacy (e.g. information from a patient to their doctor), should stay private unless permission to share it is in place. 
 
-[other options](_static/other_options.jpg)
+![other options](_static/other_options.jpg)
 
 Seeking consent is often not possible or leads to partial response where likelihood of responding is patterned by health and social characteristics and therefore biases research or excludes some harder to reach communities such as children in the care system, or those in temporary accommodation. 
 
@@ -38,7 +38,7 @@ Sometimes seeking consent is not possible, if the person has died or no longer h
 
 ## Section 251 
 
-[section 251](_static/section251.jpg)
+![section 251](_static/section251.jpg)
 
 Section 251 provides a lawful basis for an LPS to use identifiable health information for research without consent e.g. where all the participants in a LPS have died or where lack of response to consent requests will likely bias the research and lead to research inequity and harms. Section 251 only applies in England and Wales. 
 
