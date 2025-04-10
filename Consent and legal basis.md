@@ -12,7 +12,7 @@ The expectations resulting from the UK’s cumulative case law relating to the h
 
 LPS must establish a legal basis for addressing Duty of Confidentiality. This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
 
-[no surprises](_static/no_surprises.jpg)
+(_static/no_surprises.jpg)
 
 Common Law Duty of Confidentiality (which has the same status as statute law) applies when a person provides a LPS with information in the expectation that it will be treated in confidence. For a LPS to process Personal Data it is therefore the case that they must make ‘best endeavours’ to set a ‘reasonable expectation’ about this processing. To demonstrate compliance with Common Law Duty of Confidentiality LPS must either:
  i) collect consent
