@@ -1,37 +1,97 @@
 # Fair Processing communication method
 
->Last modified: 26 Sep 2024
-<div style="background-color: #f49985; padding: 10px; border-radius: 5px;">
-Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population 
-Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically 
-or mailed out to all participants which must provide a means to object (studies may choose to seek 
-specific opt-in consent). Social media can provide updates and is particularly effective in alerting 
-participants to change and promoting new research use and outcomes.
-Studies should consider Equality issues when determining whether to use electronic and postal 
-mechanisms and while an electronic-only approach may be suitable in some studies, for most a 
-choice of physical media (ie, postal materials) and electronic media should be offered. Reasonable 
-adjustments should be made to accommodate participants specific needs (eg, large print media or 
-audio versions).
+>Last modified: 10 Apr 2025
 
-Our PPIE feedback suggests a newsletter/letter/email sent directly to participants is considered 
-preferable to other routes of communication which may be considered ‘optional’ to read – yet, it is 
-also acknowledged that each study has a distinct way of communicating with participants (eg, 
-Christmas card updates) which may form the most appropriate mechanism at a study level.
-The Information Commissioner’s Office recommends a **layered approach** to providing information 
-for example with a high-level summary (e.g. cover letter, infographic) then a detailed graphical type 
-leaflet and signposting or providing a source of more detail e.g. privacy notice/web source for 
-participants who want to understand the detail. Key messages should be reinforced over time 
-preferably through annual active communications.
+## Why do you need to conduct fair processing? 
 
-**Existing information should be up to date** e.g. privacy notices, and participant information sheets to 
-reflect changes in practice. New stories should be added to existing media e.g. website updates, 
-social media, newsflashes or blogs should be updated where possible to alert participants to changes 
-and to keep ‘consent’ a live item.
+LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
 
-UK GDPR requires studies to issue ‘Privacy Notices’ providing fair processing. It should be stressed 
-that while all materials and other communications with participants constitute fair processing, there 
-is a separate need to provide a ‘Privacy Notice’. The ICO has produced guidance describing what 
-information should be included. The Privacy Notice provides an opportunity to provide very detailed 
-information for those participants (and other stakeholders) who wish to understand this level of 
-detail.
-</div>
+The Information Commissioner’s Office recommends a layered approach to providing information e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail e.g. privacy notice/web source for participants who want to understand the detail. Key messages should be reinforced over time preferably through annual active communications.
+
+[fair processing](_static/fairprocessing.jpg)
+
+## What should your fair processing cover? 
+
+**UK LLC Fair processing must make clear:** 
+
+* The scope of the research purpose that LPS data can be used for. Ideally LPS data are used for a range of research purposes (which could extend from including any public good research to being limited to a specific hypothesis or theme of research) 
+
+* A national Trusted Research Environment(s) is used to enable this linkage in a secure manner (named UK Longitudinal Linkage Collaboration) along with the NHS and national statistics agencies whose role it is to provide access to participants’ records for research purposes 
+
+* Approved research users, beyond your LPS study team can apply to access de-identified data within the TRE. 
+
+* That participants have the right to opt-out and to provide details/signpost how to do this. 
+
+## How should I communicate with participants? 
+
+**Method:**  
+
+* Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically or mailed out to all participants which must provide a means to object (LPS may choose to seek specific opt-in consent).  
+
+* The Privacy notices are an opportunity to provide very detailed information for participants (and other stakeholders) who wish to understand this level of detail. UK GDPR requires LPS to issue privacy notices providing fair processing. It should be stressed that while all materials and other communications with participants constitute fair processing, there is a separate need to provide a privacy notice. The Information Commissioner's Office (ICO) has produced [guidance](https://ico.org.uk/for-organisations/advice-for-small-organisations/how-to-write-a-privacy-notice-and-what-goes-in-it/) describing what information should be included. Updates can be provided via social media channels and is particularly effective alerting participants to change and promoting new research use and outcomes.  
+
+* LPS should consider equality/accessibility when determining whether to use electronic and postal mechanisms and while an electronic-only approach may be suitable in some LPS, for most a choice of physical media (ie, postal materials) and electronic media should be offered.  
+
+* Reasonable adjustments should be made to accommodate participants specific needs (e.g., large print media or audio versions). 
+
+**Language:**
+
+* You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under [UK LLC’s templates](/Key%20messages%20in%20active%20communications.md)
+
+* Existing information should be up to date e.g. privacy notices, and participant information sheets to reflect any changes. New stories should be added to existing media e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live item.
+
+Do I need public/participant involvement? 
+
+Data Owners and regulators are increasingly   insisting that LPS include participants and public contributors in understanding what is needed to help ensure there are ‘no surprises’ around data use and to co-develop fair processing materials. LPS using Section 251 must involve participants and/or the public – including gaining feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is sufficient and co-developing new fair processing – to gain/maintain Health Research Authority (HRA)[ Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/#:~:text=The%20Confidentiality%20Advisory%20Group%20%28CAG%29%20is%20an%20independent,the%20Health%20Research%20Authority%20%28HRA%29%20for%20research%20uses.) approval. 
+
+Where an LPS has gained  approval to use identifiable data without consent under Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Involvement and Engagement (PPIE) groups. 
+
+If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss. to discuss. 
+
+## DO’s and DONT’s when developing active communication materials
+
+Consent statements and fair processing materials should be carefully phrased, taking into account literature on consenting behaviours and avoiding imposing limitations on data use (unintentionally). Consent phrasing should make clear the understanding and agreement on the high-level principles involved, whereas information materials can provide detail and exemplar illustrations. 
+
+Expectations of good practice in consent will change over time. Therefore, any development process should start with evaluating guidance and academic literature and then consulting with domain experts, data owners and LPS participants. The co-design of materials with participants and members of the public is a critical element of the process. 
+
+There is a significant amount of supporting documentation you will need to have in place, some of which may already be in place, although it may need to be updated to reflect the new sources of data. This will include a LPS protocol, [HRA protocol](https://www.hra.nhs.uk/planning-and-improving-research/research-planning/protocol/), a LPS privacy notice a data asset register and a data flow diagram. 
+
+## Key messages that MUST be included in LPS active communications 
+
+| Concept                      | Principle to Convey (top layer)                                                                 | Potential Supporting Narrative                                                                                                                                                                                                                     |
+|------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Research Purpose             | Scope of research or that UK LLC supports legitimate research for any public good research.     | • That UK LLC supports research for any public good. <br> • That the LPS retain control over which participants’ records are used, who can use the data, and for which purpose.                                                                 |
+| Record Linkage               | (1) Participants’ health, socio-economic, and environmental records are linked to LPS survey data. <br> (2) Participant identifiers are shared with the NHS and UK Statistical Authorities to achieve this purpose. <br> (3) Participant address data are geo-coded to enable place-based data linkage. | • UK LLC is a mechanism by which the LPS implements its record linkage strategy. <br> • UK LLC provides a centralised mechanism which provides added security, is cost-efficient, and enables new scientific possibilities and improved research equity. <br> • Participants’ identifiers are only shared with the same NHS and Statistical Authorities that the LPS would use directly. <br> • All data in the UK LLC is de-identified and subject to Five Safe’s governance principles. <br> • The data stay in the UK LLC Trusted Research Environment at all times and only anonymous findings can leave the UK LLC environment. |
+| Researchers accessing data   | That (accredited) researchers beyond the LPS will access data (within the TRE).                 | • That the LPS retains control over which participants’ records are used, who can use the data, and for which purpose. <br> • UK LLC provides a secure mechanism for the LPS to share de-identified data with approved researchers under contract and subject to controlled and audited conditions. |
+| Right to Object              | Participants are free to change their minds and object to data being shared with UK LLC (or more generally). | • The right to object is always respected, and a mechanism exists to stop the record linkage process and all new use of participants’ data. <br> • For Section 251 LPS studies, UK LLC respects the National Data Opt Out and no data is linked where participants have set a National Data Opt Out request. |
+| Types of data to be linked to | Linkage to data type(s): health records, administrative data [relevant examples as appropriate]. | • This could include….. <br> • Such as…… <br> [Avoid detailing exhaustive lists of data types, as this can become problematic in the future.]                                                                                                      |
+
+*Include information on environmental data linkage where LPS have a postcode or address sharing permissions in place. 
+
+## Key messages that MUST be included in LPS active communications if linking to administrative data 
+
+| Concept                | Principle to Convey (top layer) | Potential Supporting Narrative                                                                                                                                         |
+|------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Security & Confidentiality | Reassurances                    | • Your de-identified data/information will be linked to records held by the following Government Service Providers [list departments and data types], detail processing pathway. <br> • HMRC and DWP do not access any participant data – as part of the UK LLC-based research. <br> • This is not a way in which authorities learn anything new about anyone and will not impact people’s tax or benefits. <br> • This does not provide a mechanism to access anyone’s bank details. |
+
+## Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications 
+
+| Concept                  | Principle to Convey (Top Layer) | Potential Supporting Narrative                                                                                                                                                                                                                                                                                                                                 |
+|--------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LPS’s continued authority | Restricted use to LPS’s remit   | For each LPS, the use is restricted to the LPS’s remit (e.g., for an LPS who has committed to participants to undertaking cancer research only, then UK LLC can only be used for cancer-related research for that LPS). <br> That UK LLC is designed to provide a service to the LPS and that the LPS remains fully in control over which participants’ data are used for what purpose. |
+| Confidentiality           | Data sharing and de-identification | Participants’ identifiers only will be shared with the NHS and UK statistical authorities to link participants’ information to [health OR other/administrative records]. <br> All data held within the UK LLC is de-identified, this happens by a highly regulated process between government service providers and universities. |
+| Review process            | Application review panels       | • All applications to access data are reviewed by: <br> A panel made up of data owners and data experts to ensure legal requirements are met, and <br> A panel of public contributors, who assess likely public benefits, clarity of lay materials and advice on the need for project-specific PPIE. |
+| Researcher accreditation   | Accreditation and security      | • All researchers accessing data are required to be accredited by the UK Statistics Authority (to ensure statistical competence). <br> • Linked data is held in a secure Trusted Research Environment which meets the highest Information Security Standards ISO27001 and Digital Economy Act Accreditation. The organisation is audited annually to ensure that it continues to meet these standards. |
+| UK LLCs commitments       | Key commitments                 | • UK LLC make a set of key commitments which they promise to abide by (https://ukllc.ac.uk/our-promises) |
+| UK LLCs data processing pathway | Privacy policy and data flow diagrams | • For Health (NHS) data and Administrative data (Government Service Providers) can be found in the UK LLC privacy policy [Privacy Notice | UK Longitudinal Linkage Collaboration](https:ukllc.ac.uk/privacy-policy)<br> • Data flow diagrams can be found in the Data flow section. |
+
+## Restrictive statements to avoid 
+
+| Concept                                    | Example                                                                 | Rationale                                                                                                                                                                                                 |
+|--------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Statements that restrict the research purpose | ‘Data will only be used e.g. understanding cancer, improving mental health’. | We caution against purpose limitations unless necessary. While an LPS may be initially funded to conduct a single or range of theme (e.g., disease) focused questions, the data typically develop wider utility and public benefit value. Flexibility is important for cases like the COVID-19 pandemic. |
+| Statements that restrict data processing (linkage) or storage | ‘Data will only be stored at University x or data will be processed by University x’. | We recommend using broader statements around the level of oversight and limiting names of locations or processors to updatable privacy notices. |
+| Statements that restrict Open and FAIR access | ‘Only researchers at university x will be able to access your data’. | Most funders now expect Open and FAIR science, maximizing the value of data by sharing it with legitimate users under secure conditions. Participants generally accept that research expertise and capacity may lie outside the direct LPS team or institution. |
+| Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
+
+>[FAQs](https://ukllc.ac.uk/faq) about UK LLC

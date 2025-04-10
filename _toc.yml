@@ -5,12 +5,10 @@ format: jb-book
 root: intro.md
 parts:
   - chapters:
-      - file: Summary and Key Messages.md
-        title: Summary and Key Messages
       - file: Consent and legal basis.md  
-        title: Consent and Legal Basis
+        title: Background information
       - file: Fair processing communication method.md
-        title: Fair Processing Communication Method
+        title: DO's and DONT's
       - file: Key messages in active communications.md
         title: Key Messages in Active Communications
       - file: Linking to admin data.md
