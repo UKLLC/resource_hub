@@ -10,13 +10,13 @@ Resource hub is a guidance library to aid communications to the public. It is de
 
 ## How to use the Resource Hub for LPS joining UK LLC: 
 
-Background information to aid understanding of legal basis. 
+1. Background information to aid understanding of legal basis. 
 
-‘DO’s and DONT’s’ when developing active communication materials. 
+2. ‘DO’s and DONT’s’ when developing active communication materials. 
 
-UK LLC’s downloadable communication materials. 
+3. UK LLC’s downloadable communication materials. 
 
-UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).  
+4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).  
 
 ## Why this guidance is useful: 
 
