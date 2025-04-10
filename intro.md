@@ -1,72 +1,58 @@
 # Introduction
 
->Last modified: 27 Sep 2024
+>Last modified: 10 Apr 2025
 
+*We thank all the LPS teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participant’s community within LPS – these materials are based on the community’s collective efforts and expertise.*
 
-<div style="background-color: #ffdab9; padding: 10px; border-radius: 5px;">
-Welcome to UK LLC Resource Hub, the home of UK LLC’s guidance and fair processing resources.
+## What is Resource Hub? 
 
-This guidance is written for longitudinal study data managers, communications staff and 
-managers/principal investigators. It is designed to be relevant specifically to studies contributing to 
-the UK Longitudinal Linkage Collaboration but has wider relevance to any longitudinal study 
-undertaking record linkage and data sharing.
+Resource hub is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
 
-By law, each study has to make clear its collaboration with UK LLC to its participants. In a legal 
-context, these communications establish a “reasonable expectation” amongst participants as to how 
-their data are used (the who, what, why, where and how), what rights the participants have and how 
-they can be exercised (particularly the right to object). This does not mean the communications 
-need to explain all specific details – but they do need to establish a broad understanding of what is 
-happening and why.
+## How to use the Resource Hub for LPS joining UK LLC: 
 
-These communications can be challenging to write as they need to be accessible to a wide range of 
-the public and also include key statements which meet data owners (e.g. the NHS) and regulatory 
-(e.g. Information Commissioner’s Office, Health Research Authority) requirements.
+Background information to aid understanding of legal basis. 
 
-Statements which are considered to be restrictive (eg, setting a limit to the scientific purpose of the 
-study, or a time limit for the study) should be carefully considered against future barriers to 
-potential study activity and public benefit outcomes. Many longitudinal studies have evolved in both 
-scope and duration since they were conceived and first established.
-</div>
+‘DO’s and DONT’s’ when developing active communication materials. 
 
+UK LLC’s downloadable communication materials. 
 
-# Purpose of this Guidance & Limitations
+UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).  
 
-<div style="background-color: #aaf0d1; padding: 10px; border-radius: 5px;">
-This guidance provides a set of pointers which we recommend are followed when designing fair 
-processing communications. We do not provide template text as the language used by a study 
-should be appropriate for your study participants, your context and traditional mechanisms of 
-communication. 
+## Why this guidance is useful: 
 
-The following important limitations apply:
+* By law, LPS must make clear to their participants their collaboration with UK LLC. Legal context, these communications establish “reasonable expectation” amongst participants as to how their data are used, what rights the participants have and how they can be exercised (particularly the right to object). This guidance will help you develop communications so that your participants can establish an understanding of what is happening and why. 
 
-• We appreciate that studies may have previously communicated with their participants about
-some of these key messages already, so may not need to include all of them in their 
-communications.
+* These communications can be challenging to write as they need to be accessible to a wide range of the public and also include key statements which meet data owners (e.g. the NHS) and regulatory (e.g. Information Commissioner’s Office, Health Research Authority) requirements. 
 
-• We cannot guarantee that the guidance provided here will result in fair processing that is 
-either future proof or legally compliant. Best practice and data owner/regulator 
-requirements are constantly evolving, and fair processing will need to adapt to and track 
-change. Studies should seek legal guidance to test the robustness of their fair processing and 
-legal basis.
+* This guidance will help you consider statements which are restrictive (e.g., setting a limit to the scientific purpose of the LPS, or a time limit for the LPS). Restrictive statements can create future barriers to potential LPS activity and public benefit outcomes. Many longitudinal LPS have evolved in both scope and duration since they were conceived and first established. 
 
-• Failure to adhere to key points set out in this document may mean the study inclusion in UK 
-LLC or the set-up of some or all linkages is not possible.
+## What are the limitations of this guidance? 
 
-UK LLC is very happy to review draft materials.
-We strongly recommend that the content and method of communications should be developed in 
-collaboration with your PPIE representatives/groups or via other means of public co-development.
+The following important limitations apply: 
 
-**Studies using Section 251 support**
-Where a study has gained Secretary of State approval to use identifiable data without consent under 
-‘Section 251’ provisions and following review by the Health Research Authority’s Confidentiality 
-Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair 
-processing materials and communication methods are co-developed by study PPIE groups as 
-detailed in study checklist [x]. 
+* We appreciate that LPS may have previously communicated with their participants about some of these key messages, so may not need to include all of them in their communications. 
 
-If it is not possible to consult study-specific PPIE groups, please 
-contact one of the UK LLC team or info@ukllc.ac.uk to discuss.
-</div>
+* We cannot guarantee that the guidance provided here will result in fair processing that is either future proof or legally compliant. Best practice and data owner/regulator requirements are constantly evolving, and fair processing will need to adapt to and track change.  
 
+* Failure to adhere to key points set out in this document may mean the LPS inclusion in UK LLC or the set-up of some or all linkages is not possible. 
 
-![UK LLC Process Illustration](/_static/UKLLC_Process_Illustration_Secure_Data_AW.jpg)
+UK LLC is very happy to review draft materials (send to info@ukllc.ac.uk). We strongly recommend that the content and method of communications should be developed in collaboration with yourPatient and Public Involvement and Engagement (PPIE) representatives or via other means of public co-development. 
 
+## Where can I find further guidance? 
+
+* You will need to register for the [NHS Data Security and Protection Toolkit (DSPT) Toolkit](https://www.dsptoolkit.nhs.uk/). It is recommended that you contact your host organisation’s Information Governance department in the first instance because it is highly likely they will have a NHSDSPT already and you will probably find that you share a significant proportion of their facilities, particularly IT, cyber-security and infrastructure. The application to NHS England for the health records is done via their DARS and comprehensive guidance is available at Data Access Request Service (DARS) - NHS England. Fortunately, you will find that you should be able to re-use text from the earlier stages in the DARS. Security assurances for confidential patient information generated within Wales are provided by either a Caldicott Principles in Practice (CPiP) Report or a completed [Welsh Information Governance Toolkit](https://dhcw.nhs.wales/ig/information-governance/welsh-information-governance-toolkit/). An approval letter from the [Public Benefit and Privacy Panel (PBPP)](https://www.informationgovernance.scot.nhs.uk/pbpphsc/), where processing is taking place in Scotland, is accepted as evidence of adequate security assurance for organisations in Scotland. 
+
+* The Health Research Authority (HRA) have developed [detailed guidance](https://myresearchproject.org.uk/crirasguide/gettingstarted.html) for using [The Integrated Research Application System (IRAS)](https://www.myresearchproject.org.uk/help/hlphraapproval.aspx) which is a single system for applying for the permissions and approvals for health and social care / community care research in the UK. It captures the information needed for the relevant approvals from many review bodies including: 
+ 
+    - Confidentiality Advisory Group (CAG) 
+
+    - NHS / HSC Research Ethics Committees 
+
+    - The Medical Research Council can provide support via the [MRC Regulatory Support Centre](https://www.ukri.org/councils/mrc/facilities-and-resources/find-an-mrc-facility-or-resource/mrc-regulatory-support-centre/). They have developed specific guidance materials on [Identifiability, anonymisation and pseudonymisation](https://www.ukri.org/wp-content/uploads/2021/11/MRC-291121-GDPR-Identifiability-Anonymisation-Pseudonymisation.pdf) and [Consent and Participant Information Guidance](http://www.hra-decisiontools.org.uk/consent/). 
+
+ * [Understanding patient data](https://understandingpatientdata.org.uk/) provides guidance and examples of communication materials. This site is closely aligned to the NHS Data Guardian and is therefore considered gold standard by NHS England. 
+
+ 
+> [FAQs](https://ukllc.ac.uk/faq) about UK LLC
+
+ 
