@@ -6,7 +6,9 @@
 
 ## What is Resource Hub? 
 
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
 Resource hub is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
+</div>
 
 ## How to use the Resource Hub for LPS joining UK LLC: 
 
