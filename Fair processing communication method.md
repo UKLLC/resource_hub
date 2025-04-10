@@ -7,7 +7,7 @@ LPS must take all reasonable and pragmatic measures to ensure participants have 
 
 The Information Commissioner’s Office recommends a layered approach to providing information e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail e.g. privacy notice/web source for participants who want to understand the detail. Key messages should be reinforced over time preferably through annual active communications.
 
-(_static/fairprocessing.jpg)
+![Fair Processing](_static/fairprocessing.jpg)
 
 ## What should your fair processing cover? 
 
