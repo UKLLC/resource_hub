@@ -104,9 +104,7 @@ These guidance materials for fair processing for record-linkage are designed for
 | [Control of Patient Information (COPI) Regulations 2002](_static/Infographic_Control of Patient Information_Urdu_UKLLCv1_WEB_MED-COM-038.pdf) | A summary of the Control of Patient Information (COPI) Regulations. |
 | [Digital Economy Act](_static/Infographic_DEA_Urdu_UKLLCv1_WEB_MED-COM-040.pdf) | A summary of the Digital Economy Act. |
 | [Understanding Longitudinal Population Study Data](_static/Infographic_Summary_Urdu_WEB_MED-COM-034.pdf) | A summary of the laws and legal principles related to study participant data. |
-| [UK Data Protection Laws](_static/Infographic_UK Data Protection Laws_Urdu_UKLLCv1_WEB_MED-COM
-
--042.pdf) | A summary of the UK Data Protection Laws. |
+| [UK Data Protection Laws](_static/Infographic_UK Data Protection Laws_Urdu_UKLLCv1_WEB_MED-COM-042.pdf) | A summary of the UK Data Protection Laws. |
 
 ---
 
