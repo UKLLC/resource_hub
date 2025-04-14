@@ -4,7 +4,7 @@
 > Last modified: 14 Apr 2025
 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
-<strong>Common Law Duty of Confidentiality<strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individual’s confidential data. 
+  <strong>Common Law Duty of Confidentiality</strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individuals' confidential data.
 </div>
 
 ## What are the requirements to meet Common Law Duty of Confidentiality? 
