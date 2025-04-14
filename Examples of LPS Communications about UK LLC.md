@@ -3,8 +3,7 @@
 >Last modified: 14 Apr 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section displays UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
-Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.
-</div>
+Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.</div>
 
 ## Newsletter templates: 
 
