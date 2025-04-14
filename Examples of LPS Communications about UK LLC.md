@@ -1,11 +1,10 @@
 # UK LLC’s templates to develop your own communications 
 
 >Last modified: 14 Apr 2025
-
-*This section displays UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).*
-
-*Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.*
-
+<div style="background-color: #fffaf0; padding: 10px; border-radius: 5px;">
+This section displays UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
+Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.
+</div>
 ## Newsletter templates: 
 
 ###### Existing partner LPS transitioning from COVID-19 research to general research for public good

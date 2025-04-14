@@ -1,7 +1,9 @@
 
 ### Background information
-*This section provides background information to aid understanding of legal basis*
 > Last modified: 14 Apr 2025
+<div style="background-color: #fffaf0; padding: 10px; border-radius: 5px;">
+This section provides background information to aid understanding of legal basis.
+</div>
 ##### What are the requirements to meet Common Law Duty of Confidentiality? 
 
 LPS must establish a legal basis for addressing Duty of Confidentiality. 
