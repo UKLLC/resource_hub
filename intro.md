@@ -1,7 +1,7 @@
 # Introduction
 >Last modified: 14 Apr 2025
 <div style="background-color:rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
-We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participant’s community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
+We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
 #### How to use the Resource Hub for LPS joining UK LLC: 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
@@ -22,7 +22,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
 
 * By law, LPS must make clear to their participants their collaboration with UK LLC. Legal context, these communications establish “reasonable expectation” amongst participants as to how their data are used, what rights the participants have and how they can be exercised (particularly the right to object). This guidance will help you develop communications so that your participants can establish an understanding of what is happening and why. 
 
-* These communications can be challenging to write as they need to be accessible to a wide range of the public and also include key statements which meet data owners (e.g. the NHS) and regulatory (e.g. Information Commissioner’s Office, Health Research Authority) requirements. 
+* These communications can be challenging to write as they need to be accessible to a wide range of the public and also include key statements which meet data owners' (e.g. the NHS) and regulatory (e.g. Information Commissioner’s Office, Health Research Authority) requirements. 
 
 * This guidance will help you consider statements which are restrictive (e.g., setting a limit to the scientific purpose of the LPS, or a time limit for the LPS). Restrictive statements can create future barriers to potential LPS activity and public benefit outcomes. Many longitudinal LPS have evolved in both scope and duration since they were conceived and first established. 
 #### What are the limitations of this guidance? 
