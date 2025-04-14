@@ -55,7 +55,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    ### Key messages that MUST be included in LPS active communications
+    <strong>Key messages that MUST be included in LPS active communications<strong>
     </div>
   </summary> 
 
@@ -73,7 +73,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    ### Key messages that MUST be included in LPS active communications if linking to administrative data
+    <strong>Key messages that MUST be included in LPS active communications if linking to administrative data<strong>
     </div>
   </summary> 
 
@@ -85,7 +85,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    ### Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications    
+    <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications<strong>    
   </div>
   </summary>   
 
@@ -102,10 +102,10 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    ### Restrictive statements to avoid  
+    <strong>Restrictive statements to avoid<strong>
     </div>
   </summary>   
-  
+
 | Concept                                    | Example                                                                 | Rationale                                                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Statements that restrict the research purpose | ‘Data will only be used e.g. understanding cancer, improving mental health’. | We caution against purpose limitations unless necessary. While an LPS may be initially funded to conduct a single or range of theme (e.g., disease) focused questions, the data typically develop wider utility and public benefit value. Flexibility is important for cases like the COVID-19 pandemic. |
@@ -113,5 +113,6 @@ There is a significant amount of supporting documentation you will need to have 
 | Statements that restrict Open and FAIR access | ‘Only researchers at university x will be able to access your data’. | Most funders now expect Open and FAIR science, maximizing the value of data by sharing it with legitimate users under secure conditions. Participants generally accept that research expertise and capacity may lie outside the direct LPS team or institution. |
 | Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
 </details>
+
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
