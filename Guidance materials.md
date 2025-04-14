@@ -2,7 +2,9 @@
 
 > Last modified: 14 Apr 2025
 
-*These materials are communications to address the widening research purpose of UK LLC. They encompass all data we are currently (in the process of) linking to. Please select content appropriately depending on permissions within your LPS. 
+*These materials are communications to address the widening research purpose of UK LLC. They encompass all data we are currently (in the process of) linking to. 
+
+Please select content appropriately depending on permissions within your LPS. 
 
 These guidance materials for fair processing for record-linkage are designed for the public/for lay audience. For publication and distribution as appropriate.* 
 
