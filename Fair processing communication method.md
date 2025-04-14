@@ -1,7 +1,5 @@
 # Fair Processing communication method
-
->Last modified: 10 Apr 2025
-
+>Last modified: 14 Apr 2025
 ## Why do you need to conduct fair processing? 
 LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
 
@@ -54,7 +52,8 @@ Expectations of good practice in consent will change over time. Therefore, any d
 
 There is a significant amount of supporting documentation you will need to have in place, some of which may already be in place, although it may need to be updated to reflect the new sources of data. This will include a LPS protocol, [HRA protocol](https://www.hra.nhs.uk/planning-and-improving-research/research-planning/protocol/), a LPS privacy notice a data asset register and a data flow diagram. 
 
-## Key messages that MUST be included in LPS active communications 
+<details>
+  <summary>### Key messages that MUST be included in LPS active communications</summary>  
 
 | Concept                      | Principle to Convey (top layer)                                                                 | Potential Supporting Narrative                                                                                                                                                                                                                     |
 |------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,14 +64,18 @@ There is a significant amount of supporting documentation you will need to have 
 | Types of data to be linked to | Linkage to data type(s): health records, administrative data [relevant examples as appropriate]. | • This could include….. <br> • Such as…… <br> [Avoid detailing exhaustive lists of data types, as this can become problematic in the future.]                                                                                                      |
 
 *Include information on environmental data linkage where LPS have a postcode or address sharing permissions in place. 
+</details>
 
-## Key messages that MUST be included in LPS active communications if linking to administrative data 
+<details>
+  <summary>### Key messages that MUST be included in LPS active communications if linking to administrative data</summary> 
 
 | Concept                | Principle to Convey (top layer) | Potential Supporting Narrative                                                                                                                                         |
 |------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Security & Confidentiality | Reassurances                    | • Your de-identified data/information will be linked to records held by the following Government Service Providers [list departments and data types], detail processing pathway. <br> • HMRC and DWP do not access any participant data – as part of the UK LLC-based research. <br> • This is not a way in which authorities learn anything new about anyone and will not impact people’s tax or benefits. <br> • This does not provide a mechanism to access anyone’s bank details. |
+</details>
 
-## Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications 
+<details>
+  <summary>### Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</summary>  
 
 | Concept                  | Principle to Convey (Top Layer) | Potential Supporting Narrative                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -82,8 +85,10 @@ There is a significant amount of supporting documentation you will need to have 
 | Researcher accreditation   | Accreditation and security      | • All researchers accessing data are required to be accredited by the UK Statistics Authority (to ensure statistical competence). <br> • Linked data is held in a secure Trusted Research Environment which meets the highest Information Security Standards ISO27001 and Digital Economy Act Accreditation. The organisation is audited annually to ensure that it continues to meet these standards. |
 | UK LLCs commitments       | Key commitments                 | • UK LLC make a set of key commitments which they promise to abide by (https://ukllc.ac.uk/our-promises) |
 | UK LLCs data processing pathway | Privacy policy and data flow diagrams | • For Health (NHS) data and Administrative data (Government Service Providers) can be found in the UK LLC privacy policy [Privacy Notice | UK Longitudinal Linkage Collaboration](https:ukllc.ac.uk/privacy-policy)<br> • Data flow diagrams can be found in the Data flow section. |
+</details>
 
-## Restrictive statements to avoid 
+<details>
+  <summary>### Restrictive statements to avoid</summary> 
 
 | Concept                                    | Example                                                                 | Rationale                                                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,5 +96,6 @@ There is a significant amount of supporting documentation you will need to have 
 | Statements that restrict data processing (linkage) or storage | ‘Data will only be stored at University x or data will be processed by University x’. | We recommend using broader statements around the level of oversight and limiting names of locations or processors to updatable privacy notices. |
 | Statements that restrict Open and FAIR access | ‘Only researchers at university x will be able to access your data’. | Most funders now expect Open and FAIR science, maximizing the value of data by sharing it with legitimate users under secure conditions. Participants generally accept that research expertise and capacity may lie outside the direct LPS team or institution. |
 | Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
+</details>
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC

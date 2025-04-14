@@ -38,9 +38,9 @@ Who is UK LLC?
 
 UK LLC is a national collaboration of UK longitudinal cohort studies, universities, the NHS and UK statistical authorities. It is a unique resource that enables cross-sector research and supports research responses to immediate situations and future policy needs. UK LLC receives funding from UK Research and Innovation (UKRI) through the Medical Research Council (MRC) and Economic and Social Research Council (ESRC).  
 
-Who will manage the linkage between my **[Insert LPS name]** data and my NHS health record data? How is UK LLC involved? 
+Who will manage the linkage between my [Insert LPS name] data and my NHS health record data? How is UK LLC involved? 
 
-Linkage to your medical records will be managed through the NHS (by NHS Digital Health and Care Wales). The NHS will work with the UK LLC to link your health record data to your **[Insert LPS name]** questionnaire data, and make it available for research in a safe and secure way:  
+Linkage to your medical records will be managed through the NHS (by NHS Digital Health and Care Wales). The NHS will work with the UK LLC to link your health record data to your [Insert LPS name] questionnaire data, and make it available for research in a safe and secure way:  
 
 The NHS will remove identifying personal information (such as your name) from your health records. 
 
@@ -52,7 +52,7 @@ Your de-identified linked data from [Insert LPS name] participants will be made 
 
 Data in the TRE will not include the name, address, or date of birth, any real world ID numbers (like NHS ID), names of places where you live or work, or the names or IDs of hospitals or other service providers.  
 
-Researchers will never be able to identify you from your linked **[Insert LPS name]** and health record data. 
+Researchers will never be able to identify you from your linked [Insert LPS name] and health record data. 
 
 Who can apply to have access to my data?
 

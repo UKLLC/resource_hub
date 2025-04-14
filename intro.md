@@ -1,15 +1,13 @@
 # Introduction
 
->Last modified: 10 Apr 2025
+>Last modified: 14 Apr 2025
 
-*We thank all the LPS teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participant’s community within LPS – these materials are based on the community’s collective efforts and expertise.*
-
-## What is Resource Hub? 
+*We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participant’s community within LPS – these materials are based on the community’s collective efforts and expertise.*
+##### What is Resource Hub?
 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
-Resource hub is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
+  <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
 </div>
-
 ## How to use the Resource Hub for LPS joining UK LLC: 
 
 1. Background information to aid understanding of legal basis. 
@@ -44,6 +42,7 @@ UK LLC is very happy to review draft materials (send to info@ukllc.ac.uk). We st
 
 * You will need to register for the [NHS Data Security and Protection Toolkit (DSPT) Toolkit](https://www.dsptoolkit.nhs.uk/). It is recommended that you contact your host organisation’s Information Governance department in the first instance because it is highly likely they will have a NHSDSPT already and you will probably find that you share a significant proportion of their facilities, particularly IT, cyber-security and infrastructure. The application to NHS England for the health records is done via their DARS and comprehensive guidance is available at Data Access Request Service (DARS) - NHS England. Fortunately, you will find that you should be able to re-use text from the earlier stages in the DARS. Security assurances for confidential patient information generated within Wales are provided by either a Caldicott Principles in Practice (CPiP) Report or a completed [Welsh Information Governance Toolkit](https://dhcw.nhs.wales/ig/information-governance/welsh-information-governance-toolkit/). An approval letter from the [Public Benefit and Privacy Panel (PBPP)](https://www.informationgovernance.scot.nhs.uk/pbpphsc/), where processing is taking place in Scotland, is accepted as evidence of adequate security assurance for organisations in Scotland. 
 
+
 * The Health Research Authority (HRA) have developed [detailed guidance](https://myresearchproject.org.uk/crirasguide/gettingstarted.html) for using [The Integrated Research Application System (IRAS)](https://www.myresearchproject.org.uk/help/hlphraapproval.aspx) which is a single system for applying for the permissions and approvals for health and social care / community care research in the UK. It captures the information needed for the relevant approvals from many review bodies including: 
  
     - Confidentiality Advisory Group (CAG) 
@@ -51,6 +50,7 @@ UK LLC is very happy to review draft materials (send to info@ukllc.ac.uk). We st
     - NHS / HSC Research Ethics Committees 
 
     - The Medical Research Council can provide support via the [MRC Regulatory Support Centre](https://www.ukri.org/councils/mrc/facilities-and-resources/find-an-mrc-facility-or-resource/mrc-regulatory-support-centre/). They have developed specific guidance materials on [Identifiability, anonymisation and pseudonymisation](https://www.ukri.org/wp-content/uploads/2021/11/MRC-291121-GDPR-Identifiability-Anonymisation-Pseudonymisation.pdf) and [Consent and Participant Information Guidance](http://www.hra-decisiontools.org.uk/consent/). 
+    
 
  * [Understanding patient data](https://understandingpatientdata.org.uk/) provides guidance and examples of communication materials. This site is closely aligned to the NHS Data Guardian and is therefore considered gold standard by NHS England. 
 
