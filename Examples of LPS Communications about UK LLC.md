@@ -38,7 +38,7 @@ Please copy and edit the text appropriately depending on the linkages being carr
 >
 >**Who is UK LLC?**
 >
-UK LLC is a national collaboration of UK longitudinal cohort studies, universities, the NHS and UK statistical authorities. It is a unique resource that enables cross-sector research and supports research responses to immediate situations and future policy needs. UK LLC receives funding from UK Research and Innovation (UKRI) through the Medical Research Council (MRC) and Economic and Social Research > Council (ESRC).  
+>UK LLC is a national collaboration of UK longitudinal cohort studies, universities, the NHS and UK statistical authorities. It is a unique resource that enables cross-sector research and supports research responses to immediate situations and future policy needs. UK LLC receives funding from UK Research and Innovation (UKRI) through the Medical Research Council (MRC) and Economic and Social Research > Council (ESRC).  
 >
 >**Who will manage the linkage between my [Insert LPS name] data and my NHS health record data? How is UK LLC involved?** 
 >
