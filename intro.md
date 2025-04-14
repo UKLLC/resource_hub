@@ -8,7 +8,6 @@
 <br>
 
 *We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participant’s community within LPS – these materials are based on the community’s collective efforts and expertise.*
-
 ## How to use the Resource Hub for LPS joining UK LLC: 
 
 1. Background information to aid understanding of legal basis. 
