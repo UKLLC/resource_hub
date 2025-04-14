@@ -7,8 +7,8 @@
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
 </div>
-<br>
-## How to use the Resource Hub for LPS joining UK LLC: 
+
+#### How to use the Resource Hub for LPS joining UK LLC: 
 
 1. Background information to aid understanding of legal basis. 
 
@@ -19,16 +19,14 @@
 4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates). 
 
 5. Partnering with UK LLC (data flow diagrams and designing consent materials).
-
-## Why this guidance is useful: 
+#### Why this guidance is useful: 
 
 * By law, LPS must make clear to their participants their collaboration with UK LLC. Legal context, these communications establish “reasonable expectation” amongst participants as to how their data are used, what rights the participants have and how they can be exercised (particularly the right to object). This guidance will help you develop communications so that your participants can establish an understanding of what is happening and why. 
 
 * These communications can be challenging to write as they need to be accessible to a wide range of the public and also include key statements which meet data owners (e.g. the NHS) and regulatory (e.g. Information Commissioner’s Office, Health Research Authority) requirements. 
 
 * This guidance will help you consider statements which are restrictive (e.g., setting a limit to the scientific purpose of the LPS, or a time limit for the LPS). Restrictive statements can create future barriers to potential LPS activity and public benefit outcomes. Many longitudinal LPS have evolved in both scope and duration since they were conceived and first established. 
-
-## What are the limitations of this guidance? 
+#### What are the limitations of this guidance? 
 
 The following important limitations apply: 
 
@@ -39,8 +37,7 @@ The following important limitations apply:
 * Failure to adhere to key points set out in this document may mean the LPS inclusion in UK LLC or the set-up of some or all linkages is not possible. 
 
 UK LLC is very happy to review draft materials (send to info@ukllc.ac.uk). We strongly recommend that the content and method of communications should be developed in collaboration with yourPatient and Public Involvement and Engagement (PPIE) representatives or via other means of public co-development. 
-
-## Where can I find further guidance? 
+#### Where can I find further guidance? 
 
 * You will need to register for the [NHS Data Security and Protection Toolkit (DSPT) Toolkit](https://www.dsptoolkit.nhs.uk/). It is recommended that you contact your host organisation’s Information Governance department in the first instance because it is highly likely they will have a NHSDSPT already and you will probably find that you share a significant proportion of their facilities, particularly IT, cyber-security and infrastructure. The application to NHS England for the health records is done via their DARS and comprehensive guidance is available at Data Access Request Service (DARS) - NHS England. Fortunately, you will find that you should be able to re-use text from the earlier stages in the DARS. Security assurances for confidential patient information generated within Wales are provided by either a Caldicott Principles in Practice (CPiP) Report or a completed [Welsh Information Governance Toolkit](https://dhcw.nhs.wales/ig/information-governance/welsh-information-governance-toolkit/). An approval letter from the [Public Benefit and Privacy Panel (PBPP)](https://www.informationgovernance.scot.nhs.uk/pbpphsc/), where processing is taking place in Scotland, is accepted as evidence of adequate security assurance for organisations in Scotland. 
 

@@ -8,7 +8,7 @@
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Common Law Duty of Confidentiality</strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individuals' confidential data.
 </div>
-<br>
+
 ##### What are the requirements to meet Common Law Duty of Confidentiality? 
 
 LPS must establish a legal basis for addressing Duty of Confidentiality. This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
@@ -38,10 +38,9 @@ Seeking consent is often not possible or leads to partial response where likelih
 Sometimes seeking consent is not possible, if the person has died or no longer has capacity to make a choice (e.g. someone with dementia). For this reason, there are laws which make it possible to use data without breaching common law. These laws were used during the coronavirus pandemic but also exist in general to help ensure research is fair and inclusive. For the use of NHS data in England, this law called Section 251. 
 
 ##### Section 251 
+Section 251 provides a lawful basis for an LPS to use identifiable health information for research without consent e.g. where all the participants in a LPS have died or where lack of response to consent requests will likely bias the research and lead to research inequity and harms. Section 251 only applies in England and Wales. 
 
 ![section 251](_static/section251.jpg)
-
-Section 251 provides a lawful basis for an LPS to use identifiable health information for research without consent e.g. where all the participants in a LPS have died or where lack of response to consent requests will likely bias the research and lead to research inequity and harms. Section 251 only applies in England and Wales. 
 
  LPS can apply to HRA CAG for Section251 Support which allows Common Law duties to be set aside. They can recommend that a LPS can utilise Section 251 where consent is not practicable and frequently on the condition that:  
 

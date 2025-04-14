@@ -6,15 +6,15 @@
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Fair Processing:</strong> processing personal data must always be fair as well as lawful, you should only handle personal data in ways that people would reasonably expect.
 </div>
-<br>
-## Why do you need to conduct fair processing? 
+
+#### Why do you need to conduct fair processing? 
 LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
 
 The Information Commissioner’s Office recommends a layered approach to providing information e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail e.g. privacy notice/web source for participants who want to understand the detail. Key messages should be reinforced over time preferably through annual active communications.
 
 ![Fair Processing](_static/fairprocessing.jpg)
 
-## What should your fair processing cover? 
+#### What should your fair processing cover? 
 
 **UK LLC Fair processing must make clear:** 
 
@@ -26,7 +26,7 @@ The Information Commissioner’s Office recommends a layered approach to providi
 
 * That participants have the right to opt-out and to provide details/signpost how to do this. 
 
-## How should I communicate with participants? 
+#### How should I communicate with participants? 
 **Method:**  
 
 * Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically or mailed out to all participants which must provide a means to object (LPS may choose to seek specific opt-in consent).  
@@ -43,7 +43,7 @@ The Information Commissioner’s Office recommends a layered approach to providi
 
 * Existing information should be up to date e.g. privacy notices, and participant information sheets to reflect any changes. New stories should be added to existing media e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live item.
 
-## Do I need public/participant involvement? 
+#### Do I need public/participant involvement? 
 
 Data Owners and regulators are increasingly   insisting that LPS include participants and public contributors in understanding what is needed to help ensure there are ‘no surprises’ around data use and to co-develop fair processing materials. LPS using Section 251 must involve participants and/or the public – including gaining feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is sufficient and co-developing new fair processing – to gain/maintain Health Research Authority (HRA)[ Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/#:~:text=The%20Confidentiality%20Advisory%20Group%20%28CAG%29%20is%20an%20independent,the%20Health%20Research%20Authority%20%28HRA%29%20for%20research%20uses.) approval. 
 
@@ -51,7 +51,7 @@ Where an LPS has gained  approval to use identifiable data without consent under
 
 If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss. to discuss. 
 
-## DO’s and DONT’s when developing active communication materials
+#### DO’s and DONT’s when developing active communication materials
 
 Consent statements and fair processing materials should be carefully phrased, taking into account literature on consenting behaviours and avoiding imposing limitations on data use (unintentionally). Consent phrasing should make clear the understanding and agreement on the high-level principles involved, whereas information materials can provide detail and exemplar illustrations. 
 
@@ -61,7 +61,7 @@ There is a significant amount of supporting documentation you will need to have 
 
 <details>
   <summary>
-    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
     <strong>Key messages that MUST be included in LPS active communications</strong>
     </div>
   </summary> 
@@ -90,7 +90,7 @@ There is a significant amount of supporting documentation you will need to have 
 
 <details>
   <summary>
-    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    <div style="border: 2px solid #aaf0d1; padding: 10px; border-radius: 5px;">
     <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</strong>   
   </div>
   </summary>   
@@ -107,7 +107,7 @@ There is a significant amount of supporting documentation you will need to have 
 
 <details>
   <summary>
-    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    <div style="border: 2px solid #e56a54; padding: 10px; border-radius: 5px;">
     <strong>Restrictive statements to avoid</strong>
     </div>
   </summary>   
@@ -120,5 +120,5 @@ There is a significant amount of supporting documentation you will need to have 
 | Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
 </details>
 
-
+<br>
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
