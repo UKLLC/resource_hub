@@ -55,7 +55,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    <strong>Key messages that MUST be included in LPS active communications<strong>
+    <strong>Key messages that MUST be included in LPS active communications</strong>
     </div>
   </summary> 
 
@@ -73,8 +73,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    <strong>Key messages that MUST be included in LPS active communications if linking to administrative data<strong>
-    </div>
+    <strong>Key messages that MUST be included in LPS active communications if linking to administrative data</strong>
   </summary> 
 
 | Concept                | Principle to Convey (top layer) | Potential Supporting Narrative                                                                                                                                         |
@@ -85,7 +84,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications<strong>    
+    <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</strong>   
   </div>
   </summary>   
 
@@ -102,7 +101,7 @@ There is a significant amount of supporting documentation you will need to have 
 <details>
   <summary>
     <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
-    <strong>Restrictive statements to avoid<strong>
+    <strong>Restrictive statements to avoid</strong>
     </div>
   </summary>   
 
