@@ -80,7 +80,7 @@ There is a significant amount of supporting documentation you will need to have 
 
 <details>
   <summary>
-    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
     <strong>Key messages that MUST be included in LPS active communications if linking to administrative data</strong>
   </summary> 
 
@@ -91,7 +91,7 @@ There is a significant amount of supporting documentation you will need to have 
 
 <details>
   <summary>
-    <div style="border: 2px solid #aaf0d1; padding: 10px; border-radius: 5px;">
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
     <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</strong>   
   </div>
   </summary>   
@@ -121,5 +121,6 @@ There is a significant amount of supporting documentation you will need to have 
 | Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
 </details>
 
-<br>
+
+
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
