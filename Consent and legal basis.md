@@ -3,7 +3,7 @@
 
 > Last modified: 14 Apr 2025
 
-*This section provides ackground information to aid understanding of legal basis*
+*This section provides background information to aid understanding of legal basis*
 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Common Law Duty of Confidentiality</strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individuals' confidential data.
