@@ -119,7 +119,7 @@ There is a significant amount of supporting documentation you will need to have 
 | Statements that restrict Open and FAIR access | ‘Only researchers at university x will be able to access your data’. | Most funders now expect Open and FAIR science, maximizing the value of data by sharing it with legitimate users under secure conditions. Participants generally accept that research expertise and capacity may lie outside the direct LPS team or institution. |
 | Statements that restrict the length of the LPS/collaboration | ‘Your data will only be kept for x years’. | Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. |
 </details>
-
+<br>
 
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
