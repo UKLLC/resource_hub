@@ -1,13 +1,16 @@
 
-### Background information to aid understanding of legal basis
+### Background information
 
 > Last modified: 14 Apr 2025
+
+##### Background information to aid understanding of legal basis
 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Common Law Duty of Confidentiality</strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individuals' confidential data.
 </div>
+<br>
 
-## What are the requirements to meet Common Law Duty of Confidentiality? 
+##### What are the requirements to meet Common Law Duty of Confidentiality? 
 
 LPS must establish a legal basis for addressing Duty of Confidentiality. This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
 
@@ -19,7 +22,7 @@ ii) implement a mechanism to set aside Common Law Duty of Confidentiality requir
 iii) establish a reasonable expectation or ensure the data are Anonymous. 
 The approach to this varies across the UK as Section 251 only applies in England and Wales and only applies to NHS records (not LPS data). In practice consent is the preferred mechanism however attempts to collect this retrospectively are likely to result in partial response where likelihood of responding is patterned by health and social characteristics. 
 
-## Consent 
+##### Consent 
 
 UK LPS are often called the 'consented studies', but the role of consent in these studies is complicated. All LPS participants are volunteers who have chosen to join the LPS, and all have the right to withdraw whenever they want. In this sense all participation is 'consented' in that it is based on an active and informed relationship. LPS may also seek consent for specific aspects of activity in the LPS, such as using genetic information or linking to health records. However, LPS can run over decades, it is hard to keep consent up to date and reflecting changes in technology, best practice and new ways of working, such as UK LLC. This means for LPS 'consent' is difficult to manage.  
 
@@ -35,7 +38,7 @@ Seeking consent is often not possible or leads to partial response where likelih
 
 Sometimes seeking consent is not possible, if the person has died or no longer has capacity to make a choice (e.g. someone with dementia). For this reason, there are laws which make it possible to use data without breaching common law. These laws were used during the coronavirus pandemic but also exist in general to help ensure research is fair and inclusive. For the use of NHS data in England, this law called Section 251. 
 
-## Section 251 
+##### Section 251 
 
 ![section 251](_static/section251.jpg)
 
@@ -51,11 +54,11 @@ Section 251 provides a lawful basis for an LPS to use identifiable health inform
 
 * ‘NHS National Data Opt Outs’ are honoured – this is a national scheme in England which allows members of the public to stop their data being used for research unless consent is in place. 
 
-## Utilising the Digital Economy Act (DEA): 
+##### Utilising the Digital Economy Act (DEA): 
 
 The DEA provides a means to meet Duty of Confidentiality for the use of non-health routine records in public good research. To use the DEA the UK LLC must be accredited to UK Statistic Authority standards for a secure data processing environment. The DEA applies across the UK but does not apply to health data. The DEA will provide the legal basis for Duty of Confidentiality but LPS participating in non-health linkages via UK LLC will still need to meet their ethical requirements to ensure transparent data use and ‘no surprises’ and provide a means to object. Consent may be used as part of meeting the studies ethical requirements. 
 
-## UK General Data Protection (GDPR) Regulations 
+##### UK General Data Protection (GDPR) Regulations 
 
 Most LPS process identifiable data given that they hold participant contact databases and administer processes which require the use of identifiers (mailing information and data collection exercises, conducting fieldwork or study assessments, linking to participant records).  LPS therefore manage Personal Data (broadly, the legal term for identifiable data) and therefore UK General Data Protection Regulations (UK GDPR) and Common Law Duty of Confidentiality apply. 
 
@@ -69,9 +72,7 @@ UK GDPR makes a distinction between data and sensitive data: all health data are
 
 UK GDPR sets out a series of rights for individuals. For research, there are derogations in place which mean that not all UK GDPR rights need to be applied. 
 
- 
-
-## UK LLC Confidentiality Due Diligence Panel 
+##### UK LLC Confidentiality Due Diligence Panel 
 
 UK LLC has worked with NHS England’s Advisory Group for Data (AGD) to formalise a consistent review process.   As part of the review framework, UK LLC has set up a Confidentiality Due Diligence Panel consisting of experts in Data Protection, Research Governance and public contributors. The Panel advises on whether new partnering LPS have established a basis for addressing their Common Law Duty of Confidentiality appropriately and ensured compliance with the principle of ‘no surprises'. For each LPS application the Panel is required to review the LPS consent materials (consent forms and participant information sheets). 
 
