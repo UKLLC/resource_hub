@@ -150,5 +150,29 @@ UK LLC is a national collaboration of UK longitudinal cohort studies, universiti
 
 ###### For LPS joining the UK LLC**
 
+**The UK Longitudinal Linkage Collaboration (UK LLC):**
+>[Insert LPS name] is a partner in the UK Longitudinal Linkage Collaboration. It was created in 2019 as a research resource during the COVID-19 pandemic. It is run by teams of staff based at the Universities of Bristol and Edinburgh, with IT experts from the University of Swansea, environmental science experts at the University of Leicester, the NHS and the Office for National Statistics. The UK LLC involves members of the public across its governance who provide a supportive and influential role.
+>
+>Linking data in this central way is good for science, as researchers can access linked data from many different UK population studies in one place. The UK LLC have now received further funding from UK Research and Innovation, the Economic and Social Research Council and the Medical Research Council to continue to provide linked data for research.
+>
+>[Read the UK LLC information for study participants on their website.](https://ukllc.ac.uk/for-study-participants)
+>
+>**What does the UK LLC do?**
+>
+UK LLC makes data available, within its Trusted Research Environment, for any public good research. Where participant agreement is in place, study data is linked with administrative data, such as health, education, employment, tax or benefits records.
+>
+>It enhances researchers’ ability to address important issues that affect people’s health and wellbeing. For example, they can examine how health and mental health conditions affect care provision among different groups, identify factors that can be modified to reduce risk, and understand the social impact of childhood adversity on adult health.
+>
+>[This video gives an overview of how UK LLC works.](https://www.youtube.com/watch?v=QfyaG3zemcs)
+>
+>**How does [Insert LPS name] share data with the UK LLC?**
+>
+>[Insert LPS name] provide the UK LLC with an anonymised copy of your data. To establish the linkage to health and wellbeing and other records we provide a list of your personal identifiers only (e.g. name, NHS ID, address) to the UK LLC. Only a small number of staff from the Universities of Bristol and Swansea can access the linked data.
+>
+>Data from the studies taking part is anonymised before going into the UK LLC Trusted Research Environment. The data available to researchers in the Trusted Research Environment does not identify any individual, as details such as name and address have been removed and other potentially identifiable information (such as job title) changed so it is less specific. [In addition for health data, the UK LLC links to data about the place where study participants live to provide further context for research, for example air pollution data or access to broadband, but does not share participants’ address or postcode information.]
+>
+>The data is stored on secure servers controlled by the University of Bristol (who are the Data Controller), the servers are located and run by the University of Swansea (who are the Data Processor for the University of Bristol). [Insert LPS name] remains the Data Controller for your data. At all times, we will determine whose records should be used in the UK LLC, which linkages can be established and which research teams can use your data and for which purposes. In this way, we make sure that all the principles of [Insert LPS name] are upheld. 
+
+*Credit: Understanding Society*
 
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC
