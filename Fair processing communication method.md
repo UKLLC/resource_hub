@@ -1,10 +1,10 @@
 # DO's and DONT's
 >Last modified: 14 Apr 2025
-<div style="background-color: #fffaf0; padding: 10px; border-radius: 5px;">
+<div style="background-color: #80dfd6; padding: 10px; border-radius: 5px;">
 This section covers: what fair processing is, why you need to conduct it, the different fair processing communication methods and the DO’s and DONT’s when developing active communication materials.
 </div>
-#### Why do you need to conduct fair processing? 
 
+#### Why do you need to conduct fair processing? 
 LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Fair Processing:</strong> processing personal data must always be fair as well as lawful, you should only handle personal data in ways that people would reasonably expect.
