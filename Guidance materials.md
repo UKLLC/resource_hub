@@ -8,7 +8,6 @@ Please select content appropriately depending on permissions within your LPS.
 
 These guidance materials for fair processing for record-linkage are designed for the public/for lay audience. For publication and distribution as appropriate.* 
 
-
 ### Video Files
 
 | Title and Link | Description |
