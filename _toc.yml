@@ -13,6 +13,9 @@ parts:
         title: UK LLC’s downloadable communication materials
       - file: Examples of LPS Communications about UK LLC.md
         title: UK LLC’s templates to develop your own communications
+      - file: Data flow diagrams.md
+        title: Partnering with UK LLC 
+
 
 
 
