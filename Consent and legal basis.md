@@ -4,14 +4,13 @@
 > Last modified: 14 Apr 2025
 
 *This section provides background information to aid understanding of legal basis*
+##### What are the requirements to meet Common Law Duty of Confidentiality? 
 
+LPS must establish a legal basis for addressing Duty of Confidentiality. 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Common Law Duty of Confidentiality</strong> are the expectations resulting from the UK’s cumulative case law relating to the handling of individuals' confidential data.
 </div>
-
-##### What are the requirements to meet Common Law Duty of Confidentiality? 
-
-LPS must establish a legal basis for addressing Duty of Confidentiality. This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
+This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
 
 ![No Surprises](_static/no_surprises.jpg)
 
