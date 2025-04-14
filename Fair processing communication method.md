@@ -53,7 +53,11 @@ Expectations of good practice in consent will change over time. Therefore, any d
 There is a significant amount of supporting documentation you will need to have in place, some of which may already be in place, although it may need to be updated to reflect the new sources of data. This will include a LPS protocol, [HRA protocol](https://www.hra.nhs.uk/planning-and-improving-research/research-planning/protocol/), a LPS privacy notice a data asset register and a data flow diagram. 
 
 <details>
-  <summary>### Key messages that MUST be included in LPS active communications</summary>  
+  <summary>
+    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    ### Key messages that MUST be included in LPS active communications
+    </div>
+  </summary> 
 
 | Concept                      | Principle to Convey (top layer)                                                                 | Potential Supporting Narrative                                                                                                                                                                                                                     |
 |------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,7 +71,11 @@ There is a significant amount of supporting documentation you will need to have 
 </details>
 
 <details>
-  <summary>### Key messages that MUST be included in LPS active communications if linking to administrative data</summary> 
+  <summary>
+    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    ### Key messages that MUST be included in LPS active communications if linking to administrative data
+    </div>
+  </summary> 
 
 | Concept                | Principle to Convey (top layer) | Potential Supporting Narrative                                                                                                                                         |
 |------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -75,7 +83,11 @@ There is a significant amount of supporting documentation you will need to have 
 </details>
 
 <details>
-  <summary>### Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</summary>  
+  <summary>
+    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    ### Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications    
+  </div>
+  </summary>   
 
 | Concept                  | Principle to Convey (Top Layer) | Potential Supporting Narrative                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,8 +100,12 @@ There is a significant amount of supporting documentation you will need to have 
 </details>
 
 <details>
-  <summary>### Restrictive statements to avoid</summary> 
-
+  <summary>
+    <div style="border: 2px solid #e2ed80; padding: 10px; border-radius: 5px;">
+    ### Restrictive statements to avoid  
+    </div>
+  </summary>   
+  
 | Concept                                    | Example                                                                 | Rationale                                                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Statements that restrict the research purpose | ‘Data will only be used e.g. understanding cancer, improving mental health’. | We caution against purpose limitations unless necessary. While an LPS may be initially funded to conduct a single or range of theme (e.g., disease) focused questions, the data typically develop wider utility and public benefit value. Flexibility is important for cases like the COVID-19 pandemic. |
