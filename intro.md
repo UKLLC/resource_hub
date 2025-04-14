@@ -8,7 +8,6 @@
   <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
 </div>
 <br>
-
 ## How to use the Resource Hub for LPS joining UK LLC: 
 
 1. Background information to aid understanding of legal basis. 
