@@ -115,6 +115,18 @@ Please copy and edit the text appropriately depending on the linkages being carr
 
 ###### Transitioning from COVID-19 research to general research for public good
 
+>UK LLC is a collaboration of UK longitudinal studies, universities, the NHS and UK statistical authorities, funded by UK Research and Innovation through the Medical Research Council and Economic and Social Research Council. Linkage to your medical records will still be managed through the NHS by NHS Digital Health and Care Wales. Your personal identifying information will be shared with the NHS only in order to link to your health records. No identifiable information will leave the NHS. 
+>
+>Your data will be pseudonymised by the NHS and then linked with [Insert LPS name] study data within the UK Secure eResearch Platform (SeRP), hosted by the University of Swansea. It is then fully de-identified before being deposited in the SeRP Trusted Research Environment (TRE). (Data in the TRE will not include your name, address, or date of birth, any real world ID numbers (like NHS ID), names of places where you live or work, or the names or IDs of hospitals or other service providers.) 
+>
+>Access to only the anonymised linked data is very strictly controlled and only researchers approved by the Office for National Statistics, the UKLLC review panel and the [Insert LPS name] study team will be permitted to access it. Analysis will take place within the UKLLC trusted research environment and only aggregated data (such as graphs) may be extracted. Researchers will never be able to identify you. The Trusted Research Environment meets the highest Information Security Standards ISO27001 and Digital Economy Act Accreditation. 
+>
+>UK based, ONS approved, researchers may apply for access to the de-identified linked data held in UK LLC in order to undertake additional research in the public interest. Individuals who wish to undertake any analysis on study data are required to go through a strict data access process and will need approval by the study team and data access committee. 
+>
+>UK LLC’s activities are reviewed by a panel of data owners and data experts and a panel of public contributors. UK LLC make a set of key commitments which they promise to abide by (https://ukllc.ac.uk/our-promises).  
+>
+>You have the right to withdraw your consent for data linkage, or to withdraw from the study altogether if you wish. If you have any questions or would like to withdraw your consent, please contact the [Insert LPS name] Study Team on [Insert LPS contact information] 
+>
 >**Update on our partnership with UK Longitudinal Linkage Collaboration:** 
 >
 >Our study is a partner in UK Longitudinal Linkage Collaboration (UK LLC) and we are letting you know what is changing with them, why, and how it may affect you. UK LLC was created in 2020 as a research resource to support researchers doing priority research to help understand the impacts of the COVID-19 pandemic and develop new treatments. They have now received further funding from UK Research and Innovation, Economic and Social Research Council and Medical Research Council to continue to provide linked data for research. 
@@ -131,19 +143,6 @@ Please copy and edit the text appropriately depending on the linkages being carr
 >
 >[insert text relevant to your study and offer opt-out]
 >
-###### Website template: Partnering with UK LLC
-
->UK LLC is a collaboration of UK longitudinal studies, universities, the NHS and UK statistical authorities, funded by UK Research and Innovation through the Medical Research Council and Economic and Social Research Council. Linkage to your medical records will still be managed through the NHS by NHS Digital Health and Care Wales. Your personal identifying information will be shared with the NHS only in order to link to your health records. No identifiable information will leave the NHS. 
->
->Your data will be pseudonymised by the NHS and then linked with [Insert LPS name] study data within the UK Secure eResearch Platform (SeRP), hosted by the University of Swansea. It is then fully de-identified before being deposited in the SeRP Trusted Research Environment (TRE). (Data in the TRE will not include your name, address, or date of birth, any real world ID numbers (like NHS ID), names of places where you live or work, or the names or IDs of hospitals or other service providers.) 
->
->Access to only the anonymised linked data is very strictly controlled and only researchers approved by the Office for National Statistics, the UKLLC review panel and the [Insert LPS name] study team will be permitted to access it. Analysis will take place within the UKLLC trusted research environment and only aggregated data (such as graphs) may be extracted. Researchers will never be able to identify you. The Trusted Research Environment meets the highest Information Security Standards ISO27001 and Digital Economy Act Accreditation. 
->
->UK based, ONS approved, researchers may apply for access to the de-identified linked data held in UK LLC in order to undertake additional research in the public interest. Individuals who wish to undertake any analysis on study data are required to go through a strict data access process and will need approval by the study team and data access committee. 
->
->UK LLC’s activities are reviewed by a panel of data owners and data experts and a panel of public contributors. UK LLC make a set of key commitments which they promise to abide by (https://ukllc.ac.uk/our-promises).  
->
->You have the right to withdraw your consent for data linkage, or to withdraw from the study altogether if you wish. If you have any questions or would like to withdraw your consent, please contact the [Insert LPS name] Study Team on [Insert LPS contact information] 
 
 *Credit: The United Kingdom Research study into Ethnicity And COVID-19 outcomes in Healthcare workers (UK-REACH)*
 
