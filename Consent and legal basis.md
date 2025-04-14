@@ -1,7 +1,7 @@
 
 ### Background information
 > Last modified: 14 Apr 2025
-<div style="background-color: #80dfd6; padding: 10px; border-radius: 5px;">
+<div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides background information to aid understanding of legal basis.
 </div>
 
