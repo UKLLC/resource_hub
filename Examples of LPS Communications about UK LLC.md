@@ -1,6 +1,6 @@
 # UK LLC’s templates to develop your own communications 
 
->Last modified: 14 Apr 2025
+>Last modified: 16 Apr 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section displays UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
 Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.</div>
@@ -146,7 +146,7 @@ Please copy and edit the text appropriately depending on the linkages being carr
 
 *Credit: The United Kingdom Research study into Ethnicity And COVID-19 outcomes in Healthcare workers (UK-REACH)*
 
-###### For LPS joining the UK LLC**
+###### For LPS joining the UK LLC
 
 **The UK Longitudinal Linkage Collaboration (UK LLC):**
 >[Insert LPS name] is a partner in the UK Longitudinal Linkage Collaboration. It was created in 2019 as a research resource during the COVID-19 pandemic. It is run by teams of staff based at the Universities of Bristol and Edinburgh, with IT experts from the University of Swansea, environmental science experts at the University of Leicester, the NHS and the Office for National Statistics. The UK LLC involves members of the public across its governance who provide a supportive and influential role.
@@ -157,7 +157,7 @@ Please copy and edit the text appropriately depending on the linkages being carr
 >
 >**What does the UK LLC do?**
 >
-UK LLC makes data available, within its Trusted Research Environment, for any public good research. Where participant agreement is in place, study data is linked with administrative data, such as health, education, employment, tax or benefits records.
+>UK LLC makes data available, within its Trusted Research Environment, for any public good research. Where participant agreement is in place, study data is linked with administrative data, such as health, education, employment, tax or benefits records.
 >
 >It enhances researchers’ ability to address important issues that affect people’s health and wellbeing. For example, they can examine how health and mental health conditions affect care provision among different groups, identify factors that can be modified to reduce risk, and understand the social impact of childhood adversity on adult health.
 >

@@ -1,54 +1,7 @@
 # DO's and DONT's
->Last modified: 14 Apr 2025
+>Last modified: 16 Apr 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section covers: what fair processing is, why you need to conduct it, the different fair processing communication methods and the DO’s and DONT’s when developing active communication materials.</div>
-
-#### Why do you need to conduct fair processing? 
-LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
-<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
-  <strong>Fair Processing:</strong> processing personal data must always be fair as well as lawful, you should only handle personal data in ways that people would reasonably expect.
-</div>
-<br>
-The Information Commissioner’s Office recommends a layered approach to providing information - e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail (e.g. privacy notice/web source for participants who want to understand the detail). Key messages should be reinforced over time preferably through annual active communications.
-
-![Fair Processing](_static/fairprocessing.jpg)
-
-#### What should your fair processing cover? 
-
-**UK LLC fair processing must make clear:** 
-
-* The scope of the research purpose that LPS data can be used for. Ideally LPS data are used for a range of research purposes (which could extend from including any public good research to being limited to a specific hypothesis or theme of research). 
-
-* A national Trusted Research Environment(s) is used to enable this linkage in a secure manner (named UK Longitudinal Linkage Collaboration) along with the NHS and national statistics agencies whose role it is to provide access to participants’ records for research purposes. 
-
-* Approved research users, beyond your LPS study team, can apply to access de-identified data within the TRE. 
-
-* That participants have the right to opt-out and to provide details/signpost how to do this. 
-
-#### How should I communicate with participants? 
-**Method:**  
-
-* Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically or mailed out to all participants which must provide a means to object (LPS may choose to seek specific opt-in consent).  
-
-* The privacy notices are an opportunity to provide very detailed information for participants (and other stakeholders) who wish to understand this level of detail. UK GDPR requires LPS to issue privacy notices providing fair processing. It should be stressed that while all materials and other communications with participants constitute fair processing, there is a separate need to provide a privacy notice. The Information Commissioner's Office (ICO) has produced [guidance](https://ico.org.uk/for-organisations/advice-for-small-organisations/how-to-write-a-privacy-notice-and-what-goes-in-it/) describing what information should be included. Updates can be provided via social media channels and this is particularly effective at alerting participants to change and promoting new research use and outcomes.  
-
-* LPS should consider equality/accessibility when determining whether to use electronic and postal mechanisms and while an electronic-only approach may be suitable in some LPS, for most a choice of physical media (ie, postal materials) and electronic media should be offered.  
-
-* Reasonable adjustments should be made to accommodate participants' specific needs (e.g., large print media or audio versions). 
-
-**Language:**
-
-* You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under [UK LLC’s templates](/Key%20messages%20in%20active%20communications.md).
-
-* Existing information should be up to date (e.g. privacy notices), and participant information sheets should reflect any changes. New stories should be added to existing media - e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live topic.
-
-#### Do I need public/participant involvement? 
-
-Data Owners and regulators are increasingly   insisting that LPS include participants and public contributors in understanding what is needed to help ensure there are ‘no surprises’ around data use and to co-develop fair processing materials. LPS using Section 251 must involve participants and/or the public – including gaining feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is sufficient and co-developing new fair processing – to gain/maintain Health Research Authority (HRA)[ Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/#:~:text=The%20Confidentiality%20Advisory%20Group%20%28CAG%29%20is%20an%20independent,the%20Health%20Research%20Authority%20%28HRA%29%20for%20research%20uses.) approval. 
-
-Where an LPS has gained  approval to use identifiable data without consent under 'Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Public Involvement and Engagement (PPIE) groups. 
-
-If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss. 
 
 #### DO’s and DONT’s when developing active communication materials
 
@@ -120,5 +73,51 @@ There is a significant amount of supporting documentation you will need to have 
 </details>
 <br>
 
+#### Why do you need to conduct fair processing? 
+LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes. 
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
+  <strong>Fair Processing:</strong> processing personal data must always be fair as well as lawful, you should only handle personal data in ways that people would reasonably expect.
+</div>
+<br>
+The Information Commissioner’s Office recommends a layered approach to providing information - e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail (e.g. privacy notice/web source for participants who want to understand the detail). Key messages should be reinforced over time preferably through annual active communications.
+
+![Fair Processing](_static/fairprocessing.jpg)
+
+#### What should your fair processing cover? 
+
+**UK LLC fair processing must make clear:** 
+
+* The scope of the research purpose that LPS data can be used for. Ideally LPS data are used for a range of research purposes (which could extend from including any public good research to being limited to a specific hypothesis or theme of research). 
+
+* A national Trusted Research Environment(s) is used to enable this linkage in a secure manner (named UK Longitudinal Linkage Collaboration) along with the NHS and national statistics agencies whose role it is to provide access to participants’ records for research purposes. 
+
+* Approved research users, beyond your LPS study team, can apply to access de-identified data within the TRE. 
+
+* That participants have the right to opt-out and to provide details/signpost how to do this. 
+
+#### How should I communicate with participants? 
+**Method:**  
+
+* Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically or mailed out to all participants which must provide a means to object (LPS may choose to seek specific opt-in consent).  
+
+* The privacy notices are an opportunity to provide very detailed information for participants (and other stakeholders) who wish to understand this level of detail. UK GDPR requires LPS to issue privacy notices providing fair processing. It should be stressed that while all materials and other communications with participants constitute fair processing, there is a separate need to provide a privacy notice. The Information Commissioner's Office (ICO) has produced [guidance](https://ico.org.uk/for-organisations/advice-for-small-organisations/how-to-write-a-privacy-notice-and-what-goes-in-it/) describing what information should be included. Updates can be provided via social media channels and this is particularly effective at alerting participants to change and promoting new research use and outcomes.  
+
+* LPS should consider equality/accessibility when determining whether to use electronic and postal mechanisms and while an electronic-only approach may be suitable in some LPS, for most a choice of physical media (ie, postal materials) and electronic media should be offered.  
+
+* Reasonable adjustments should be made to accommodate participants' specific needs (e.g., large print media or audio versions). 
+
+**Language:**
+
+* You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under [UK LLC’s templates](/Key%20messages%20in%20active%20communications.md).
+
+* Existing information should be up to date (e.g. privacy notices), and participant information sheets should reflect any changes. New stories should be added to existing media - e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live topic.
+
+#### Do I need public/participant involvement? 
+
+Data Owners and regulators are increasingly   insisting that LPS include participants and public contributors in understanding what is needed to help ensure there are ‘no surprises’ around data use and to co-develop fair processing materials. LPS using Section 251 must involve participants and/or the public – including gaining feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is sufficient and co-developing new fair processing – to gain/maintain Health Research Authority (HRA)[ Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/#:~:text=The%20Confidentiality%20Advisory%20Group%20%28CAG%29%20is%20an%20independent,the%20Health%20Research%20Authority%20%28HRA%29%20for%20research%20uses.) approval. 
+
+Where an LPS has gained  approval to use identifiable data without consent under 'Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Public Involvement and Engagement (PPIE) groups. 
+
+If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss. 
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
