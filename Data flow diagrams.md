@@ -1,6 +1,6 @@
 # Partnering with UK LLC 
 
->Last modified: 30 Apr 2025
+>Last modified: 06 May 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data.</div>
 
@@ -42,6 +42,15 @@ This section provides information about partnering with UK LLC including, data f
 **Figure 4:** Overview of indicative dataflow of ONS held datasets (Data 
 owners: Department for Work and Pensions (DWP), HM Revenue 
 and Customs (HMRC) and Department for Education (DfE))
+
+### UK LLC data processing methodology text:
+
+>A ‘split-file’ anonymisation process developed by Swansea University for the SAIL Databank is used to securely transfer all datasets from contributing LPS into the UK LLC TRE. In this methodology, the LPS data are split by LPS data managers into a file of personal identifiers and an externally meaningless ‘Link ID’ (File 1). Separately, the attribute data are de-identified (direct and pseudo identifiers are either dropped or transformed into less identifiable research variables) and indexed using the same ‘Link ID’ as the File 1 – this is called a File 2. 
+>
+>Importantly, this process restricts the handling and management of LPS participants’ personal identifiers to the contributing LPS, Digital Health and Care Wales (DHCW) (the UK LLC’s trusted third party/linkage broker) and the linked data owners and contracted geo-data modellers (including University of Leicester/City St George’s, University of London). This means no one party or organisation can see personal identifiers and participant data. Data integration and management is conducted by a dedicated UK LLC Data Team within the UK LLC TRE. 
+>
+>For more information on the UK LLC data processing methodology including the split file approach and linkage process, please refer to the [UK LLC Protocol](_static/UKLLC_Protocol_V2.1_CLEAN_14102024.pdf)
+
 
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC
 
