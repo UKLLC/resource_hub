@@ -1,6 +1,6 @@
 
 ### Background information
-> Last modified: 14 Apr 2025
+> Last modified: 07 May 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides background information to aid understanding of legal basis and outlines how to meet Common Law Duty of Confidentiality.</div>
 
@@ -11,6 +11,7 @@ LPS must establish a legal basis for addressing Duty of Confidentiality.
 </div>
 <br>
 This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as ‘no surprises’ principle. 
+
 
 ![No Surprises](_static/no_surprises.jpg)
 

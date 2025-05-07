@@ -1,6 +1,6 @@
 # Partnering with UK LLC 
 
->Last modified: 06 May 2025
+>Last modified: 07 May 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data.</div>
 
@@ -30,16 +30,16 @@ This section provides information about partnering with UK LLC including, data f
 
 ## Data flow diagrams
 ![Data Flow Diagram](_static/split_file.jpg)
-**Figure 1:** A  high level overview of the data processing methodology used to flow data into the UK LLC TRE.
+[**Figure 1**](_static/split_file.jpg) A high level overview of the data processing methodology used to flow data into the UK LLC TRE.
 
-![Data Flow Diagram](_static/DataFlows1.png)
-**Figure 2:** Overview of data flow from Data Owner National Health Service (NHS).
+![Data Flow Diagram](_static/NHS_data.png)
+[**Figure 2**](_static/NHS_data.png) Overview of data flow from data owner, National Health Service (NHS).
 
 ![Data Flow Diagram](_static/place_based_data_flow.png)
-**Figure 3:** Overview of data flow for place-based data linkage.
+[**Figure 3**](_static/place_based_data_flow.png) Overview of data flow for place-based data linkage.
 
-![Data Flow Diagram](_static/admin_linkage_flow.png)
-**Figure 4:** Overview of indicative dataflow of ONS held datasets (Data 
+![Data Flow Diagram](_static/DataFlows1.png)
+[**Figure 4**](_static/DataFlows1.png) Overview of indicative dataflow of ONS held datasets (Data 
 owners: Department for Work and Pensions (DWP), HM Revenue 
 and Customs (HMRC) and Department for Education (DfE))
 
