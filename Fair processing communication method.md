@@ -35,8 +35,7 @@ There is a significant amount of supporting documentation you will need to have 
     <strong>Health Research Authority guidance for Participant Information Sheets (PIS)</strong>
     </div>
   </summary>
-
-# In the summary PIS
+<font size="5">In the summary PIS</font>
 
 The Health Research Authority (HRA) recommend that potential participants are provided with a summary sheet that provides a simple outline of the study. They suggest that if you use such a summary, the text about use of personal data should be kept brief and simple.
 
