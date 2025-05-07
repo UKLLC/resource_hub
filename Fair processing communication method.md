@@ -177,6 +177,6 @@ Data Owners and regulators are increasingly   insisting that LPS include partici
 Where an LPS has gained  approval to use identifiable data without consent under 'Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Public Involvement and Engagement (PPIE) groups. 
 
 If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss.
-![Public Contributors](_static/public_contributors.jpg)
+![Public Contributors](_static/public_contributors2.jpg)
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
