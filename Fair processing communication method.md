@@ -1,5 +1,5 @@
 # DO's and DONT's
->Last modified: 16 Apr 2025
+>Last modified: 07 May 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section covers: the DO’s and DONT’s when developing active communication materials, what fair processing is, why you need to conduct it and the different fair processing communication methods.</div>
 
@@ -27,6 +27,62 @@ There is a significant amount of supporting documentation you will need to have 
 | Types of data to be linked to | Linkage to data type(s): health records, administrative data [relevant examples as appropriate]. | • This could include….. <br> • Such as…… <br> [Avoid detailing exhaustive lists of data types, as this can become problematic in the future.]                                                                                                      |
 
 *Include information on environmental data linkage where LPS have a postcode or address sharing permissions in place. 
+</details>
+
+<details>
+  <summary>
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
+    <strong>Health Research Authority guidance for Participant Information Sheets (PIS)</strong>
+    </div>
+  </summary> 
+
+#### In the summary PIS
+The Health Research Authority (HRA) recommend that potential participants are provided with a summary sheet that provides a simple outline of the study. They suggest that if you use such a summary, the text about use of personal data should be kept brief and simple.
+
+>In this research study we will use information from [you] [your medical records] [your GP] [OTHER]. We will only use information that we need for the research study. We will let very few people know your name or contact details, and only if they really need it for this study. **(UK LLC recommends providing an overview of the types of records and examples rather than an extensive or exclusive list of records to enable linkages that may become available.)**
+>
+>Everyone involved in this study will keep your data safe and secure. We will also follow all privacy rules. 
+>
+>At the end of the study we will save some of the data [in case we need to check it] AND/OR [for future research]. 
+>
+>We will make sure no-one can work out who you are from the reports we write.
+>
+>The information pack tells you more about this.
+
+#### In the PIS or document provided to participants
+
+>How will we use information about you?
+>
+>We will need to use information from [you] [from your medical records] [your GP] [OTHER] for this research project. **(UK LLC recommends providing an overview of the types of records and examples rather than an extensive or exclusive list of records to enable linkages that may become available).**
+>
+>This information will include your [initials/ NHS number/ name/ contact details/ **provide a bullet list of identifiers held by site and/or sponsor for the research**]. People will use this information to do the research or to check your records to make sure that the research is being done properly.
+>
+>**OPTION where applicable:** People who do not need to know who you are will not be able to see your name or contact details. Your data will have a code number instead.
+>
+>**OPTION if not already stated: [insert name of sponsor]** is the sponsor of this research. *(A sponsor is the organisation or partnership that takes on overall responsibility for arrangements being in place to set up, run and report a research project.)*
+>
+>**[insert name of sponsor]** is responsible for looking after your information. We will share your information related to this research project with the following types of organisations:
+> - **[in bullet points, list the organisation types]**
+> We will keep all information about you safe and secure by:
+>**in bullet points, concisely list some of the steps you will take to keep information secure**
+>
+>#### How will we use information about you after the study ends?
+>
+>Once we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study.
+>
+>**Option 1 where data is stored for a set number of years:** We will keep your study data for a maximum of [insert number] of years. The study data will then be fully anonymised and securely archived or destroyed. **(UK LLC does not recommend stating a specific set number of years as it limits the number of years in which the retention period is compatible with UK LLC processing LPS data.)**
+>
+>**Option 2 where conditions determine how long data is stored for:** We will keep your study data for the minimum period of time required by **[state the conditions that will be used to determine this time period].**The study data will then be fully anonymised and securely archived or destroyed. **(As per GDPR, any personal data must not be kept any longer than is necessary for the purpose for which the personal data are processed. However, there is an exemption in the Information Commissioner's Office (ICO) guidance for research data which allows retention indefinitely. We note that both the data held by UK LLC and the documents relating to the design, operations and development of UK LLC all constitute 'research data' and can therefore be held indefinitely. UK LLC recommends not specifying how long an LPS will retain participant data but remaining compliant with GDPR by only retaining the data for as long as needed. For example "As we would like to look at long-term trends in people's health, we have not set a limit on how long we would like to keep your information".)**
+>
+>#### What are your choices about how your information is used?
+>
+>- you can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have
+>- **OPTION if follow up data will be collected after withdrawal:** If you choose to stop taking part in the study, we would like to continue collecting information about your health from [central NHS records / your hospital / your GP]. If you do not want this to happen, tell us and we will stop
+>-you have the right to ask us to access, remove, change or delete data we hold about you for the purposes of the study. You can also object to our processing of your data. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this
+>**OPTION if data will be used for future research:** If you agree to take part in this study, you will have the option to take part in future research using your data saved from this study. **[Insert details of any specific bank / repository]**
+>
+>*For more information visit the [HDR Guidance on GDPR transparency wording](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/transparency-wording-for-all-sponsors)*
+>
 </details>
 
 <details>
@@ -118,6 +174,7 @@ Data Owners and regulators are increasingly   insisting that LPS include partici
 
 Where an LPS has gained  approval to use identifiable data without consent under 'Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Public Involvement and Engagement (PPIE) groups. 
 
-If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss. 
+If it is not possible to consult LPS-specific PPIE groups, please contact  info@ukllc.ac.uk to discuss.
+![Public Contributors](_static/public_contributors.jpg)
 
 >[FAQs](https://ukllc.ac.uk/faq) about UK LLC
