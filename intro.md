@@ -5,10 +5,9 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
 
 
   #### How to use the Resource Hub:
-  <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
-    <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
-  </div>
-
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
+  <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
+</div>
 
   1. Background information to aid understanding of legal basis.
   2. ‘DO’s and DONT’s’ when developing active communication materials.
