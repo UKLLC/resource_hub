@@ -9,6 +9,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
     <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
   </div>
 
+
   1. Background information to aid understanding of legal basis.
   2. ‘DO’s and DONT’s’ when developing active communication materials.
   3. UK LLC’s downloadable communication materials.
