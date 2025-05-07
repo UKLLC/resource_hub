@@ -3,21 +3,23 @@
 <div style="background-color:rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
-#### How to use the Resource Hub: 
-<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
-  <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
+<div style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+  #### How to use the Resource Hub:
+  <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
+    <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
+  </div>
+  <br>
+  1. Background information to aid understanding of legal basis.
+  <br>
+  2. ‘DO’s and DONT’s’ when developing active communication materials.
+  <br>
+  3. UK LLC’s downloadable communication materials.
+  <br>
+  4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
+  <br>
+  5. Partnering with UK LLC (data flow diagrams and designing consent materials).
 </div>
-<br>
 
-1. Background information to aid understanding of legal basis. 
-
-2. ‘DO’s and DONT’s’ when developing active communication materials. 
-
-3. UK LLC’s downloadable communication materials. 
-
-4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates). 
-
-5. Partnering with UK LLC (data flow diagrams and designing consent materials).
 #### Why this guidance is useful: 
 
 * By law, LPS must make clear to their participants their collaboration with UK LLC. Legal context, these communications establish “reasonable expectation” amongst participants as to how their data are used, what rights the participants have and how they can be exercised (particularly the right to object). This guidance will help you develop communications so that your participants can establish an understanding of what is happening and why. 
