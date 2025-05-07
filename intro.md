@@ -1,9 +1,9 @@
 # Introduction
->Last modified: 14 Apr 2025
+>Last modified: 07 May 2025
 <div style="background-color:rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
-#### How to use the Resource Hub for LPS joining UK LLC: 
+#### How to use the Resource Hub: 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
 </div>
