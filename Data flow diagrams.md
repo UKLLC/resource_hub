@@ -33,13 +33,13 @@ This section provides information about partnering with UK LLC including, data f
 [**Figure 1**](_static/split_file.jpg) A high level overview of the data processing methodology used to flow data into the UK LLC TRE.
 
 ![Data Flow Diagram](_static/NHS_data.png)
-[**Figure 2**](_static/NHS_data.png) Overview of data flow from data owner, National Health Service (NHS).
+[**Figure 2**](_static/NHS_data.jpg) Overview of data flow from data owner, National Health Service (NHS).
 
 ![Data Flow Diagram](_static/place_based_data_flow.png)
-[**Figure 3**](_static/place_based_data_flow.png) Overview of data flow for place-based data linkage.
+[**Figure 3**](_static/place_based_data_flow.jpg) Overview of data flow for place-based data linkage.
 
 ![Data Flow Diagram](_static/DataFlows1.png)
-[**Figure 4**](_static/DataFlows1.png) Overview of indicative dataflow of ONS held datasets (Data 
+[**Figure 4**](_static/DataFlows1.jpg) Overview of indicative dataflow of ONS held datasets (Data 
 owners: Department for Work and Pensions (DWP), HM Revenue 
 and Customs (HMRC) and Department for Education (DfE))
 
