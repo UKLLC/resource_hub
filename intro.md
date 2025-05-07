@@ -3,7 +3,7 @@
 <div style="background-color:rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
-<div style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+<div style="border: 2px solid black; padding: 10px; border-radius: 5px;">
   #### How to use the Resource Hub:
   <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
     <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
@@ -19,6 +19,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
   <br>
   5. Partnering with UK LLC (data flow diagrams and designing consent materials).
 </div>
+
 
 #### Why this guidance is useful: 
 
