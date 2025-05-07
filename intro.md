@@ -3,8 +3,6 @@
 <div style="background-color:rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
-![Public Contributors](_static/public_contributors.jpg)
-
 #### How to use the Resource Hub: 
 <div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
   <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
@@ -54,6 +52,7 @@ UK LLC is very happy to review draft materials (send to info@ukllc.ac.uk). We st
 
  * [Understanding patient data](https://understandingpatientdata.org.uk/) provides guidance and examples of communication materials. This site is closely aligned to the NHS Data Guardian and is therefore considered gold standard by NHS England. 
 
+![Public Contributors](_static/public_contributors.jpg)
  
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC
 

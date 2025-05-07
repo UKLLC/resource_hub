@@ -35,7 +35,9 @@ There is a significant amount of supporting documentation you will need to have 
     <strong>Health Research Authority guidance for Participant Information Sheets (PIS)</strong>
     </div>
   </summary>
-<font size="5">In the summary PIS</font>
+
+<font size="6">In the summary PIS</font>
+
 
 The Health Research Authority (HRA) recommend that potential participants are provided with a summary sheet that provides a simple outline of the study. They suggest that if you use such a summary, the text about use of personal data should be kept brief and simple.
 
@@ -50,8 +52,7 @@ The Health Research Authority (HRA) recommend that potential participants are pr
 >
 >The information pack tells you more about this.
 
-**In the PIS or document provided to participants:**
-
+<font size="6">In the PIS or document provided to participants:</font>
 
 >How will we use information about you?
 >
@@ -68,7 +69,8 @@ The Health Research Authority (HRA) recommend that potential participants are pr
 > We will keep all information about you safe and secure by:
 >**in bullet points, concisely list some of the steps you will take to keep information secure**
 
-**How will we use information about you after the study ends?**
+<font size="6">How will we use information about you after the study ends?</font>
+
 >
 >Once we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study.
 >
@@ -76,7 +78,8 @@ The Health Research Authority (HRA) recommend that potential participants are pr
 >
 >**Option 2 where conditions determine how long data is stored for:** We will keep your study data for the minimum period of time required by **[state the conditions that will be used to determine this time period]** The study data will then be fully anonymised and securely archived or destroyed. **(As per GDPR, any personal data must not be kept any longer than is necessary for the purpose for which the personal data are processed. However, there is an exemption in the Information Commissioner's Office (ICO) guidance for research data which allows retention indefinitely. We note that both the data held by UK LLC and the documents relating to the design, operations and development of UK LLC all constitute 'research data' and can therefore be held indefinitely. UK LLC recommends not specifying how long an LPS will retain participant data but remaining compliant with GDPR by only retaining the data for as long as needed. For example "As we would like to look at long-term trends in people's health, we have not set a limit on how long we would like to keep your information".)**
 
-**What are your choices about how your information is used?**
+<font size="6">What are your choices about how your information is used?</font>
+
 >
 >- you can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have
 >- **OPTION if follow up data will be collected after withdrawal:** If you choose to stop taking part in the study, we would like to continue collecting information about your health from [central NHS records / your hospital / your GP]. If you do not want this to happen, tell us and we will stop
