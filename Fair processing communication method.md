@@ -1,9 +1,9 @@
-# DO's and DONT's
+# DO's and DON'Ts
 >Last modified: 07 May 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section covers: the DO’s and DONT’s when developing active communication materials, what fair processing is, why you need to conduct it and the different fair processing communication methods.</div>
 
-#### DO’s and DONT’s when developing active communication materials
+#### DO’s and DON'Ts when developing active communication materials
 
 Consent statements and fair processing materials should be carefully phrased, taking into account literature on consenting behaviours and avoiding imposing unintentional limitations on data use. Consent phrasing should make clear the understanding and agreement on the high-level principles involved, whereas information materials can provide detail and exemplar illustrations. 
 

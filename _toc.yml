@@ -8,7 +8,7 @@ parts:
       - file: Consent and legal basis.md  
         title: Background information
       - file: Fair processing communication method.md
-        title: DO's and DONT's
+        title: DO's and DON'Ts
       - file: Guidance materials.md
         title: UK LLC’s downloadable communication materials
       - file: Examples of LPS Communications about UK LLC.md
