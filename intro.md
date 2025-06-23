@@ -10,7 +10,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
 </div>
 
   1. Background information to aid understanding of legal basis.
-  2. ‘DO’s and DONT’s’ when developing active communication materials.
+  2. ‘DO’s and DON'Ts’ when developing active communication materials.
   3. UK LLC’s downloadable communication materials.
   4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
   5. Partnering with UK LLC (data flow diagrams and designing consent materials).
