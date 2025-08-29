@@ -1,5 +1,5 @@
 # UK LLC’s downloadable communication materials
-> Last modified: 14 Apr 2025
+> Last modified: 29 Aug 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section contains UK LLC's downloadable communication materials that support fair processing for record linkage.</div>
 <br>
@@ -35,7 +35,7 @@ These guidance materials for fair processing for record-linkage are designed for
 
 | Title and Link | Description |
 |----------------|-------------|
-| [UK LLC: Research beyond COVID-19 Presentation](_static/Slides_GeneralPurposeResearch_PPIEIntroUKLLCv1-MED-COM-007.pptx) | Details of transition to general purpose research and PPIE. |
+| [UK LLC: Research beyond COVID-19 Presentation](_static/Slides_GeneralPurposeResearch_PPIEIntroUKLLCv2-MED-COM-007.pptx) | Details of transition to general purpose research and PPIE. |
 
 ---
 
@@ -55,8 +55,8 @@ These guidance materials for fair processing for record-linkage are designed for
 | [Common Law Duty of Confidentiality](_static/Infographic_CommonLawDutyOfConfidentiality_UKLLCv1_MED-COM-008.pdf) | A summary of the legal principle of Common Law Duty of Confidentiality. |
 | [Control of Patient Information (COPI) Regulations 2002](_static/Infographic_COPI_Section251_UKLLCv1_MED-COM-009.pdf) | A summary of the Control of Patient Information (COPI) Regulations. |
 | [Digital Economy Act](_static/Infographic_DigitalEconomyAct_UKLLCv1_MED-COM-010.pdf) | A summary of the Digital Economy Act. |
-| [‘UK LLC How We Work’ for General Purpose Research](_static/Infographic_HowWeWork_GeneralPurposeResearch_UKLLCv2-MED-COM-005.png) | Details our principles and processes of working. Useful for new studies joining partnership. |
-| [UK LLC is Evolving for General Purpose Research](_static/Infographic_WeAreEvolving_MovingToGeneralPurposeResearch_UKLLCv1_MED-COM-006.png) | Transition from a COVID-19 only research database to a generic database supporting any public good longitudinal research. Security and safeguards. |
+| [‘UK LLC How We Work’ for General Purpose Research](_static/MED-COM-005_Infographic_HowWeWork_GeneralPurposeResearch_UKLLC_V3.png) | Details our principles and processes of working. Useful for new studies joining partnership. |
+| [UK LLC is Evolving for General Purpose Research](_static/MED-COM-006_Infographic_WeAreEvolving_MovingToGeneralPurposeResearch_UKLLC_V2.png) | Transition from a COVID-19 only research database to a generic database supporting any public good longitudinal research. Security and safeguards. |
 | [UK Data Protection Laws](_static/Infographic_UKDataProtectionLaws_UKLLCv1_MED-COM-011.pdf) | A summary of the UK Data Protection Laws. |
 | [Understanding Longitudinal Population Study Data web version](_static/Infographic_CombinedSummary_WebVersion_UKLLCv1_MED-COM-012.pdf) | A summary of the laws and legal principles related to study participant data. |
 
