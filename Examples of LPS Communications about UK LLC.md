@@ -109,7 +109,7 @@ Please copy and edit the text appropriately depending on the linkages being carr
 >
 > The UK Data Protection Act 2018 provides individuals with rights over how their data are used. The UK LLC supports these rights. If you would like to find out more, read the full UK LLC privacy notice – [https://ukllc.ac.uk/privacy-policy](https://ukllc.ac.uk/privacy-policy)
 
-*Credit: Generation Scotland*
+*Credit: UK LLC and Generation Scotland*
 
 ## Website templates: 
 
