@@ -7,7 +7,7 @@ This section provides information about partnering with UK LLC including, data f
 #### Text about UK LLC  
 
 <details>
-  <summary>### UK LLC summary text</summary>
+  <summary>UK LLC summary text</summary>
 
 >UK Longitudinal Linkage Collaboration (UK LLC) is the national Trusted Research Environment (TRE) for the UK’s longitudinal research community. UK LLC collaborates with and supports Longitudinal Population Studies (LPS) by providing record linkage and TRE services; and supports the research community by providing external researchers with secure access to a research database of integrated data. 
 >
@@ -34,7 +34,7 @@ This section provides information about partnering with UK LLC including, data f
 </details>
 
 <details>
-  <summary>data processing methodology</summary>
+  <summary>Data processing methodology</summary>
 
 >A ‘split-file’ anonymisation process developed by Swansea University for the SAIL Databank is used to securely transfer all datasets from contributing LPS into the UK LLC TRE. In this methodology, the LPS data are split by LPS data managers into a file of personal identifiers and an externally meaningless ‘Link ID’ (File 1). Separately, the attribute data are de-identified (direct and pseudo identifiers are either dropped or transformed into less identifiable research variables) and indexed using the same ‘Link ID’ as the File 1 – this is called a File 2. 
 >
@@ -77,7 +77,7 @@ and Customs (HMRC) and Department for Education (DfE))
 
 #### Study Zones
 
-This section is designed for UK LLC partner Longitudinal Population Studies
+***This section is designed for UK LLC partner Longitudinal Population Studies***
 
 <details>
   <summary>What is a Study Zone?</summary>
@@ -116,6 +116,8 @@ Only the people in your team who are going to be working on the data in the Stud
 
 - Once all project governance steps have been fulfilled, i.e. Data Access Agreement, DURA, Data Owners’ Ts&Cs and we’ve verified your ONS Accredited Researcher status, we will provision data to your Study Zone. You will receive an automated email from UK LLC explaining how to log into the UK LLC TRE and get started. See the [UK LLC Guidebook: TRE User Guide](https://guidebook.ukllc.ac.uk/docs/user_guide/introduction) for further information.         
 </details>
+
+
 
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC
 
