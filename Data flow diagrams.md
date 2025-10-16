@@ -86,17 +86,20 @@ A Study Zone is a dedicated space within the UK LLC Trusted Research Environment
 
 <details>
   <summary>What analyses will I be able to do in my Study Zone?</summary>
-In a Study Zone, you can only conduct quality checks, curation and methodological enhancement. You must not do any applied research in your Study Zone. If you want to conduct an applied research project, you’ll need to submit an Expression of Interest (EoI) – for instructions, see [UK LLC Guidebook: How do I apply?](https://guidebook.ukllc.ac.uk/docs/ukllc_key_facts/applying/intro)    
+
+In a Study Zone, you can only conduct quality checks, curation and methodological enhancement. You must not do any applied research in your Study Zone. If you want to conduct an applied research project, you’ll need to submit an Expression of Interest (EoI) – for instructions, see [UK LLC Guidebook: How do I apply?](https://guidebook.ukllc.ac.uk/docs/ukllc_key_facts/applying/intro)   
 </details>
 
 <details>
   <summary>When can I access my Study Zone?</summary>
+
 You will only be able to access your Study Zone once it has been set up by UK LLC (see below), you have deposited at least one File 2 and your participants have been linked to e.g. NHS England.      
 </details>
 
 <details>
   <summary>Who should have access to my Study Zone?</summary>
-Only the people in your team who are going to be working on the data in the Study Zone within the UK LLC TRE need to have access. Only [Office for National Statistics (ONS) Accredited Researchers](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/becomeanaccreditedresearcher) can access the UK LLC TRE – all members of your team will therefore need to attain accreditation prior to access.        
+  
+Only the people in your team who are going to be working on the data in the Study Zone within the UK LLC TRE need to have access. Only Office for National Statistics (ONS) [Accredited Researchers](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/becomeanaccreditedresearcher) can access the UK LLC TRE – all members of your team will therefore need to attain accreditation prior to access.        
 </details>
 
 <details>
