@@ -1,6 +1,6 @@
 # Partnering with UK LLC 
 
->Last modified: 10 Oct 2025
+>Last modified: 16 Oct 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data.</div>
 
