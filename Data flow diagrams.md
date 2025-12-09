@@ -1,6 +1,6 @@
 # Partnering with UK LLC 
 
->Last modified: 16 Oct 2025
+>Last modified: 09 Dec 2025
 <div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
 This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data.</div>
 
@@ -40,7 +40,7 @@ This section provides information about partnering with UK LLC including, data f
 >
 >Importantly, this process restricts the handling and management of LPS participants’ personal identifiers to the contributing LPS, Digital Health and Care Wales (DHCW) (the UK LLC’s trusted third party/linkage broker) and the linked data owners and contracted geo-data modellers (including University of Leicester/City St George’s, University of London). This means no one party or organisation can see personal identifiers and participant data. Data integration and management is conducted by a dedicated UK LLC Data Team within the UK LLC TRE. 
 >
->For more information on the UK LLC data processing methodology including the split file approach and linkage process, please refer to the [UK LLC Protocol](_static/UKLLC_Protocol_V2.1_CLEAN_14102024.pdf)
+>For more information on the UK LLC data processing methodology including the split file approach and linkage process, please refer to the [UK LLC Protocol](_static/DOC-OPE-038_UKLLC_Protocol_V3.0.pdf)
 </details>
 
 #### Data flow diagrams
