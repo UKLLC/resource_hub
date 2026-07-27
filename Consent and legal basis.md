@@ -1,7 +1,7 @@
 
 ### Background information
 > Last modified: 07 May 2025
-<div style="background-color: rgba(0, 178, 169, 0.3); padding: 10px; border-radius: 5px;">
+<div style="background-color: rgba(226, 237, 128, 0.3); padding: 10px; border-radius: 5px;">
 This section provides background information to aid understanding of legal basis and outlines how to meet Common Law Duty of Confidentiality.</div>
 
 ##### What are the requirements to meet Common Law Duty of Confidentiality? 
