@@ -4,10 +4,12 @@
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS – these materials are based on the community’s collective efforts and expertise.</div>
 
 
-  #### How to use the Resource Hub:
-<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
-  <strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.
-</div>
+#### How to use the Resource Hub:
+
+<aside class="admonition note">
+<p class="admonition-title">Note</p>
+<p><strong>Resource Hub</strong> is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.</p>
+</aside>
 
   1. Background information to aid understanding of legal basis.
   2. ‘DO’s and DON'Ts’ when developing active communication materials.
