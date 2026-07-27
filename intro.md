@@ -5,7 +5,6 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
 
 
 #### How to use the Resource Hub:
-<br>
 <aside class="admonition note">
 <p class="admonition-title">Resource Hub</p>
 <p>Resource Hub is a guidance library to aid communications to the public. It is designed to be relevant to Longitudinal Population Studies.</p>
