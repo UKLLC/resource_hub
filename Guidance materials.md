@@ -1,6 +1,6 @@
 # UK LLC’s downloadable communication materials
 > Last modified: 29 Aug 2025
-<div style="background-color: rgba(226, 237, 128, 0.3); padding: 10px; border-radius: 5px;">
+<div style="background-color: rgba(196, 214, 0, 0.3); padding: 10px; border-radius: 5px;">
 This section contains UK LLC's downloadable communication materials that support fair processing for record linkage.</div>
 <br>
 These materials are communications to address the widening research purpose of UK LLC. They encompass all data we are currently (in the process of) linking to. 
