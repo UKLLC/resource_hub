@@ -33,17 +33,26 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  css_files:
-    - custom.css
+  favicon: "docs/images/favicon.ico"
+
   extra_navbar: |
-    Visit our <a href="https://github.com/UKLLC/jupyter-book">GitHub Repository</a>
-    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+    Visit our <a href="https://github.com/UKLLC/jupyter-book" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org" target="_blank" rel="noopener noreferrer">Jupyter Book</a></div>
+
   extra_footer: |
-    The UK LLC Resource Hub and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
-  # custom_template: _templates  # Comment this line out for now
-  static_path: ['_static']
+    The UK LLC Resource Hub and materials are available publicly under
+    <a href="https://github.com/UKLLC/licencing" target="_blank" rel="noopener noreferrer">
+      open source licences
+    </a>
+
   google_analytics_id: G-7K6NTDY6PN
 
+sphinx:
+  config:
+    html_static_path:
+      - _static
+    html_css_files:
+      - custom.css
 
 # Enable extensions for MyST markdown
 parse:
