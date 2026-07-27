@@ -1,6 +1,6 @@
 # DO's and DON'Ts
 >Last modified: 07 May 2025
-<div style="background-color: rgba(196, 214, 0, 0.3); padding: 10px; border-radius: 5px;">
+<div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section covers: the DO’s and DONT’s when developing active communication materials, what fair processing is, why you need to conduct it and the different fair processing communication methods.</div>
 
 #### DO’s and DON'Ts when developing active communication materials
