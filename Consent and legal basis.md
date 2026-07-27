@@ -9,8 +9,8 @@ This section provides background information to aid understanding of legal basis
 LPS must establish a legal basis for addressing Duty of Confidentiality.
 
 <aside class="admonition note">
-<p class="admonition-title">Note</p>
-<p><strong>Common Law Duty of Confidentiality</strong> refers to the expectations resulting from the UK's cumulative case law relating to the handling of individuals' confidential data.</p>
+<p class="admonition-title">Common Law Duty of Confidentiality</p>
+<p>Refers to the expectations resulting from the UK's cumulative case law relating to the handling of individuals' confidential data.</p>
 </aside>
 
 This is most likely to be either consent or a legal mechanism to set aside the requirement to address this duty. LPS must take all reasonable measures to ensure participants have a ‘reasonable expectation’ as to how their data are used – known as the ‘no surprises’ principle.
