@@ -14,8 +14,8 @@ These guidance materials for fair processing for record-linkage are designed for
 |----------------|-------------|
 | [Animation Overview UK LLC](https://www.youtube.com/watch?v=QfyaG3zemcs) | Details the broad public benefit research purpose (beyond COVID-19) and linkage to administrative records. |
 | [Animation: ‘How We Link Data’ - Health and Non-Health UKLLC](https://www.youtube.com/watch?v=FXnHc8R3UW0) | Details the split file process through to data being held in UK LLC Trusted Research Environment. |
-| [Common Law Duty of Confidentiality - BSL](_static/Common_Law_Duty_of_Confidentiality_BSL_UKLLCv1_MED-COM-058.mp4) | British Sign Language (BSL) video summarising the legal principle of Common Law Duty of Confidentiality. |
-| [UK Data Protection Laws - BSL](_static/UK_Data_Protection_Laws_BSL_UKLLCv1_MED-COM-059.mp4) | British Sign Language (BSL) video summarising the UK Data Protection Laws. |
+| [Common Law Duty of Confidentiality - BSL](_static/Common_Law_Duty_of_Confidentiality.mp4) | British Sign Language (BSL) video summarising the legal principle of Common Law Duty of Confidentiality. |
+| [UK Data Protection Laws - BSL](_static/UK_Data_Protection_Laws.mp4) | British Sign Language (BSL) video summarising the UK Data Protection Laws. |
 
 ---
 
