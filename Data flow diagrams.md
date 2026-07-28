@@ -75,50 +75,7 @@ owners: Department for Work and Pensions (DWP), HM Revenue
 and Customs (HMRC) and Department for Education (DfE))
 </details>
 
-#### Study Zones
 
-***This section is designed for UK LLC partner Longitudinal Population Studies***
-
-<details>
-  <summary>What is a Study Zone?</summary>
-A Study Zone is a dedicated space within the UK LLC Trusted Research Environment (TRE) for each partner Longitudinal Population Study (LPS).    
-</details>
-
-<details>
-  <summary>What analyses will I be able to do in my Study Zone?</summary>
-
-In a Study Zone, you can only conduct quality checks, curation and methodological enhancement. You must not do any applied research in your Study Zone. If you want to conduct an applied research project, you’ll need to submit an Expression of Interest (EoI) – for instructions, see [UK LLC Guidebook: How do I apply?](https://guidebook.ukllc.ac.uk/docs/ukllc_key_facts/applying/intro)   
-</details>
-
-<details>
-  <summary>When can I access my Study Zone?</summary>
-
-You will only be able to access your Study Zone once it has been set up by UK LLC (see below), you have deposited at least one File 2 and your participants have been linked to e.g. NHS England.      
-</details>
-
-<details>
-  <summary>Who should have access to my Study Zone?</summary>
-  
-Only the people in your team who are going to be working on the data in the Study Zone within the UK LLC TRE need to have access. Only Office for National Statistics (ONS) [Accredited Researchers](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/becomeanaccreditedresearcher) can access the UK LLC TRE – all members of your team will therefore need to attain accreditation prior to access.        
-</details>
-
-<details>
-  <summary>I am a new partner LPS – how can I set up my Study Zone?</summary>
-
-**Please follow the steps below to request help from UK LLC to set up your Study Zone:**
-
-- Email access@ukllc.ac.uk with the names and email addresses of the LPS team members who will need to access the Study Zone (only include your LPS’s Principal Investigator if they will actually be working on the data). Please specify the team lead and include contact details for the contracts department in your organisation so that we can negotiate the signing of a Data Access Agreement (DAA).   
-
-- When you’ve supplied the information above, the UK LLC Applications Team will complete your application for you (for Study Zones you don’t need to complete an Expression of Interest).  
-
-- Each LPS team member named on the application will receive an automated email from UK LLC inviting them to set up an account in UK LLC Apply. This lets each team member see all the information about their application and enables them to provide the information detailed in step 4 and fulfil the project governance requirements detailed in step 5. It is therefore mandatory that you set up an account.  
-
-- Once you’ve set up your account, log into UK LLC Apply and complete the section about information security policy and practice at your organisation. You need to specify if your organisation holds either ISO 27001 certification or [NHS England Data Security & Protection Toolkit](https://www.dsptoolkit.nhs.uk/organisationsearch) that covers the scope of your LPS team (please include the relevant reference number). If your organisation holds neither of these assurances, please write none and you will be asked to sign a different type of contract with UK LLC called a System Level Security Policy. See [UK LLC Guidebook: complete your project governance](https://guidebook.ukllc.ac.uk/docs/ukllc_key_facts/applying/paperwork) for further information.  
-
-- In UK LLC Apply each team member must accept the UK LLC Data User Responsibilities Agreement (DURA) and the project-specific Data Owners’ Terms and Conditions (e.g. NHS England).   
-
-- Once all project governance steps have been fulfilled, i.e. Data Access Agreement, DURA, Data Owners’ Ts&Cs and we’ve verified your ONS Accredited Researcher status, we will provision data to your Study Zone. You will receive an automated email from UK LLC explaining how to log into the UK LLC TRE and get started. See the [UK LLC Guidebook: TRE User Guide](https://guidebook.ukllc.ac.uk/docs/user_guide/introduction) for further information.         
-</details>
 
 
 
