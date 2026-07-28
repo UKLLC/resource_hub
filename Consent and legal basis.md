@@ -67,7 +67,7 @@ There is clear guidance and a broad consensus that LPS should not be using conse
 
 1. Performance of a task carried out in the public interest (Article 6(1)(e) in the GDPR), and, where sensitive personal information is involved: 
 
-2. Scientific or historical research purposes or statistical purposes (Article 9(2)(j) in accordance with Article 89(1)). Most LPS pseudonymise their data to remove identifiers and replace these with an ID number. Where pseudonymous data cn be linked back to the identifiers pseudonymous data, it is still Personal Data. 
+2. Scientific or historical research purposes or statistical purposes (Article 9(2)(j) in accordance with Article 89(1)). Most LPS pseudonymise their data to remove identifiers and replace these with an ID number. Where pseudonymous data can be linked back to the identifiers pseudonymous data, it is still Personal Data. 
 
 UK GDPR makes a distinction between data and sensitive data: all health data are considered sensitive as are other classes of information including many demographic characteristics. The processing of these will need additional safeguards. 
 
