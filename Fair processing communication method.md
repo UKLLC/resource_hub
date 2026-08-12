@@ -1,11 +1,14 @@
 # DO's and DON'Ts
->Last modified: 07 May 2025
+>Last modified: 12 Aug 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section covers: the DO’s and DONT’s when developing active communication materials, what fair processing is, why you need to conduct it and the different fair processing communication methods.</div>
 
 #### DO’s and DON'Ts when developing active communication materials
 
 Consent statements and fair processing materials should be carefully phrased, taking into account literature on consenting behaviours and avoiding imposing unintentional limitations on data use. Consent phrasing should make clear the understanding and agreement on the high-level principles involved, whereas information materials can provide detail and exemplar illustrations. 
+
+<aside class="admonition danger"><p class="admonition-title">If you are re-consenting</p>Please get in touch with UK LLC using the info@ukllc.ac.uk mailbox, we can share our current understanding of best practice.</aside> 
+<br>
 
 Expectations of good practice in consent will change over time. Therefore, any development process should start with evaluating guidance and academic literature and then consulting with domain experts, data owners and LPS participants. The co-design of materials with participants and members of the public is a critical element of the process. 
 

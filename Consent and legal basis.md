@@ -1,6 +1,6 @@
 
 ### Background information
-> Last modified: 29 Jul 2026
+> Last modified: 12 Aug 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section provides background information to aid understanding of legal basis and outlines how to meet Common Law Duty of Confidentiality.</div>
 
@@ -32,7 +32,7 @@ From a legal perspective, consent is:
 
 * NOT the basis by which LPS comply with UK GDPR and data protection law - scientific research is a permitted purpose in its own right; and 
 
-* is OFTEN the basis by which the Common Law Duty of Confidentiality is met. In common law, information given under an expectation of privacy (e.g. information from a patient to their doctor), should stay private unless permission to share it is in place. 
+* OFTEN the basis by which the Common Law Duty of Confidentiality is met. In common law, information given under an expectation of privacy (e.g. information from a patient to their doctor), should stay private unless permission to share it is in place. 
 
 ![other options](_static/other_options.jpg)
 
@@ -43,9 +43,11 @@ Sometimes seeking consent is not possible, if the person has died or no longer h
 ##### Section 251 
 Section 251 provides a lawful basis for an LPS to use identifiable health information for research without consent (e.g. where all the participants in an LPS have died or where lack of response to consent requests will likely bias the research and lead to research inequity and harms). Section 251 only applies in England and Wales. 
 
+While it is not possible to seek consent and then seek Section 251 for non-responders, it is possible to seek Section 251 and then attempt to seek consent over time when it is practical (e.g. during a fieldwork home visit). This is seen as best practice, so this, over time and with continued resource can provide the "exit route" from Section 251 to consent as the legal basis for linkage. 
+
 ![section 251](_static/section251.jpg)
 
- LPS can apply to HRA CAG for Section251 Support which allows Common Law duties to be set aside. They can recommend that an LPS can utilise Section 251 where consent is not practicable and frequently on the condition that:  
+ LPS can apply to HRA CAG for Section 251 Support which allows Common Law duties to be set aside. They can recommend that an LPS can utilise Section 251 where consent is not practicable and frequently on the condition that:  
 
 * LPS contact their own Patient and Public Involvement and Engagement (PPIE) activity to understand and accommodate participant expectations.  
 
@@ -53,13 +55,33 @@ Section 251 provides a lawful basis for an LPS to use identifiable health inform
 
 * LPS send regular updates about how health records are used and remind participants how to opt-out.  
 
-* ‘NHS National Data Opt Outs’ are honoured – this is a national scheme in England which allows members of the public to stop their data being used for research unless consent is in place. 
+* ‘NHS National Data Opt Outs’ are honoured – this is a national scheme in England which allows members of the public to stop their data being used for research unless consent is in place.
+
+* When a researcher obtains Confidential Patient Information from a health and adult social care provider in England with Section 251 support, they should expect that, once that organisation has stated its compliance with the national data opt-out policy then the records of patients who have registered a national data opt-out will have been removed. This may mean that the dataset provided might not be complete.
+
+<aside class="admonition note">
+<p class="admonition-title">Confidential Patient Information</p>
+<p>Is information about any patient, alive or dead, that meets the following 3 requirements:
+
+* is identifiable or likely to be identifiable, for example from other data likely to be held by the person or organisation receiving the data - if a patient could be identified from it.
+
+* was given in circumstances where the individual is owed an obligation of confidence.
+
+* conveys some information about the physical or mental health or condition of an individual, a diagnosis of their condition, or information on their care or treatment.</p>
+</aside>
+
+For avoidance of doubt where the approval for access to the data relies upon Section 251 support (i.e. approval under the NHS (Control of Patient Information Regulations) 2002 (regulation 2 or 5)) support then all data disclosed under this approval will be deemed to be confidential patient information even where the specific disclosure does not contain any health or care information. [From: NHS Digital – when does a national data opt out apply](https://digital.nhs.uk/services/national-data-opt-out/operational-policy-guidance-document/when-does-a-national-data-opt-out-apply).
+
+As a general rule - if a participant has opted out of allowing their data to be used for research or planning through their GP surgery or online, a study will not be able to access their health records even if they decide to agree to linkage through the study. You can find out more about the National Opt-out [here](www.digital.nhs.uk/services/national-data-opt-out-programme). 
+
+When researchers receive data, where national data opt-outs have been applied, there is a potential to introduce bias to their studies which researchers will need to consider.  For example, there might be higher levels of opt-out across certain geographical areas, age groups or specific conditions that might impact on the results of studies. [From: NHS Digital – what the national data opt-out means for researchers.](https://digital.nhs.uk/services/data-access-request-service-dars/how-the-national-data-opt-out-affects-data-released-by-nhs-digital/national-data-opt-out-guidance-for-researchers/6-what-the-national-data-opt-out-means-for-researchers)
+
 
 ##### Utilising the Digital Economy Act (DEA): 
 
 The DEA provides a means to meet Duty of Confidentiality for the use of non-health routine records in public good research. To use the DEA the UK LLC must be accredited to UK Statistic Authority standards for a secure data processing environment. The DEA applies across the UK but does not apply to health data. The DEA will provide the legal basis for Duty of Confidentiality but LPS participating in non-health linkages via UK LLC will still need to meet their ethical requirements to ensure transparent data use and ‘no surprises’ and provide a means to object. Consent may be used as part of meeting the study's ethical requirements. 
 
-##### UK General Data Protection (GDPR) Regulations 
+##### UK General Data Protection Regulations (GDPR) 
 
 Most LPS process identifiable data given that they hold participant contact databases and administer processes which require the use of identifiers (mailing information and data collection exercises, conducting fieldwork or study assessments, linking to participant records).  LPS therefore manage Personal Data (broadly, the legal term for identifiable data) and therefore UK General Data Protection Regulations (UK GDPR) and Common Law Duty of Confidentiality apply. 
 
