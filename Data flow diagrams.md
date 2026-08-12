@@ -79,9 +79,7 @@ and Customs (HMRC) and Department for Education (DfE))
 <details>
   <summary>UK LLC Confidentiality Due Diligence Panel</summary>
 
-  UK LLC conducts an NHS England approved due diligence review of each LPS’ legal basis. The UK LLC Confidentiality Due Diligence Panel includes senior sponsor representation (ethics, governance and legal data protection leads) from the University of Bristol and public contributors. The Panel advises whether each LPS has established a basis for addressing their Common Law Duty of Confidentiality appropriately and ensured compliance with the principle of ‘no surprises’. The Panel reviews each LPS’ consent materials (consent forms and participant information sheets) to identify if there are any statements that either limit or introduce ambiguity into the scope of an LPS’ proposed data processing. Evidence from this process is provided to data owners (e.g. NHS England, Office for National Statistics) for their records and due diligence purposes.  The minutes from the panel are published on the [UK LLC Website](https://ukllc.ac.uk/how-we-work)
-
-
+  >UK LLC conducts an NHS England approved due diligence review of each LPS’ legal basis. The UK LLC Confidentiality Due Diligence Panel includes senior sponsor representation (ethics, governance and legal data protection leads) from the University of Bristol and public contributors. The Panel advises whether each LPS has established a basis for addressing their Common Law Duty of Confidentiality appropriately and ensured compliance with the principle of ‘no surprises’. The Panel reviews each LPS’ consent materials (consent forms and participant information sheets) to identify if there are any statements that either limit or introduce ambiguity into the scope of an LPS’ proposed data processing. Evidence from this process is provided to data owners (e.g. NHS England, Office for National Statistics) for their records and due diligence purposes.  The minutes from the panel are published on the [UK LLC Website](https://ukllc.ac.uk/how-we-work)
 </details>
 
 
