@@ -17,6 +17,8 @@ parts:
         title: Partnering with UK LLC 
       - file: REC.md
         title: Updating your ethics
+      - file: CAG.md
+        title: CAG applications and amendments
 
 
 
