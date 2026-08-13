@@ -1,5 +1,5 @@
 # DO's and DON'Ts
->Last modified: 12 Aug 2026
+>Last modified: 13 Aug 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section covers: the DO’s and DONT’s when developing active communication materials, what fair processing is, why you need to conduct it and the different fair processing communication methods.</div>
 
@@ -171,7 +171,7 @@ The Information Commissioner’s Office recommends a layered approach to providi
 
 **Language:**
 
-* You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under [UK LLC’s templates](/Key%20messages%20in%20active%20communications.md).
+* You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under [UK LLC’s templates](https://resourcehub.ukllc.ac.uk/examples%20of%20lps%20communications%20about%20uk%20llc).
 
 * Existing information should be up to date (e.g. privacy notices), and participant information sheets should reflect any changes. New stories should be added to existing media - e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live topic.
 
