@@ -1,5 +1,5 @@
 # Confidentiality Advisory Group (CAG) Guidance
->Last modified: 13 Aug 2026
+>Last modified: 14 Aug 2026
 <div style="background-color:rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section provides information on when you should make a CAG application, or amendment and guidance on how to do so.</div>
 
@@ -21,9 +21,9 @@ Research applications should be prepared on the [Integrated Research Application
 The Health Research Authority (HRA) have created a CAG [pre-application checklist](https://s3.eu-west-2.amazonaws.com/www.hra.nhs.uk/media/documents/CAG_pre-application_checklist_1.0_February_2023.pdf) to assist you in deciding whether your study ought to pursue applying to process information without consent. For information on how to prepare for the application and documents that will be required, please see [HRA guidance](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/guidance-cag-applicants/).
 
 <details>
-<summary>How long does a CAG application take to be approved?<summary>
+  <summary>How long does a CAG application take to be approved</summary>
 
->The [Confidentiality Advisory Group](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/cag-group-meetings-and-minutes/) state that valid applications, received by the relevant submission dates, can expect to receive an approval decision within a maximum of 60 working days.
+  >The [Confidentiality Advisory Group](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/cag-group-meetings-and-minutes/) state that valid applications, received by the relevant submission dates, can expect to receive an approval decision within a maximum of 60 working days. 
 </details>
 
 #### How to answer UK LLC specific CAG questions
