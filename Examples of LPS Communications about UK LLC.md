@@ -1,6 +1,6 @@
 # UK LLC’s templates to develop your own communications 
 
->Last modified: 16 Apr 2025
+>Last modified: 27 Aug 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section displays UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
 Please copy and edit the text appropriately depending on the linkages being carried out via UK LLC.</div>
@@ -69,45 +69,51 @@ Please copy and edit the text appropriately depending on the linkages being carr
 ## Privacy notice template:
 ###### For existing partner LPS and LPS joining the UK LLC 
 
-> A new way of working with longitudinal data is by combining data from many Longitudinal Population Studies to allow researchers to look at more people across diverse population groups, occupations and other factors to improve health and wellbeing and service provision. To do this, many studies need to put relevant data into a highly secure computing environment, known as either a Trusted Research Environment (TRE) or a Safe Data Haven (SDH) or a Secure Data Environment (SDE).
+> A new way of working with longitudinal data is to combine data from many Longitudinal Population Studies (LPS) to allow researchers to look at more people across diverse population groups, occupations and other factors to improve health and wellbeing and service provision. To do this, many LPS  need to put relevant data into a highly secure computing environment, known as either a Trusted Research Environment (TRE) or a Safe Data Haven (SDH) or a Secure Data Environment (SDE).
 >
-> [Insert LPS name] is a partner with UK Longitudinal Linkage Collaboration, a Trusted Research Environment set up to bring data together for research in the public good.
+> <mark>[Insert LPS name]</mark> is a partner with UK Longitudinal Linkage Collaboration (UK LLC), a Trusted Research Environment set up to bring data together for research in the public good.
 >
 > **Who is UK Longitudinal Linkage Collaboration (UK LLC)?**
 >
-> UK LLC is the national Trusted Research Environment for data linkage in longitudinal research. It is run by the Universities of Bristol and Edinburgh, in collaboration with University College London (UCL), Swansea University, University of Leicester and City St George’s, University of London. Their purpose is to bring together data about Longitudinal Population Study (LPS) participants that has been collected by their LPS or as part of their wider care and support and link it to participants’ health and other data.
+> UK LLC is the national Trusted Research Environment (TRE) for data linkage in longitudinal research. It is run by the Universities of Bristol and Edinburgh, in collaboration with University College London (UCL), Swansea University, University of Leicester and City St George’s, University of London. UK LLC’s purpose is to bring together data about Longitudinal Population Study (LPS) participants that has been collected by their LPS or as part of their wider care and support and to link it to participants’ health and other data.
 >
-> The University of Bristol is the Data Controller for UK LLC and SeRP UK at Swansea University is the contracted Data Processor to University of Bristol for UK LLC. SeRP UK is a leader in providing this type of secure research server in the UK and internationally.
+> The University of Bristol is the Data Controller for UK LLC and SeRP UK at Swansea University is the contracted Data Processor to University of Bristol for UK LLC. SeRP UK is a leader in providing Trusted Research Environments in the UK and internationally.
 >
 > **How does this work?**
 >
-> [Insert LPS name] provides UK LLC with de-identified copies of selected data. This includes (list study data in UK LLC TRE). We remain the owner and Data Controller and retain control of how the data is used in the UK LLC Trusted Research Environment. This makes sure the principles of [Insert LPS name] are upheld.
+> <mark>[Insert LPS name]</mark> provides UK LLC with de-identified copies of selected data. This includes [List LPS data in UK LLC TRE]. We remain the owner and Data Controller and retain control of how the data is used in the UK LLC Trusted Research Environment. This makes sure the principles of <mark>[Insert LPS name]</mark> are upheld.
 >
-> [Insert LPS name] provides a list of personal data (e.g. name, date of birth, address) to NHS Digital Health and Care Wales (DHCW). They are a NHS Trusted Third Party, which means they have the official approvals in place to handle data in this way. They do not see your study data. They then facilitate linkages by sending your personal identifiers to linked data owners [and UK LLC’s place-based (e.g. air pollution, noise pollution) modellers for processing]. These organisations extract and send de-identified datasets to SeRP UK who bring them together with your survey datasets. They then deposit your de-identified data into the UK LLC TRE. Through this split process, NHS Digital Health and Care Wales can only see your personal identifiers and SeRP UK and UK LLC can only see de-identified data about you.
+> <mark>[Insert LPS name]</mark> provides a list of personal data (e.g. name, date of birth, address) to NHS Digital Health and Care Wales (DHCW). They are an NHS Trusted Third Party, which means they have the official approvals in place to handle data in this way. They do not see your study data. They then facilitate linkages by sending your personal identifiers to linked data owners [and UK LLC’s place-based (e.g. air pollution, noise pollution) modellers for processing]. These organisations extract and send de-identified datasets to SeRP UK who bring them together with your survey datasets. They then deposit your de-identified data into the UK LLC TRE. Through this split process, NHS Digital Health and Care Wales can only see your personal identifiers and SeRP UK and UK LLC can only see de-identified data about you.
 >
-> **Linked data owners: [copy where applicable]**
+> **Linked data owners: 
+>
+>[copy where applicable]**
 > - NHS England  
+> - SAIL databank (NHS Wales data)  
 > - Public Health Scotland/eDRIS/National Records of Scotland in Scotland*  
-> - Office for National Statistics in England and Wales  
-> - SAIL databank  
+> - Office for National Statistics*  
 > - NHS Northern Ireland Business Development Organisation*  
 > - Northern Ireland Statistics & Research Agency*  
 >
 > *not yet approved, no data has flowed*
 >
+> **Place-based modellers:**
+>
 > [Copy if applicable:]
 >
-> [City St George’s, University of London and University of Leicester receive address data or postcode data only to link to the precise location of the property/postcode and then map information to the property, such as air pollution, noise data, services and the amount of green space around the property. They do not know which address relates to any person or their involvement in [Insert LPS name]. Randomly selected real UK addresses are added to the list to make sure nothing can be inferred from this process.]
+> City St George’s, University of London and University of Leicester receive address data or postcode data only to link to the precise location of the property/postcode and then map information to the property, such as air pollution, noise data, services and the amount of green space around the property. They do not know which address relates to any person or their involvement in <mark>[Insert LPS name]</mark>. Randomly selected real UK addresses are added to the list to make sure nothing can be inferred from this process.
 >
-> **Where and how is [Insert LPS name] data stored at UK LLC?**
+> **Where and how is <mark>[Insert LPS name]</mark> data stored at UK LLC?**
 >
-> [Insert LPS name] data is stored on secure servers at SeRP UK, which are controlled by the University of Bristol and physically located at Swansea University. The servers are managed to information security best practice standards (including ISO 27001) and are regularly audited by external experts in information security.
+> <mark>[Insert LPS name]</mark> data is stored on secure servers at SeRP UK, which are controlled by the University of Bristol and physically located at Swansea University. The servers are managed to information security best practice standards (including ISO 27001) and are regularly audited by external experts in information security.
 >
-> **Can I find out if [Insert LPS name] data held in the UK LLC Trusted Research environment has been approved for a research project?**
+> **Can I find out if <mark>[Insert LPS name]</mark> data held in the UK LLC Trusted Research Environment has been approved for a research project?**
 >
-> UK LLC has a Data Use Register – [https://ukllc.ac.uk/data-use-register](https://ukllc.ac.uk/data-use-register) – where you can view all approved and declined applications, with project summaries that provide a list of the UK LLC partner Longitudinal Population Studies that have been approved as part of each project and the aims of the research question.
+> UK LLC has a [Data Use Register](https://ukllc.ac.uk/data-use-register) – where you can view all approved and declined applications, with project summaries that provide a list of the UK LLC partner Longitudinal Population Studies that have been approved as part of each project and the aims of the research project.
 >
-> The UK Data Protection Act 2018 provides individuals with rights over how their data are used. The UK LLC supports these rights. If you would like to find out more, read the full UK LLC privacy notice – [https://ukllc.ac.uk/privacy-policy](https://ukllc.ac.uk/privacy-policy)
+> The UK Data Protection Act 2018 provides individuals with rights over how their data are used. UK LLC supports these rights. If you would like to find out more, read the full [UK LLC privacy notice](https://ukllc.ac.uk/safeguards).
+
+*Version 1.1 August 2026
 
 *Credit: UK LLC and Generation Scotland*
 
