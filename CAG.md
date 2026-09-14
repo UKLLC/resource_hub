@@ -16,7 +16,7 @@ Some longitudinal studies inclusion in UK LLC is based on Section 251 approval, 
 
 This section provides information on when you should make a CAG application, or amendment, and guidance on how to do so. This guidance is intended as context-specific informationany Longitudinal Population Study (LPS) working with UK LLC and considering pursuing Section 251 or making an amendment to an already existing approval. This guidance may also have wider relevance to other longitudinal studies but is not intended to replace the guidance supplied by HRA CAG.
 
-We note that the legislation enabling Section 251 is specific to England and Wales only. The use of NHS records without consent in Scotland takes a different approach (see the [PBPP guidance](https://ecrusad.co.uk/2020/05/21/course-round-up-the-whys-and-hows-of-applying-to-pbpp/#top-tips)). A similar mechanism to Section 251 is being developed in Northern Ireland, but is not yet fully operational.
+> We note that the legislation enabling Section 251 is specific to England and Wales only. The use of NHS records without consent in Scotland takes a different approach (see the [PBPP guidance](https://ecrusad.co.uk/2020/05/21/course-round-up-the-whys-and-hows-of-applying-to-pbpp/#top-tips)). A similar mechanism to Section 251 is being developed in Northern Ireland, but is not yet fully operational.
 
 
 #### Introduction to CAG applications:
