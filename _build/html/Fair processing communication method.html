@@ -1,15 +1,14 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" data-content_root="" >
+<html lang="en" data-content_root="./" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Fair Processing communication method &#8212; Resource Hub</title>
+    <title>Good practice, Myths &amp; Misconceptions &#8212; Resource Hub</title>
   
   
   
@@ -17,83 +16,109 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css?v=8cd3d715" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=39641064" />
   
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.5ea377869091fd0449014c60fc090103.min.css" />
-  
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="_static/doctools.js"></script>
-    <script src="_static/sphinx_highlight.js"></script>
-    <script src="_static/clipboard.min.js"></script>
-    <script src="_static/copybutton.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js"></script>
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="_static/design-tabs.js"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-7K6NTDY6PN"></script>
+    <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){ dataLayer.push(arguments); }
+                gtag('consent', 'default', {
+                    'ad_storage': 'denied',
+                    'ad_user_data': 'denied',
+                    'ad_personalization': 'denied',
+                    'analytics_storage': 'denied'
+                });
+                gtag('js', new Date());
+                gtag('config', 'G-7K6NTDY6PN');
+            </script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){ dataLayer.push(arguments); }
+                gtag('consent', 'default', {
+                    'ad_storage': 'denied',
+                    'ad_user_data': 'denied',
+                    'ad_personalization': 'denied',
+                    'analytics_storage': 'denied'
+                });
+                gtag('js', new Date());
+                gtag('config', 'G-7K6NTDY6PN');
+            </script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'Fair processing communication method';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Key Messages in Active Communications" href="Key%20messages%20in%20active%20communications.html" />
-    <link rel="prev" title="Consent and Legal Basis" href="Consent%20and%20legal%20basis.html" />
+    <link rel="next" title="UK LLC’s downloadable communication materials" href="Guidance%20materials.html" />
+    <link rel="prev" title="Background information" href="Consent%20and%20legal%20basis.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -101,7 +126,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -109,15 +133,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -126,7 +194,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -156,21 +225,17 @@
     
     
     <img src="_static/Resource Hub.png" class="logo__image only-light" alt="Resource Hub - Home"/>
-    <script>document.write(`<img src="_static/Resource Hub.png" class="logo__image only-dark" alt="Resource Hub - Home"/>`);</script>
+    <img src="_static/Resource Hub.png" class="logo__image only-dark pst-js-only" alt="Resource Hub - Home"/>
   
   
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -182,22 +247,13 @@
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="Summary%20and%20Key%20Messages.html">Summary and Key Messages</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Consent%20and%20legal%20basis.html">Consent and Legal Basis</a></li>
-
-
-
-
-
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Fair Processing Communication Method</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Key%20messages%20in%20active%20communications.html">Key Messages in Active Communications</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Linking%20to%20admin%20data.html">Linking to Administrative Data</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Guidance%20materials.html">Guidance materials</a></li>
-<li class="toctree-l1"><a class="reference internal" href="content%20for%20LPS%20website.html">Content for LPS website</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Examples%20of%20LPS%20Communications%20about%20UK%20LLC.html">Examples of Longitudinal Population Study Communications about UK LLC</a></li>
-
-
-<li class="toctree-l1"><a class="reference internal" href="Data%20flow%20diagrams.html">Data Flow Diagrams</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Consent%20and%20legal%20basis.html">Background information</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">DO's and DON'Ts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Guidance%20materials.html">UK LLC’s downloadable communication materials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Examples%20of%20LPS%20Communications%20about%20UK%20LLC.html">UK LLC’s templates to develop your own communications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Data%20flow%20diagrams.html">Partnering with UK LLC</a></li>
+<li class="toctree-l1"><a class="reference internal" href="REC.html">Updating your ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CAG.html">CAG applications and amendments</a></li>
 </ul>
 
     </div>
@@ -206,9 +262,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -338,7 +399,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -352,25 +413,19 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -381,11 +436,24 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Fair Processing communication method</h1>
+    <h1>Good practice, Myths & Misconceptions</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#good-practice-when-developing-active-communication-materials">Good practice when developing active communication materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fair-processing-principles">Fair Processing Principles</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-do-you-need-to-conduct-fair-processing">Why do you need to conduct fair processing?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-should-your-fair-processing-cover">What should your fair processing cover?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-should-i-communicate-with-participants">How should I communicate with participants?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#do-i-need-public-participant-involvement">Do I need public/participant involvement?</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -395,42 +463,283 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section id="fair-processing-communication-method">
-<h1>Fair Processing communication method<a class="headerlink" href="#fair-processing-communication-method" title="Permalink to this heading">#</a></h1>
+  <section id="good-practice-myths-misconceptions">
+<h1>Good practice, Myths &amp; Misconceptions<a class="headerlink" href="#good-practice-myths-misconceptions" title="Link to this heading">#</a></h1>
 <blockquote>
-<div><p>Last modified: 26 Sep 2024</p>
+<div><p>Last modified: 14 Sep 2026</p>
 </div></blockquote>
-<div style="background-color: #f49985; padding: 10px; border-radius: 5px;">
-Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population 
-Studies (LPS) to all participants, this could be through newsletters or letters sent either electronically 
-or mailed out to all participants which must provide a means to object (studies may choose to seek 
-specific opt-in consent). Social media can provide updates and is particularly effective in alerting 
-participants to change and promoting new research use and outcomes.
-Studies should consider Equality issues when determining whether to use electronic and postal 
-mechanisms and while an electronic-only approach may be suitable in some studies, for most a 
-choice of physical media (ie, postal materials) and electronic media should be offered. Reasonable 
-adjustments should be made to accommodate participants specific needs (eg, large print media or 
-audio versions).
-<p>Our PPIE feedback suggests a newsletter/letter/email sent directly to participants is considered
-preferable to other routes of communication which may be considered ‘optional’ to read – yet, it is
-also acknowledged that each study has a distinct way of communicating with participants (eg,
-Christmas card updates) which may form the most appropriate mechanism at a study level.
-The Information Commissioner’s Office recommends a <strong>layered approach</strong> to providing information
-for example with a high-level summary (e.g. cover letter, infographic) then a detailed graphical type
-leaflet and signposting or providing a source of more detail e.g. privacy notice/web source for
-participants who want to understand the detail. Key messages should be reinforced over time
-preferably through annual active communications.</p>
-<p><strong>Existing information should be up to date</strong> e.g. privacy notices, and participant information sheets to
-reflect changes in practice. New stories should be added to existing media e.g. website updates,
-social media, newsflashes or blogs should be updated where possible to alert participants to changes
-and to keep ‘consent’ a live item.</p>
-<p>UK GDPR requires studies to issue ‘Privacy Notices’ providing fair processing. It should be stressed
-that while all materials and other communications with participants constitute fair processing, there
-is a separate need to provide a ‘Privacy Notice’. The ICO has produced guidance describing what
-information should be included. The Privacy Notice provides an opportunity to provide very detailed
-information for those participants (and other stakeholders) who wish to understand this level of
-detail.</p>
+<div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
+This section covers our examples of good practice developed by partner studies and by UK LLC with our public/participant contributors. It also seeks to address common myths & misconceptions to consider when developing communication materials. </div>
+<p>This section also describes what “fair processing” is, why you need to conduct it, and the different approaches to designing fair processing communication methods.  This page is intended for communications teams at LPS’ that are onboarding with UK LLC to ensure their participant materials are clear as to how they will work with UK LLC.</p>
+<p>To understand the legal and ethical background to fair processing please see our <a class="reference external" href="https://resourcehub.ukllc.ac.uk/consent%20and%20legal%20basis">background information</a> page.</p>
+<aside class="admonition danger"><p class="admonition-title">Warning</p>Some studies have been asked to delete the personal identifiers of their participants by various organisations. Whilst in some cases this may be appropriate, it is an extreme and non-reversable decision which severely limits future options and better options likely exist. We recommend you get in touch if ever asked to delete your participant identifiers.</aside> <br>  
+<section id="good-practice-when-developing-active-communication-materials">
+<h2>Good practice when developing active communication materials<a class="headerlink" href="#good-practice-when-developing-active-communication-materials" title="Link to this heading">#</a></h2>
+<p>Many longitudinal studies have developed a deep understanding of consenting and communication with their participants. As each study sample and history is different, we know there is no “right” language, tone or approach to take. Each study will be best placed to understand how to communicate with their participants. However, there are common requirements (must do’s) and common pitfalls some studies have fallen into over time.</p>
+<p>Consent statements and fair processing materials should be carefully phrased, taking into account literature on consenting behaviours and avoiding imposing unintentional limitations on data use. We all strive to future proof the wording used, but this is always challenging. Consent phrasing should make clear the understanding and agreement on the high-level principles involved, whereas information materials can provide detail and exemplar illustrations.</p>
+<aside class="admonition danger"><p class="admonition-title">If you are a UK LPS designing a consent or re-consenting campaign</p>Please get in touch with UK LLC using <a href="mailto: info@ukllc.ac.uk">info@ukllc.ac.uk</a>, we can share our current understanding of best practice.</aside> 
+<br>
+<p>Expectations of good practice in consent will change over time. Therefore, any development process should start with evaluating guidance and academic literature and then consulting with domain experts, data owners and LPS participants. The co-design of materials with participants and members of the public is a critical element of the process.</p>
+<p>There is a significant amount of supporting documentation you will need to have in place, some of which may already be in place, although it may need to be updated to reflect the new sources of data. This will include an LPS protocol, <a class="reference external" href="https://www.hra.nhs.uk/planning-and-improving-research/research-planning/protocol/">HRA protocol</a>, an LPS privacy notice, a data asset register and a data flow diagram.</p>
+</section>
+<section id="fair-processing-principles">
+<h2>Fair Processing Principles<a class="headerlink" href="#fair-processing-principles" title="Link to this heading">#</a></h2>
+<p>UK LLC consider the following key principles underpin effective fair processing:</p>
+<ul class="simple">
+<li><p>The materials must be clear and accessible – informed consent relies on everyone being able to understand the information.</p></li>
+<li><p>Active communications are essential (i.e. information sent directly to participants via electronic or physical means), but passive materials play important supporting roles.</p></li>
+<li><p>Fair processing is an ongoing process, not a point in time, reminders about rights and how data are used should be included in regular updates (e.g. newsletters).</p></li>
+<li><p>In our experience participants care more about high level principles (e.g. that data are not physically shared but are accessed in a secure environment) than details (e.g. that data are stored on X system at X building).</p></li>
+<li><p>Being overly specific can result in consent and fair processing becoming dated and can be a barrier to emerging longitudinal opportunities. Too much detail or restrictive statements is the root cause of many problems faced by different studies.</p></li>
+<li><p>That fair processing should be provided in “layers” of detail, where most participants want summary information but we need to recognise that some participants are domain experts (e.g. in IT security or professors of epidemiology) and want to know the detail. Layered and focused materials provide the depth for those who want it.</p></li>
+<li><p>It is crucial to involve your participants in the design of your materials.</p></li>
+</ul>
+<details>
+  <summary>
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
+    <strong>Key messages that MUST be included in LPS active communications when joining UK LLC</strong>
+    </div>
+  </summary> 
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Concept</p></th>
+<th class="head"><p>Principle to Convey (top layer)</p></th>
+<th class="head"><p>Potential Supporting Narrative</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Research Purpose</p></td>
+<td><p>Scope of research  (for information, UK LLC can support any public good research).</p></td>
+<td><p>• That UK LLC supports research for any public good. <br> • That the LPS retain control over which participants’ records are used, who can use the data, and for which purpose.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Record Linkage</p></td>
+<td><p>(1) Participants’ health, administrative (e.g. HMRC/DWP/DfE), and environmental records are linked to LPS survey data. <br> (2) Participant identifiers are shared with the NHS and UK Statistical Authorities to achieve this purpose. <br> (3) Participant address data are geo-coded to enable place-based data linkage.</p></td>
+<td><p>• UK LLC is a mechanism by which the LPS implements its record linkage strategy. <br> • UK LLC provides a centralised mechanism which provides added security, is cost-efficient, and enables new scientific possibilities and improved research equity. <br> • Participants’ identifiers are only shared with the same NHS and Statistical Authorities that the LPS would use directly. <br> • All data in the UK LLC is de-identified and subject to <a class="reference external" href="https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/">Five Safe’s framework</a>. <br> • The data stay in the UK LLC Trusted Research Environment at all times and only anonymous findings can leave the UK LLC environment.</p></td>
+</tr>
+<tr class="row-even"><td><p>Researchers accessing data</p></td>
+<td><p>That (accredited) researchers beyond the study team will access data (within the TRE).</p></td>
+<td><p>• The LPS retains control over which participants’ records are used, who can use the data, and for which purpose. <br> • UK LLC provides a secure mechanism for the LPS to share de-identified data with approved researchers under contract and subject to controlled and audited conditions. <br> • Over time access to UK LLC is likely to extend internationally and to commercial users, always subject to the same safeguards.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Retention period</p></td>
+<td><p>It is clear to participants how long their data will be retained even if this is indefinitely.</p></td>
+<td><p>• How long the LPS intends to retain participants data for. <br> • UK LLC retains participant data in line with what participants have consented to. <br> • Additional fair processing can provide further detail on how the retention period is reviewed or if ongoing retention is assessed in line with scientific utility.</p></td>
+</tr>
+<tr class="row-even"><td><p>Right to Object</p></td>
+<td><p>Participants are free to change their minds and object to data being shared with UK LLC (or more generally).</p></td>
+<td><p>• The right to object is always respected, and a mechanism exists to stop the record linkage process and all new use of participants’ data. <br> • For Section 251 LPS studies, UK LLC respects the National Data Opt-Out and no data is linked where participants have set a National Data Opt-Out request.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Types of data to be linked to</p></td>
+<td><p>Linkage to data type(s): health records, administrative data [relevant examples as appropriate].</p></td>
+<td><p>• This could include….. <br> • Such as…… <br> [Avoid detailing exhaustive lists of data types, as this can become problematic as it may exclude data types in the future.] We recommend making clear both physical and mental health records are accessed but not going into more depth – datasets change over time and “listing” is a frequent barrier to consent. <br> • Do not name organisations, e.g. NHS England as these change. Rather, use terms such as “NHS authorities who share data for research purposes”, whilst bearing in mind some health records may be shared via private organisations (e.g. private hospitals, opticians).<br> • Some LPS have not consented for the use of address data for linkage to environmental records. UK LLC recommends studies do consent for this and at a minimum make this clear and provide a clear route to object.</p></td>
+</tr>
+<tr class="row-even"><td><p>Duration</p></td>
+<td><p>Make clear that longitudinal studies are designed to operate over very long time periods, potentially lifetimes.</p></td>
+<td><p>• That study involvement is ongoing unless people opt-out.<br> • That use of collected data and linked data will continue even if people lose mental capacity and after death.</p></td>
+</tr>
+</tbody>
+</table>
 </div>
+<p>*Include information on environmental data linkage where LPS have a postcode or address sharing permissions in place.</p>
+</details>
+<details>
+  <summary>
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
+    <strong>Health Research Authority (HRA) guidance for Consent and Participant Information Sheets (PIS)</strong>
+    </div>
+  </summary>
+<p><em>The HRA has general guidance that should be optimised for LPS’s requirements. UK LLC notes that some of the generic guidance has been adopted by longitudinal studies thinking it is mandatory requirements; e.g. setting a time limitation as to how long data can be retained. This is an area of high risk for studies and has led to substantial issues. While HRA is the regulator for research and sets the rules for much of our sector (i.e. for all studies seeking linkage to NHS records or using NHS services as part of recruitment or fieldwork), their guidance is often for all research types. There is flexibility within the guidance and we recommend studies avoid unnecessary restrictive statements based on generic guidance. The following section seeks to guide studies through some of these issues, although we stress that adherence to laws and regulatory requirements (including both the Information Commissioner’s Office, Health Research Authority and UK Statistics Authority) is mandatory.</em></p>
+<p><font size="6">In the summary PIS</font></p>
+<p>The Health Research Authority (HRA) recommend providing potential participants with a summary sheet of a simple outline of the study including a brief and simple explanation of personal data.</p>
+<blockquote>
+<div><p>In this research study we will use information from [you] [your medical records] [your GP] [OTHER]. We will only use information that we need for the research study. We will let very few people know your name or contact details, and only if they really need it for this study. <strong>(UK LLC recommends providing an overview of the types of records and examples rather than an extensive or exclusive list of records to enable linkages that may become available.)</strong></p>
+<p>Everyone involved in this study will keep your data safe and secure. We will also follow all privacy rules.</p>
+<p>At the end of the study we will save some of the data [in case we need to check it] AND/OR [for future research].</p>
+<p>We will make sure no-one can work out who you are from the reports we write.</p>
+<p>The information pack tells you more about this.</p>
+</div></blockquote>
+<p><font size="6">In the PIS or document provided to participants:</font></p>
+<blockquote>
+<div><p>How will we use information about you?</p>
+<p>We will need to use information from [you] [from your medical records] [your GP] [OTHER] for this research project. <strong>(UK LLC recommends providing an overview of the types of records and examples rather than an extensive or exclusive list of records to enable linkages that may become available. We recommend against referencing specific roles such as a GP in any given context, as gatekeeper roles can move to different organisations.)</strong></p>
+<p>This information will include your [initials/ NHS number/ name/ contact details/ <strong>provide a bullet list of identifiers held by site and/or sponsor for the research</strong>]. People will use this information to do the research or to check your records to make sure that the research is being done properly. (UK LLC recommend any list makes clear this is name, address, date of birth and ID numbers such as NHS ID or National Insurance ID where known – often these IDs are not essential to the record linkage process but can improve its accuracy. For some linkages – e.g. to supermarket loyalty cards – they will likely be essential).</p>
+<p><strong>OPTION where applicable:</strong> People who do not need to know who you are will not be able to see your name or contact details. Your data will have a code number instead.</p>
+<p><strong>OPTION if not already stated: [insert name of sponsor]</strong> is the sponsor of this research. <em>(A sponsor is the organisation or partnership that takes on overall responsibility for arrangements being in place to set up, run and report a research project. It is typically the University or Organisation that runs the study).</em></p>
+<p><strong>[insert name of sponsor]</strong> is responsible for looking after your information. We will share your information related to this research project with the following types of organisations:</p>
+<ul class="simple">
+<li><p><strong>[in bullet points, list the organisation types]</strong>
+We will keep all information about you safe and secure by:
+<strong>in bullet points, concisely list some of the steps you will take to keep information secure.</strong></p></li>
+</ul>
+</div></blockquote>
+<p><font size="6">How will we use information about you after the study ends?</font></p>
+<p>(UK LLC cautions against specifying an “end” for a longitudinal study, as timeframes are often extended or studies reactivated after being dormant. Further to this, existing data – including linked records will likely be used after death and for the indefinite future.)</p>
+<blockquote>
+<div><p>Once we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that you took part in the study. (UK LLC recommends never saying you will delete the names and addresses of participants, while this is frequently recommended in generic guidance this can be a major barrier for ongoing linkage and the recontact of participants for future waves of follow-up).</p>
+<p><strong>Option 1 where data is stored for a set number of years:</strong> We will keep your study data for a maximum of [insert number] of years. The study data will then be fully anonymised and securely archived or destroyed. <strong>(UK LLC recommends never stating a specific set number of years as it is frequently not possible to determine the ongoing value or opportunity of the data over the long-term. Whilst Data Protection legislation requires a minimum period, this minimum can be indefinite where justifiable (doi: 10.12688/wellcomeopenres.14796.1. We are not aware of any compelling evidence that set time periods result in improved recruitment rates in longitudinal research or generate trust. We are aware of several studies who promised a set period then had to change this, a process which is complex and threatens trust. We strongly recommend making clear why this type of research operates over very long time periods).)</strong></p>
+<p><strong>Option 2 where conditions determine how long data is stored for:</strong> We will keep your study data for the minimum period of time required by <strong>[state the conditions that will be used to determine this time period]</strong> The study data will then be fully anonymised and securely archived or destroyed. (This HRA guidance is strongly influenced by GDPR/UK Data Protection Law, but is highly generic and does not represent the flexibility present in the law*. UK LLC recommends not specifying how long an LPS will retain participant data but remaining compliant with GDPR by only retaining the data for as long as needed. For example “As a longitudinal study we are designed to research long-term patterns in people’s health, to do this we will keep your data for the very long term as this will allow life-long understanding of health and wellbeing”.)</p>
+</div></blockquote>
+<p>*As per UK GDPR and Data Protection Act, any personal data must not be kept any longer than is necessary for the purpose for which the personal data are processed. However, the Information Commissioner’s Office (ICO) guidance for research data allows retention indefinitely where justifiable. We note that both the data held by UK LLC and the documents relating to the design, operations and development of UK LLC all constitute ‘research data’ and can therefore be held indefinitely.</p>
+<p><font size="6">What are your choices about how your information is used?</font></p>
+<blockquote>
+<div><ul class="simple">
+<li><p>you can stop being part of the study at any time, without giving a reason, but we will keep information about you that we already have. (UK LLC notes that different studies have different approaches as to whether they destroy the existing data held on participants. In our experience most participants withdraw due to the burden of participation and are content for existing data to continue to be used. However, a minority withdraw and strongly feel their data should be destroyed. Our view is this is an ethical decision rather than a legal one as Data Protection law offers exemptions from the need to destroy research data. UK LLC standard practice is to stop all future linkages and future use of linked data for withdrawing participants, but not to destroy data we already hold and which is linked to ongoing and past research studies).</p></li>
+<li><p><strong>OPTION if follow up data will be collected after withdrawal:</strong> If you choose to stop taking part in the study, we would like to continue collecting information about your health from [central NHS records/your hospital/your GP]. If you do not want this to happen, tell us and we will stop - you have the right to ask us to access, remove, change or delete data we hold about you for the purposes of the study. You can also object to our processing of your data. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this</p></li>
+<li><p><strong>OPTION if data will be used for future research:</strong> If you agree to take part in this study, you will have the option to take part in future research using your data saved from this study. <strong>[Insert details of any specific bank/repository]. (As described above, UK LLC note that participants withdraw for a range of reasons but frequently this is linked to the burden of active participation. We recommend offering participants a range of options when they request withdrawal, including withdrawing from active participation and retaining follow-up via linkage and continued use of existing data).</strong></p></li>
+</ul>
+<p><em>For more information visit the <a class="reference external" href="https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/data-protection-and-information-governance/gdpr-guidance/templates/transparency-wording-for-all-sponsors">HRA Guidance on GDPR transparency wording</a></em></p>
+</div></blockquote>
+</details>
+<details>
+  <summary>
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
+    <strong>Key messages that MUST be included in LPS active communications if linking to administrative data</strong>
+  </summary> 
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Concept</p></th>
+<th class="head"><p>Principle to Convey (top layer)</p></th>
+<th class="head"><p>Potential Supporting Narrative</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Security &amp; Confidentiality</p></td>
+<td><p>Reassurances that data will remain secure and confidential</p></td>
+<td><p>• Your/participants’ data never leaves the UK LLC Trusted Research Environment. <br> • Access to the TRE is only given to Office for National Statistics accredited researchers. <br> • Your de-identified data/information will be linked to records held by the following Government Service Providers [list departments and data types], detail processing pathway. <br> • HMRC and DWP do not access any participant data – as part of the UK LLC-based research. <br> • This is not a way in which authorities learn anything new about anyone and will not impact people’s tax or benefits. <br> • This does not provide a mechanism to access anyone’s bank details.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>UK LLC adhere to the five safes framework.
+<img alt="alt text" src="_images/image-6.png" /></p>
+</details>
+<details>
+  <summary>
+    <div style="border: 2px solid #c4d600; padding: 10px; border-radius: 5px;">
+    <strong>Other messages that you may want to include in active communications but must be included in privacy notices/web sources and detailed communications</strong>   
+  </div>
+  </summary>   
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Concept</p></th>
+<th class="head"><p>Principle to Convey (Top Layer)</p></th>
+<th class="head"><p>Potential Supporting Narrative</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>LPS’s continued authority</p></td>
+<td><p>Restricted use to LPS’s remit</p></td>
+<td><p>• For each LPS, the use is restricted to the LPS’s remit (e.g., for an LPS who has committed to participants to undertaking cancer research only, then UK LLC can only be used for cancer-related research for that LPS). <br> • That UK LLC is designed to provide a service to the LPS and that the LPS remains fully in control over which participants’ data are used for what purpose.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Confidentiality</p></td>
+<td><p>Data sharing and de-identification</p></td>
+<td><p>• Participants’ identifiers will only be shared with the NHS and UK statistical authorities to link participants’ information to [health OR other/administrative records]. <br> • All data held within the UK LLC is de-identified, this happens by a highly regulated process between government service providers and universities. <br> • Data always remains in the UK <br> • UK LLC adhere to the five safes framework.</p></td>
+</tr>
+<tr class="row-even"><td><p>Review process</p></td>
+<td><p>Application review panels</p></td>
+<td><p>• All applications to access data are reviewed by: <br> A panel made up of data owners and data experts to ensure legal requirements are met, and <br> A panel of public contributors, who assess likely public benefits, clarity of lay materials and advice on the need for project-specific PPIE.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Researcher accreditation</p></td>
+<td><p>Accreditation and security</p></td>
+<td><p>• All researchers accessing data are required to be accredited by the UK Statistics Authority (to ensure statistical competence). <br> • Linked data is held in a secure Trusted Research Environment which meets the highest Information Security Standards ISO27001 and Digital Economy Act Accreditation. The organisation is audited annually to ensure that it continues to meet these standards.</p></td>
+</tr>
+<tr class="row-even"><td><p>UK LLCs commitments</p></td>
+<td><p>Key commitments</p></td>
+<td><p>• UK LLC has a set of key commitments which were developed with a diverse range of public contributors, which <a class="reference external" href="https://ukllc.ac.uk/safeguards">UK LLC promises</a> to abide by.</p></td>
+</tr>
+<tr class="row-odd"><td><p>UK LLCs data processing pathway</p></td>
+<td><p>Privacy policy and data flow diagrams</p></td>
+<td><p>• For Health (NHS) data and Administrative data (Government Service Providers) can be found in the <a class="reference external" href="https://ukllc.ac.uk/safeguards">UK LLC privacy policy</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details>
+  <summary>
+    <div style="border: 2px solid #e56a54; padding: 10px; border-radius: 5px;">
+    <strong>Restrictive statements to avoid</strong>
+    </div>
+  </summary>   
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Concept</p></th>
+<th class="head"><p>Example</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Statements that restrict the research purpose</p></td>
+<td><p>‘Data will only be used for e.g. understanding cancer, improving mental health’.</p></td>
+<td><p>• We caution against purpose limitations unless necessary. While an LPS may be initially funded to conduct a single or range of theme (e.g., disease) focused questions, the data typically develop wider utility and public benefit value. <br> • This potential is amplified by the co-location and integration of studies via UK LLC, which enables pooled analysis across studies, which can improve research potential through developing power for rare exposure/outcomes and improving research equity with improved potential for sub-group analysis. <br> • Flexibility is also important for cases like the COVID-19 pandemic.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Statements that restrict data processing (linkage) or storage</p></td>
+<td><p>‘Data will only be stored at University x or data will be processed by University x’.</p></td>
+<td><p>We recommend using broader statements around the level of oversight and limiting names of locations or processors to updatable privacy notices.</p></td>
+</tr>
+<tr class="row-even"><td><p>Statements that restrict Open and FAIR access</p></td>
+<td><p>‘Only researchers at university x will be able to access your data’.</p></td>
+<td><p>• Most funders now expect Open and FAIR science, maximising the value of data by sharing it with legitimate users under secure conditions. Participants generally accept that research expertise and capacity may lie outside the direct LPS team or institution. <br> • We appreciate that some studies may choose not to share data with commercial organisations as this can cause mistrust in some populations. Whilst UK LLC is working to enable commercial sharing (as some studies actively want this), we fully respect study-level policy on this point.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Statements that restrict the length of the LPS/collaboration</p></td>
+<td><p>‘Your data will only be kept for x years’.</p></td>
+<td><p>Time limitation statements should be avoided since there may be continued scientific/public benefit beyond that date. LPS often continue longer than their initial funding periods, and there’s limited evidence that the public considers these time limits a meaningful safeguard. <br></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</details><br>  
+</section>
+<section id="why-do-you-need-to-conduct-fair-processing">
+<h2>Why do you need to conduct fair processing?<a class="headerlink" href="#why-do-you-need-to-conduct-fair-processing" title="Link to this heading">#</a></h2>
+<p>LPS must take all reasonable and pragmatic measures to ensure participants have a reasonable expectation of how their data are used - the ‘no surprises’ principle. For this reason, LPS must provide ‘fair processing’ information updates to participants regarding record linkage, the sharing of data with research users, and the role of UK LLC in these processes.</p>
+<div style="background-color: #e2ed80; padding: 10px; border-radius: 5px;">
+  <strong>Fair Processing:</strong> processing personal data must always be fair as well as lawful, you should only handle personal data in ways that people would reasonably expect.
+</div>
+<br>
+The Information Commissioner’s Office recommends a layered approach to providing information - e.g. with a high-level summary (e.g. cover letter, infographic) then a detailed summary leaflet and signposting or providing a source of more detail (e.g. privacy notice/web source for participants who want to understand the detail). Key messages should be reinforced over time preferably through annual active communications.
+<p><img alt="Fair Processing" src="_images/fairprocessing.jpg" /></p>
+<p>The figure above is an illustrative representation of the multiple layers of  fair processing information and it’s communication.. Collectively, these layers form a Longitudinal Population Study’s  fair processing approach and contribute to meeting legal and ethical obligations. Some materials, such as consent forms and Participant Information Sheets (PIS), are created at a specific point in time and reflect the information available when consent was sought. Other materials are more dynamic in nature, these include newsletters, website content and privacy notices. Newsletter, websites and privacy notices  can be updated over time to provide participants with ongoing information about how their data are being used and processed so long as these don’t contradict the original information provided at the time of consent.</p>
+<p>These additional fair processing materials play an important role in providing updates, further explanations and contextual information about research activities and data linkage, while remaining within the scope of the original consent.</p>
+<p>The different layers are interconnected and should support one another through clear signposting. For example, consent materials may direct participants to an LPS website where more detailed or regularly updated information is available. Likewise, newsletters, emails and other active communications can signpost participants to privacy notices, websites or other passive resources containing further information. Such signposting helps ensure that participants are aware of, and can access, more detailed and updated information when they wish to do so.</p>
+<p>Wider engagement activities can also help increase awareness of fair processing information and direct participants to relevant resources. Depending on the study population, these activities may include social media content, posters in schools or GP surgeries, and media coverage. Participant and Public Involvement and Engagement (PPIE) should be viewed as a cross-cutting element that informs all layers of the fair processing approach. Embedding PPIE throughout the process helps ensure that fair processing communications are meaningful, accessible and responsive to participants’ information needs.</p>
+</section>
+<section id="what-should-your-fair-processing-cover">
+<h2>What should your fair processing cover?<a class="headerlink" href="#what-should-your-fair-processing-cover" title="Link to this heading">#</a></h2>
+<p><strong>UK LLC fair processing must make clear:</strong></p>
+<ul class="simple">
+<li><p>The scope of the research purpose that LPS data can be used for. Ideally LPS data are used for a range of research purposes (which could extend from including any public good research to being limited to a specific hypothesis or theme of research).</p></li>
+<li><p>A national Trusted Research Environment(s) is used to enable this linkage in a secure manner (named UK Longitudinal Linkage Collaboration) along with the NHS and national statistics agencies whose role it is to provide access to participants’ records for research purposes.</p></li>
+<li><p>Approved research users, beyond your LPS study team, can apply to access de-identified data within the TRE.</p></li>
+<li><p>That participants have the right to opt-out and to provide details/signpost how to do this.</p></li>
+</ul>
+</section>
+<section id="how-should-i-communicate-with-participants">
+<h2>How should I communicate with participants?<a class="headerlink" href="#how-should-i-communicate-with-participants" title="Link to this heading">#</a></h2>
+<p><strong>Method:</strong></p>
+<ul class="simple">
+<li><p>Communications should be made through an ‘active campaign’ i.e. sent by Longitudinal Population Studies (LPS) to all participants, this is often achieved through newsletters or letters sent either electronically or mailed out to all participants which must provide a means to object (LPS may choose to seek specific opt-in consent)..</p></li>
+<li><p>The privacy notices are an opportunity to provide very detailed information for participants (and other stakeholders) who wish to understand this level of detail. UK GDPR requires LPS to issue privacy notices providing fair processing. It should be stressed that while all materials and other communications with participants constitute fair processing, there is a separate need to provide a privacy notice. The Information Commissioner’s Office (ICO) has produced <a class="reference external" href="https://ico.org.uk/for-organisations/advice-for-small-organisations/how-to-write-a-privacy-notice-and-what-goes-in-it/">guidance</a> describing what information should be included. Updates can be provided via social media channels and this is particularly effective at alerting participants to change and promoting new research use and outcomes.</p></li>
+<li><p>UK LLC recommend multi-media approaches, as some people prefer image/graphic based information. UK LLC have co-developed multimedia content with public contributors to support this.</p></li>
+<li><p>LPS must consider equality/accessibility when determining whether to use electronic and postal mechanisms and while an electronic-only approach may be suitable in some LPS, for most a choice of physical media (i.e. postal materials) and electronic media should be offered</p></li>
+<li><p>Reasonable adjustments should be made to accommodate participants’ specific needs (e.g., large print media or audio versions).</p></li>
+</ul>
+<p><strong>Language:</strong></p>
+<ul class="simple">
+<li><p>You should use the language that is suited to your LPS and your sample. There is no fixed wording however examples can be found under <a class="reference external" href="https://resourcehub.ukllc.ac.uk/examples%20of%20lps%20communications%20about%20uk%20llc#">UK LLC’s templates</a>.</p></li>
+<li><p>Existing information should be up to date (e.g. privacy notices), and participant information sheets should reflect any changes. New stories should be added to existing media - e.g. website updates, social media, newsflashes or blogs should be updated where possible to alert participants to changes and to keep ‘consent’ a live topic.</p></li>
+</ul>
+</section>
+<section id="do-i-need-public-participant-involvement">
+<h2>Do I need public/participant involvement?<a class="headerlink" href="#do-i-need-public-participant-involvement" title="Link to this heading">#</a></h2>
+<p>UK LLC are firm believers in the importance of rigorous and meaningful public/participant involvement and we run a substantial co-development programme. However, we recognise that not all studies are resourced to have a similar programme and therefore a proportion of our activity is geared to providing studies with co-developed materials.</p>
+<p>Data Owners and regulators are increasingly   insisting that LPS include participants and public contributors in understanding what is needed to help ensure there are ‘no surprises’ around data use and to co-develop fair processing materials. LPS using Section 251 must involve participants and/or the public – including gaining feedback on the acceptability of the collaboration with UK LLC, whether existing fair processing is sufficient and co-developing new fair processing – to gain/maintain Health Research Authority (HRA)<a class="reference external" href="https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/#:~:text=The%20Confidentiality%20Advisory%20Group%20%28CAG%29%20is%20an%20independent,the%20Health%20Research%20Authority%20%28HRA%29%20for%20research%20uses."> Confidentiality Advisory Group (CAG)</a> approval.</p>
+<p>Where an LPS has gained  approval to use identifiable data without consent under ‘Section 251’ provisions and following review by the Health Research Authority’s Confidentiality Advisory Group then it is considered essential (as a requirement of the HRA CAG) that the fair processing materials and communication methods are co-developed by LPS Patient and Public Involvement and Engagement (PPIE) groups.</p>
+<p>If it is not possible to consult LPS-specific PPIE groups, please contact <a href="mailto: info@ukllc.ac.uk">info&#64;ukllc.ac.uk</a> to discuss.
+<img alt="Public Contributors" src="_images/public_contributors2.jpg" /></p>
+<blockquote>
+<div><p><a class="reference external" href="https://ukllc.ac.uk/faq">FAQs</a> about UK LLC</p>
+</div></blockquote>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -469,15 +778,15 @@ detail.</p>
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Consent and Legal Basis</p>
+        <p class="prev-next-title">Background information</p>
       </div>
     </a>
     <a class="right-next"
-       href="Key%20messages%20in%20active%20communications.html"
+       href="Guidance%20materials.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Key Messages in Active Communications</p>
+        <p class="prev-next-title">UK LLC’s downloadable communication materials</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -487,6 +796,28 @@ detail.</p>
             </div>
             
             
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#good-practice-when-developing-active-communication-materials">Good practice when developing active communication materials</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fair-processing-principles">Fair Processing Principles</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-do-you-need-to-conduct-fair-processing">Why do you need to conduct fair processing?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-should-your-fair-processing-cover">What should your fair processing cover?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-should-i-communicate-with-participants">How should I communicate with participants?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#do-i-need-public-participant-involvement">Do I need public/participant involvement?</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
@@ -514,7 +845,10 @@ By UK LLC Operations team
   <div class="footer-item">
     
 <div class="extra_footer">
-  The UK LLC Resource Hub and materials are available publicly under <a href="https://github.com/UKLLC/licencing">open source licenses</a>
+  The UK LLC Resource Hub and materials are available publicly under
+<a href="https://github.com/UKLLC/licencing" target="_blank" rel="noopener noreferrer">
+  open source licences
+</a>
 
 </div>
   </div>
@@ -528,8 +862,8 @@ By UK LLC Operations team
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

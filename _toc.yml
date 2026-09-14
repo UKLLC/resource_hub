@@ -8,13 +8,13 @@ parts:
       - file: Consent and legal basis.md  
         title: Background information
       - file: Fair processing communication method.md
-        title: DO's and DON'Ts
+        title: Good practice, Myths & Misconceptions
       - file: Guidance materials.md
         title: UK LLC’s downloadable communication materials
       - file: Examples of LPS Communications about UK LLC.md
         title: UK LLC’s templates to develop your own communications
       - file: Data flow diagrams.md
-        title: Partnering with UK LLC 
+        title: UK LLC data processing information 
       - file: REC.md
         title: Updating your ethics
       - file: CAG.md

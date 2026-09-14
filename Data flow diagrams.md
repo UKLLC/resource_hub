@@ -1,8 +1,8 @@
-# Partnering with UK LLC 
+# UK LLC data processing information 
 
->Last modified: 12 Aug 2026
+>Last modified: 11 Sep 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
-This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data.</div>
+This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data. This is intended for studies who are onboarding as UK LLC partners, or considering doing so.</div>
 
 #### Text about UK LLC  
 
@@ -19,15 +19,17 @@ This section provides information about partnering with UK LLC including, data f
 <details>
   <summary>Aims of UK LLC</summary>
 
->The UK LLC is a ‘Trusted Research Environment’ (otherwise known as a ‘Secure Data Environment’), designed to link study data from major inter-disciplinary UK LPS participants, to a wide range of participants’ health and non-health records and other sources. The Trusted Research Environment is a set of technical and governance safeguards designed to protect data during research. Only de-identified data is held in the UK LLC, researchers can access data in the TRE but cannot remove it or take copies, participant's data never leave the TRE, all users are thoroughly checked and accredited before access is provided under contract and must also sign a user agreement. The UK LLC TRE has public contributors involved across its design and operations, and is subject to independent audits by ethics panels, security experts and government auditors.
+>The UK LLC is a ‘Trusted Research Environment’ (otherwise known as a ‘Secure Data Environment’), designed to link study data from major inter-disciplinary UK LPS participants, to a wide range of participants’ health and non-health records and other sources. The Trusted Research Environment is a set of technical and governance safeguards designed to protect data during research. Only de-identified data is held in the UK LLC, researchers can access data in the TRE but cannot remove it or take copies, participant’s data never leave the TRE, all users are thoroughly checked and accredited before access is provided under contract and must also sign a user agreement. The UK LLC TRE has public contributors involved across its design and operations, and is subject to independent audits by ethics panels, security experts and government auditors.
 > 
->**The UK LLC has adopted the Five Safe’s principles:**
+>**The UK LLC has adopted the Five Safe’s fraemework:**
 > * Safe data: data are de-identified to protect any confidentiality concerns. 
 > * Safe projects: research projects are approved by UK LLC and each LPS and must be for the public good. 
 > * Safe people: researchers using the UK LLC are trained and authorised to use data safely. 
 > * Safe settings: the UK LLC TRE environment prevents unauthorised use. 
 > * Safe outputs: screened and approved outputs that are non-disclosive. 
 >
+![alt text](image-7.png)
+
 > The integrated data, infrastructure and accompanying governance aspects is collectively known as the UK LLC. 
 > 
 > The primary aim of the UK LLC is (1) to centrally facilitate the research programmes of all contributing studies (and those seeking to join). This includes studies which already operate as generic research databases and those which have a defined research theme which has been communicated with participants; and, (2) to provide an efficient access route to approved research users via mechanisms which uphold participants’ rights and expectations. 
@@ -74,14 +76,6 @@ This section provides information about partnering with UK LLC including, data f
 owners: Department for Work and Pensions (DWP), HM Revenue 
 and Customs (HMRC) and Department for Education (DfE))
 </details>
-
-
-<details>
-  <summary>UK LLC Confidentiality Due Diligence Panel</summary>
-
-  >UK LLC conducts an NHS England approved due diligence review of each LPS’ legal basis. The UK LLC Confidentiality Due Diligence Panel includes senior sponsor representation (ethics, governance and legal data protection leads) from the University of Bristol and public contributors. The Panel advises whether each LPS has established a basis for addressing their Common Law Duty of Confidentiality appropriately and ensured compliance with the principle of ‘no surprises’. The Panel reviews each LPS’ consent materials (consent forms and participant information sheets) to identify if there are any statements that either limit or introduce ambiguity into the scope of an LPS’ proposed data processing. Evidence from this process is provided to data owners (e.g. NHS England, Office for National Statistics) for their records and due diligence purposes.  The minutes from the panel are published on the [UK LLC Website](https://ukllc.ac.uk/how-we-work)
-</details>
-
 
 
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC

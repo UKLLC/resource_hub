@@ -1,16 +1,81 @@
-# Data Flow Diagrams
+# UK LLC data processing information 
 
->Last modified: 24 Sep 2024
+>Last modified: 11 Sep 2026
+<div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
+This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data. This is intended for studies who are onboarding as UK LLC partners, or considering doing so.</div>
 
-![Data Flow Diagram](_static/DataFlows1.png)
-**Figure1:** Overview of data flow from Data Owner National Health Service (NHS).
+#### Text about UK LLC  
 
-![Data Flow Diagram](_static/DataFlows2.png)
-**Figure 2:** Overview of data flow from address or postcode to Geospatial 
-data
+<details>
+  <summary>UK LLC summary text</summary>
 
-![Data Flow Diagram](_static/DataFlows3.png)
-**Figure 3:** Overview of indicative dataflow of ONS held datasets (Data 
+>UK Longitudinal Linkage Collaboration (UK LLC) is the national Trusted Research Environment (TRE) for the UK’s longitudinal research community. UK LLC collaborates with and supports Longitudinal Population Studies (LPS) by providing record linkage and TRE services; and supports the research community by providing external researchers with secure access to a research database of integrated data. 
+>
+>The purpose of the UK LLC Research Database is to host and process de-identified data from many UK Longitudinal Population Studies and to manage the linkage and integration of these data, across 4 nations. Longitudinal Population Studies are studies that follow the lives of participant volunteers over time; often over whole lifetimes and generations of families. Data collected include biological samples, genomic data and in-depth and self-reported measures of health and wellbeing. LPS therefore provide unique insights into population health, behaviours and wellbeing. 
+>
+>The scientific opportunities of LPS are enhanced when participants’ data are collated and linked to their health and administrative data (e.g. education, employment, tax and benefits records) and environmental exposure data, and made available to authorised researchers to access via a single application process with distributive review to data owners. This provides a valued and unique resource for UK-based researchers and policy makers. Through this collaboration, LPS review each application for their linked-data and remain the decision-makers on whether to grant access.
+</details>
+
+<details>
+  <summary>Aims of UK LLC</summary>
+
+>The UK LLC is a ‘Trusted Research Environment’ (otherwise known as a ‘Secure Data Environment’), designed to link study data from major inter-disciplinary UK LPS participants, to a wide range of participants’ health and non-health records and other sources. The Trusted Research Environment is a set of technical and governance safeguards designed to protect data during research. Only de-identified data is held in the UK LLC, researchers can access data in the TRE but cannot remove it or take copies, participant’s data never leave the TRE, all users are thoroughly checked and accredited before access is provided under contract and must also sign a user agreement. The UK LLC TRE has public contributors involved across its design and operations, and is subject to independent audits by ethics panels, security experts and government auditors.
+> 
+>**The UK LLC has adopted the Five Safe’s fraemework:**
+> * Safe data: data are de-identified to protect any confidentiality concerns. 
+> * Safe projects: research projects are approved by UK LLC and each LPS and must be for the public good. 
+> * Safe people: researchers using the UK LLC are trained and authorised to use data safely. 
+> * Safe settings: the UK LLC TRE environment prevents unauthorised use. 
+> * Safe outputs: screened and approved outputs that are non-disclosive. 
+>
+![alt text](image-7.png)
+
+> The integrated data, infrastructure and accompanying governance aspects is collectively known as the UK LLC. 
+> 
+> The primary aim of the UK LLC is (1) to centrally facilitate the research programmes of all contributing studies (and those seeking to join). This includes studies which already operate as generic research databases and those which have a defined research theme which has been communicated with participants; and, (2) to provide an efficient access route to approved research users via mechanisms which uphold participants’ rights and expectations. 
+</details>
+
+<details>
+  <summary>Data processing methodology</summary>
+
+>A ‘split-file’ anonymisation process developed by Swansea University for the SAIL Databank is used to securely transfer all datasets from contributing LPS into the UK LLC TRE. In this methodology, the LPS data are split by LPS data managers into a file of personal identifiers and an externally meaningless ‘Link ID’ (File 1). Separately, the attribute data are de-identified (direct and pseudo identifiers are either dropped or transformed into less identifiable research variables) and indexed using the same ‘Link ID’ as the File 1 – this is called a File 2. 
+>
+>Importantly, this process restricts the handling and management of LPS participants’ personal identifiers to the contributing LPS, Digital Health and Care Wales (DHCW) (the UK LLC’s trusted third party/linkage broker) and the linked data owners and contracted geo-data modellers (including University of Leicester/City St George’s, University of London). This means no one party or organisation can see personal identifiers and participant data. Data integration and management is conducted by a dedicated UK LLC Data Team within the UK LLC TRE. 
+>
+>For more information on the UK LLC data processing methodology including the split file approach and linkage process, please refer to the [UK LLC Protocol](https://doi.org/10.5281/zenodo.10868638)
+</details>
+
+#### Data flow diagrams
+
+<details>
+  <summary>Overview</summary>
+
+![Data Flow Diagram](_static/split_file.jpg)
+[**Figure 1**](_static/split_file.jpg) A high level overview of the data processing methodology used to flow data into the UK LLC TRE.
+</details>
+
+<details>
+  <summary>Health record linkage</summary>
+
+![Data Flow Diagram](_static/NHS_data.jpg)
+[**Figure 2**](_static/NHS_data.jpg) Overview of data flow from data owner, National Health Service (NHS).
+</details>
+
+<details>
+  <summary>Place-based data linkage</summary>
+
+![Data Flow Diagram](_static/place_based_data_flow.jpg)
+[**Figure 3**](_static/place_based_data_flow.jpg) Overview of data flow for place-based data linkage.
+</details>
+
+<details>
+  <summary>Administrative record linkage</summary>
+
+![Data Flow Diagram](_static/DataFlows1.jpg)
+[**Figure 4**](_static/DataFlows1.jpg) Overview of indicative dataflow of ONS held datasets (Data 
 owners: Department for Work and Pensions (DWP), HM Revenue 
 and Customs (HMRC) and Department for Education (DfE))
+</details>
 
+
+> [FAQs](https://ukllc.ac.uk/faq) about UK LLC
