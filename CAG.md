@@ -24,8 +24,8 @@ The HRA [Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/c
 CAG can recommend that Longitudinal Population Studies (LPS) utilise Section 251 where consent is not practicable and frequently on the condition that: 
 
 * LPS contact their own Patient and Public Involvement and Engagement (PPIE) activity to understand and accommodate participant expectations. 
-* •	LPS do all that is practical to contact participants, providing fair processing information stating the intended data use and a clear means to object. 
-* •	LPS send regular updates about how health records are used and remind participants how to object. 
+* LPS do all that is practical to contact participants, providing fair processing information stating the intended data use and a clear means to object. 
+* LPS send regular updates about how health records are used and remind participants how to object. 
 * 'NHS National Data Opt-Outs’ are honoured – this is a national scheme in England and Wales which allows members of the public to stop their data being used for research unless explicit consent is in place. 
 
 Research applications for HRA CAG should be prepared on the [Integrated Research Application System (IRAS).](https://www.myresearchproject.org.uk/SignIn.aspx)
