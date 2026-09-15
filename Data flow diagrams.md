@@ -1,6 +1,6 @@
 # UK LLC data processing information 
 
->Last modified: 11 Sep 2026
+>Last modified: 15 Sep 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section provides information about partnering with UK LLC including, data flow diagrams and detailed sample text relating to UK LLC's processing of data. This is intended for studies who are onboarding as UK LLC partners, or considering doing so.</div>
 
@@ -32,7 +32,9 @@ This section provides information about partnering with UK LLC including, data f
 
 > The integrated data, infrastructure and accompanying governance aspects is collectively known as the UK LLC. 
 > 
-> The primary aim of the UK LLC is (1) to centrally facilitate the research programmes of all contributing studies (and those seeking to join). This includes studies which already operate as generic research databases and those which have a defined research theme which has been communicated with participants; and, (2) to provide an efficient access route to approved research users via mechanisms which uphold participants’ rights and expectations. 
+> The primary aims of UK LLC are:  
+> (1) to centrally facilitate the research programmes of all contributing studies (and those seeking to join). This includes studies which already operate as generic research databases and those which have a defined research theme which has been communicated with participants; and,   
+>(2) to provide an efficient access route to approved research users via mechanisms which uphold participants’ rights and expectations. 
 </details>
 
 <details>

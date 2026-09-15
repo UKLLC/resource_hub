@@ -1,7 +1,7 @@
-# Confidentiality Advisory Group (CAG) Guidance
->Last modified: 14 Sep 2026
+# Health Research Authority (HRA) Confidentiality Advisory Group (CAG): Guidance for longitudinal studies working with UK LLC 
+>Last modified: 15 Sep 2026
 <div style="background-color:rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
-This section provides information on when you should make a CAG application, or amendment and guidance on how to do so. This guidance is intended for any Longitudinal Population Study (LPS) considering pursuing Section 251 or making an amendment to an already existing approval.</div>
+This section provides information on when you should make a CAG application, or amendment, and guidance on how to do so. This guidance is intended as context-specific informationany Longitudinal Population Study (LPS) working with UK LLC and considering pursuing Section 251 or making an amendment to an already existing approval. This guidance may also have wider relevance to other longitudinal studies but is not intended to replace the guidance supplied by HRA CAG.</div>
 
 Longitudinal studies can take advantage of “Section 251” legal mechanisms to use identifiable patient information without explicit consent. In this scenario Section 251 allows studies to set aside the duty of confidentiality. This approach is typically taken in two scenarios:  
 1)	Longitudinal studies seeking contact details to establish a sampling frame to invite participants to take part in a new longitudinal study (or a new “boost sample” to an existing study);
@@ -14,21 +14,19 @@ Some longitudinal studies inclusion in UK LLC is based on Section 251 approval, 
 •	Studies that have stopped participant engagement, yet participants remain alive (with/without mental capacity);  
 •	Studies where participants are all/mainly deceased.  
 
-This section provides information on when you should make a CAG application, or amendment, and guidance on how to do so. This guidance is intended as context-specific informationany Longitudinal Population Study (LPS) working with UK LLC and considering pursuing Section 251 or making an amendment to an already existing approval. This guidance may also have wider relevance to other longitudinal studies but is not intended to replace the guidance supplied by HRA CAG.
-
 > We note that the legislation enabling Section 251 is specific to England and Wales only. The use of NHS records without consent in Scotland takes a different approach (see the [PBPP guidance](https://ecrusad.co.uk/2020/05/21/course-round-up-the-whys-and-hows-of-applying-to-pbpp/#top-tips)). A similar mechanism to Section 251 is being developed in Northern Ireland, but is not yet fully operational.
 
 
 #### Introduction to CAG applications:
 
-The [Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/) advises on both research and non-research uses of confidential patient information without consent. 
+The HRA [Confidentiality Advisory Group (CAG)](https://www.hra.nhs.uk/about-us/committees-and-services/confidentiality-advisory-group/) advises on both research and non-research uses of confidential patient information without consent. 
 
 CAG can recommend that Longitudinal Population Studies (LPS) utilise Section 251 where consent is not practicable and frequently on the condition that: 
 
 * LPS contact their own Patient and Public Involvement and Engagement (PPIE) activity to understand and accommodate participant expectations. 
 * •	LPS do all that is practical to contact participants, providing fair processing information stating the intended data use and a clear means to object. 
 * •	LPS send regular updates about how health records are used and remind participants how to object. 
-* 'NHS National Data Opt Outs’ are honoured – this is a national scheme in England and Wales which allows members of the public to stop their data being used for research unless explicit consent is in place. 
+* 'NHS National Data Opt-Outs’ are honoured – this is a national scheme in England and Wales which allows members of the public to stop their data being used for research unless explicit consent is in place. 
 
 Research applications for HRA CAG should be prepared on the [Integrated Research Application System (IRAS).](https://www.myresearchproject.org.uk/SignIn.aspx)
 
@@ -75,7 +73,7 @@ The primary aims of the UK LLC are:
 
 > **Reproducible text to be used in CAG application questions relating to the collection of data and how it will be used for research, the systems in place to ensure the confidentiality of personal data, or how identifiers are held and processed:**
 >
-> We would like to deposit <mark>[STUDY NAME</mark> data into a Trusted Research Environment managed by the UK LLC at the University of Bristol. The UK LLC is a national research infrastructure initiative funded primarily by UK government via the research funding councils (UK Research and Innovation). UK LLC’s aim is to support longitudinal research by collating information from cohort studies across the UK, including research study data and electronic health records. <mark>[STUDY NAME]</mark> would join the UK LLC by depositing relevant de-identified study data from the <mark>[STUDY NAME]</mark> research database into the University of Bristol’s Trusted Research Environment (hosted by the University of Swansea, who provide a UK LLC with a UK Secure e-Research Platform secure compute environment as a Data Processor to UK LLC. This environment is ISO27001 accredited). This information will be sent alongside a study ID to enable future deposits of study data to be linked together. 
+> We would like to deposit <mark>[STUDY NAME</mark> data into a Trusted Research Environment managed by UK LLC at the University of Bristol. UK LLC is a national research infrastructure initiative funded primarily by UK government via the research funding councils (UK Research and Innovation). UK LLC’s aim is to support longitudinal research by collating information from cohort studies across the UK, including research study data and electronic health records. <mark>[STUDY NAME]</mark> would join the UK LLC by depositing relevant de-identified study data from the <mark>[STUDY NAME]</mark> research database into the University of Bristol’s Trusted Research Environment (hosted by the University of Swansea, who provide a UK LLC with a UK Secure e-Research Platform secure compute environment as a Data Processor to UK LLC. This environment is ISO27001 accredited). This information will be sent alongside a study ID to enable future deposits of study data to be linked together. 
 >
 >It is at the discretion of <mark>[STUDY NAME]</mark> to decide which of their data to deposit, and data will be deposited on a project-by-project basis. These data transfers will be governed by a Data Deposit Contract between the <mark>[DATA OWNERS]</mark> and the University of Bristol (Data Controllers for UK LLC).  
 >
@@ -89,7 +87,7 @@ The primary aims of the UK LLC are:
 
 It is a requirement of the Regulations that an application cannot be inconsistent with the principles of the General Data Protection Regulation and Data Protection Act 2018 (GDPR/DPA). The first principle of the DPA requires that reasonable efforts are made to inform data subjects of the use of their data.  
 
-UK LLC guidance to update participant information materials (websites, leaflets, posters etc.) can be found on the [UK LLC Resource Hub](https://resourcehub.ukllc.ac.uk/intro.html) templates to develop your own communications. 
+UK LLC guidance to update participant information materials (websites, leaflets, posters etc.) can be found on the [UK LLC Resource Hub](https://resourcehub.ukllc.ac.uk/examples%20of%20lps%20communications%20about%20uk%20llc) templates to develop your own communications. 
 * You can submit the above UK LLC specific fair processing materials as part of your CAG application. 
 
 > [FAQs](https://ukllc.ac.uk/faq) about UK LLC 

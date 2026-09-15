@@ -1,9 +1,10 @@
 # UK LLC’s downloadable communication materials
-> Last modified: 14 Sep 2026
+> Last modified: 15 Sep 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 This section contains UK LLC's downloadable communication materials that support fair processing for record linkage. This page is intended for anyone in the LPS community who wishes to understand more about UK LLC.</div>
 <br>
-These materials are communications to address the  research purpose of UK LLC and key aspects of relevant data law for participants. They encompass all data we are currently (in the process of) linking to. 
+
+These materials are communications to address the  research purpose of UK LLC and key aspects of relevant data law for participants. They encompass all data we are currently (in the process of) linking to.
 
 Please select content appropriately depending on permissions within your LPS.
 
@@ -12,7 +13,7 @@ These guidance materials for fair processing for record-linkage are designed for
 
 | Title and Link | Description |
 |----------------|-------------|
-| [Animation Overview UK LLC](https://www.youtube.com/watch?v=QfyaG3zemcs) | Details the broad public benefit research purpose (beyond COVID-19) and linkage to administrative records. |
+| [Animation Overview UK LLC](https://www.youtube.com/watch?v=QfyaG3zemcs) | Details the broad public benefit research purpose and linkage to place based and administrative records. |
 | [Animation: ‘How We Link Data’ - Health and Non-Health UKLLC](https://www.youtube.com/watch?v=FXnHc8R3UW0) | Details the split file process through to data being held in UK LLC Trusted Research Environment. |
 | [Animation: What Does My Health Data Look Like?](https://www.youtube.com/watch?v=3G-Izntuuao) | Details what health data looks like to a researcher or data analyst working in UK LLCs Trusted Research Environment?
 | [Animation: What is place based data and how can it be used for research?](https://www.youtube.com/watch?v=C8xBwxk0jNM) | Learn about place-based data and how it can help your research. Place based-data is information about the homes and the surrounding environment in which people live. These data can be useful for research, especially when linked with other information about people's lives gathered over time.

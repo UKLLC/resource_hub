@@ -1,5 +1,5 @@
 # Introduction
->Last modified: 14 Sep 2026
+>Last modified: 15 Sep 2026
 <div style="background-color:rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
 We thank all the Longitudinal Population Study (LPS) teams, data owners and regulators for all their contributions to the Resource Hub. We fully acknowledge the existing body of good practice and expertise in the participants' community within LPS. These materials are based on the community’s collective efforts and expertise, and are intended for anyone in the LPS community.</div>
 
@@ -11,7 +11,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
 </aside>
 
   1. Background information to aid understanding of legal basis.
-  2. ‘DO’s and DON'Ts’ when developing active communication materials.
+  2. Good practice, Myths and Misconceptions.
   3. UK LLC’s downloadable communication materials.
   4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
   5. UK LLC data processing information (data flow diagrams and designing consent materials).
@@ -41,7 +41,7 @@ The following important limitations apply:
 UK LLC is very happy to review draft materials (send to <a href="mailto: info@ukllc.ac.uk">info@ukllc.ac.uk</a>). We strongly recommend that the content and method of communications should be developed in collaboration with your Patient and Public Involvement and Engagement (PPIE) representatives or via other means of public co-development. 
 #### Where can I find further guidance? 
 
-* The Health Research Authority (HRA) have developed [detailed guidance](https://myresearchproject.org.uk/crirasguide/gettingstarted.html) for using The [Integrated Research Application System (IRAS)](https://www.myresearchproject.org.uk/help/hlphraapproval.aspx) which is a single system for applying for the permissions and approvals for health and social care/community care research in the UK. It captures the information needed for the relevant approvals from many review bodies including: 
+* The Health Research Authority (HRA) have developed [detailed guidance](https://www.myresearchproject.org.uk/help/hlphraapproval.aspx) for using the [Integrated Research Application System (IRAS)](https://myresearchproject.org.uk/crirasguide/gettingstarted.html) which is a single system for applying for the permissions and approvals for health and social care/community care research in the UK. It captures the information needed for the relevant approvals from many review bodies including: 
  
     - Confidentiality Advisory Group (CAG) 
 
@@ -50,7 +50,7 @@ UK LLC is very happy to review draft materials (send to <a href="mailto: info@uk
     - The Medical Research Council can provide support via the [MRC Centre for Research Policy - UKRI](https://www.ukri.org/councils/mrc/facilities-and-resources/find-an-mrc-facility-or-resource/mrc-centre-for-research-policy/). They have developed specific guidance materials on [Identifiability, anonymisation and pseudonymisation](https://www.ukri.org/publications/gdpr-best-practice-for-keeping-data-anonymous/) and [Consent and Participant Information Guidance](http://www.hra-decisiontools.org.uk/consent/). 
 
 
-* You will need to register for the [NHS Data Security and Protection Toolkit (DSPT) Toolkit](https://www.dsptoolkit.nhs.uk/). It is recommended that you contact your host organisation’s Information Governance department in the first instance because it is likely they will have a NHS DSPT already and you will probably find that you share a significant proportion of their facilities, particularly IT, cyber-security and infrastructure. 
+* You will need to register for the [NHS Data Security and Protection Toolkit (DSPT) Toolkit](https://www.dsptoolkit.nhs.uk/). It is recommended that you contact your host organisation’s Information Governance department in the first instance because it is likely they will have an NHS DSPT already and you will probably find that you share a significant proportion of their facilities, particularly IT, cyber-security and infrastructure. 
 
 
 * The application to NHS England for the health records is done via their DARS and comprehensive guidance is available at [Data Access Request Service (DARS)](https://digital.nhs.uk/services/data-access-request-service-dars/guidance-to-support-your-dars-application) - NHS England. Security assurances for confidential patient information generated within Wales are provided by either a Caldicott Principles in Practice (CPiP) Report or a completed [Welsh Information Governance Toolkit](https://dhcw.nhs.wales/ig/information-governance/welsh-information-governance-toolkit/). An approval letter from the [Public Benefit and Privacy Panel (PBPP)](https://www.informationgovernance.scot.nhs.uk/pbpphsc/), where processing is taking place in Scotland, is accepted as evidence of adequate security assurance for organisations in Scotland. 
