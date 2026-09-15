@@ -1,9 +1,8 @@
 # Good practice, Myths & Misconceptions
 >Last modified: 15 Sep 2026
 <div style="background-color: rgba(196, 214, 0, 0.8); padding: 10px; border-radius: 5px;">
-This section covers our examples of good practice developed by partner studies and by UK LLC with our public/participant contributors. It also seeks to address common myths & misconceptions to consider when developing communication materials. </div>
+This section covers our examples of good practice developed by partner studies and by UK LLC with our public/participant contributors. It also seeks to address common myths & misconceptions to consider when developing communication materials. This section also describes what “fair processing” is, why you need to conduct it, and the different approaches to designing fair processing communication methods.  This page is intended for communications teams at LPS’ that are onboarding with UK LLC to ensure their participant materials are clear as to how they will work with UK LLC. </div>
 
-This section also describes what “fair processing” is, why you need to conduct it, and the different approaches to designing fair processing communication methods.  This page is intended for communications teams at LPS’ that are onboarding with UK LLC to ensure their participant materials are clear as to how they will work with UK LLC.
 
 To understand the legal and ethical background to fair processing please see our [background information](https://resourcehub.ukllc.ac.uk/consent%20and%20legal%20basis) page.
 
