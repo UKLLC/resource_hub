@@ -103,7 +103,7 @@ These guidance materials for fair processing for record-linkage are designed for
 
 | Title and Link |Topic |Description |
 |----------------|------|------------|
-| [Understanding Longitudinal Population Study Data](_static/Infographic_Digital_Economy_Act_Welsh_UKLLCv1_MED-COM-046.pdf) |Legal overview |A summary of the laws and legal principles related to study participant data. |
+| [Understanding Longitudinal Population Study Data](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/a/708/files/2024/11/Infographic_Summary_Welsh_UKLLCv1_MED-COM-044-1.pdf) |Legal overview |A summary of the laws and legal principles related to study participant data. |
 | [Common Law Duty of Confidentiality](_static/Infographic_Common_Law_Duty_of_Confidentiality_Welsh_UKLLCv1_MED-COM-045.pdf) |Legal |A summary of the legal principle of Common Law Duty of Confidentiality. |
 | [Digital Economy Act](_static/Infographic_Digital_Economy_Act_Welsh_UKLLCv1_MED-COM-046.pdf) |Legal |A summary of the Digital Economy Act. |
 | [UK Data Protection Laws](_static/Infographic_UK_Data_Protection_Laws_Welsh_UKLLCv1_MED-COM-047.pdf) | Legal|A summary of the UK Data Protection Laws. |
