@@ -16,7 +16,7 @@ We thank all the Longitudinal Population Study (LPS) teams, data owners and regu
   4. UK LLC’s templates to develop your own communications (newsletters, privacy notices, website updates).
   5. UK LLC data processing information (data flow diagrams and designing consent materials).
   6. Updating your ethics.
-  7. CAG applications and amendments
+  7. Health Research Authority (HRA) Confidentiality Advisory Group (CAG): Guidance for longitudinal studies working with UK LLC.
 
 #### Why this guidance is useful: 
 
