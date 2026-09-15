@@ -18,8 +18,7 @@ parts:
       - file: REC.md
         title: Updating your ethics
       - file: CAG.md
-        title: CAG applications and amendments
-
+        title: Health Research Authority (HRA) Confidentiality Advisory Group (CAG): Guidance for longitudinal studies working with UK LLC
 
 
 
